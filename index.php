@@ -1,389 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <!-- Required meta tags-->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Tatee Theme Templates">
-    <meta name="author" content="AuCreative">
-    <meta name="keywords" content="Tatee Theme Templates">
-
-    <!-- Title Page-->
-    <title>Main Home</title>
-
-    <!-- Icons font CSS-->
-    <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
-    <link href="vendor/font-awesome-5/css/fontawesome-all.min.css" rel="stylesheet" media="all">
-    <link href="vendor/themify-font/themify-icons.css" rel="stylesheet" media="all">
-    <!-- Base fonts of theme-->
-    <link href="css/poppins-font.min.css" rel="stylesheet" media="all">
-    <!-- Font special for pages-->
-
-    <!-- Bootstrap CSS-->
-    <link href="vendor/bootstrap-4.1/bootstrap.min.css" rel="stylesheet" media="all">
-
-    <!-- Vendor CSS-->
-    <link href="vendor/animate.css/animate.min.css" rel="stylesheet" media="all">
-    <link href="vendor/css-hamburgers/hamburgers.min.css" rel="stylesheet" media="all">
-    <link href="vendor/animsition/animsition.min.css" rel="stylesheet" media="all">
-    <link href="vendor/slick/slick.css" rel="stylesheet" media="all">
-    <link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
-    <link href="vendor/revolution/css/layers.css" rel="stylesheet" />
-    <link href="vendor/revolution/css/navigation.css" rel="stylesheet" />
-    <link href="vendor/revolution/css/settings.css" rel="stylesheet" />
-
-    <!-- Main CSS-->
-    <link href="css/main.min.css" rel="stylesheet" media="all">
-
-    <!--Favicons-->
-    <link rel="shortcut icon" href="images/icon/favicon.jpg">
-    <link rel="apple-touch-icon" href="apple-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
-</head>
+        <?php
+            include './shared/header.php'
+        ?>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
         <!-- HEADER-->
-        <header id="header">
-            <div class="header header-1 d-none d-lg-block js-header-1">
-                <div class="header__bar">
-                    <div class="wrap wrap--w1790">
-                        <div class="container-fluid">
-                            <div class="header__content">
-                                <div class="logo">
-                                    <a href="#">
-                                        <img src="images/icon/logo-black.png" alt="Tatee" />
-                                    </a>
-                                </div>
-                                <div class="header__content-right">
-                                    <nav class="header-nav-menu">
-                                        <ul class="menu nav-menu">
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="home-main.html">Home</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="home-main.html">Main home</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-project-hover.html">Project Hover</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-vertical-slide.html">Vertical Slider</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-vertical-slide-video-background.html">Vertical Slider (Video Background)</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-onepage.html">Onepage</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-onepage-video-background.html">Onepage (Video Background)</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-revo-slide.html">Revolution Slider</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-revo-slide-video-background.html">Revolution Slider (Video Background)</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-project-showcase.html">Project Showcase</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-masonry-project.html">Masonry Project</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="home-creative-showcase.html">Creative Showcase</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="index.html">Landing</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="about-us.html">about</a>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="project-grid-full.html">Project</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="project-grid-full.html">Project grid fullwidth</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="project-grid-stand.html">Project Grid Standard</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="project-masonry.html">Project masonry</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="project-carousel.html">Project carousel</a>
-                                                    </li>
-                                                    <li class="menu-item menu-item-has-children">
-                                                        <a href="project-detail-1.html">Project detail</a>
-                                                        <ul class="sub-menu">
-                                                            <li class="menu-item">
-                                                                <a href="project-detail-1.html">Project detail v1</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="project-detail-2.html">Project detail v2</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="project-detail-3.html">Project detail v3</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="project-detail-4.html">Project detail v4</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="my-account.html">pages</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="my-account.html">my account</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="shop.html">shop</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="product-detail.html">product detail</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="cart.html">cart</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="checkout.html">checkout</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="coming-soon.html">coming soon</a>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item menu-item-has-children">
-                                                <a href="blog-grid.html">blog</a>
-                                                <ul class="sub-menu">
-                                                    <li class="menu-item">
-                                                        <a href="blog-grid.html">blog grid</a>
-                                                    </li>
-                                                    <li class="menu-item">
-                                                        <a href="blog-sidebar.html">blog with sidebar</a>
-                                                    </li>
-                                                    <li class="menu-item menu-item-has-children">
-                                                        <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                                        <ul class="sub-menu sub-menu--left">
-                                                            <li class="menu-item">
-                                                                <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="blog-detail-img.html">blog detail image</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="blog-detail-gallery.html">blog detail gallery</a>
-                                                            </li>
-                                                            <li class="menu-item">
-                                                                <a href="blog-detail-video.html">blog detail video</a>
-                                                            </li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="contact.html">contact</a>
-                                            </li>
-                                        </ul>
-                                    </nav>
-                                    <div class="header-social">
-                                        <ul class="list-social">
-                                            <li class="list-social__item">
-                                                <a class="ic-fb" href="#">
-                                                    <i class="zmdi zmdi-facebook"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-insta" href="#">
-                                                    <i class="zmdi zmdi-instagram"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-twi" href="#">
-                                                    <i class="zmdi zmdi-twitter"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-pinterest" href="#">
-                                                    <i class="zmdi zmdi-linkedin"></i>
-                                                </a>
-                                            </li>
-                                            <li class="list-social__item">
-                                                <a class="ic-google" href="#">
-                                                    <i class="zmdi zmdi-youtube"></i>
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="header-mobile d-block d-lg-none">
-                <div class="header-mobile__bar">
-                    <div class="container-fluid">
-                        <div class="header-mobile__bar-inner">
-                            <a class="logo" href="index.html">
-                                <img src="images/icon/logo-black.png" alt="Tatee" />
-                            </a>
-                            <button class="hamburger hamburger--slider float-right" type="button">
-                                <span class="hamburger-box">
-                                    <span class="hamburger-inner"></span>
-                                </span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <nav class="header-nav-menu-mobile">
-                    <div class="container-fluid">
-                        <ul class="menu nav-menu menu-mobile">
-                            <li class="menu-item menu-item-has-children">
-                                <a href="home-main.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="home-main.html">Main home</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-project-hover.html">Project Hover</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-vertical-slide.html">Vertical Slider</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-vertical-slide-video-background.html">Vertical Slider (Video Background)</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-onepage.html">Onepage</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-onepage-video-background.html">Onepage (Video Background)</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-revo-slide.html">Revolution Slider</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-revo-slide-video-background.html">Revolution Slider (Video Background)</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-project-showcase.html">Project Showcase</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-masonry-project.html">Masonry Project</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-creative-showcase.html">Creative Showcase</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="index.html">Landing</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item">
-                                <a href="about-us.html">about</a>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="project-grid-full.html">Project</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="project-grid-full.html">Project grid fullwidth</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="project-grid-stand.html">Project Grid Standard</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="project-masonry.html">Project masonry</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="project-carousel.html">Project carousel</a>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="project-detail-1.html">Project detail</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="project-detail-1.html">Project detail v1</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="project-detail-2.html">Project detail v2</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="project-detail-3.html">Project detail v3</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="project-detail-4.html">Project detail v4</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="my-account.html">pages</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="my-account.html">my account</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="shop.html">shop</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="product-detail.html">product detail</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="cart.html">cart</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="checkout.html">checkout</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="coming-soon.html">coming soon</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="blog-grid.html">blog</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="blog-grid.html">blog grid</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="blog-sidebar.html">blog with sidebar</a>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                        <ul class="sub-menu sub-menu--left">
-                                            <li class="menu-item">
-                                                <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="blog-detail-img.html">blog detail image</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="blog-detail-gallery.html">blog detail gallery</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="blog-detail-video.html">blog detail video</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item">
-                                <a href="contact.html">contact</a>
-                            </li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-        </header>
+        <?php
+            include './shared/navbar.php'
+        ?>
         <!-- END HEADER-->
 
         <!-- MAIN-->
@@ -406,7 +33,7 @@
                     <div class="rev_slider fullwidthabanner js-rev" data-version="5.4.4" style="display:none" data-rev-layout="fullscreen" data-rev-stylearrow="au-rev-arrow-1" data-rev-bullets="true" data-rev-stylebullet="au-rev-bullet-1" data-rev-voffbullet="55">
                         <ul>
                             <li class="rev-item rev-item-1" data-transition="crossfade">
-                                <img class="rev-slidebg" src="images/slide-01.jpg" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?t=st=1717502116~exp=1717505716~hmac=1ebc41d49e3bc85678057b7f002ec052ae6d583ac8057cb8d9aaeb8954035b09&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">architecture</h4>
@@ -423,7 +50,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="slotslide-horizontal">
-                                <img class="rev-slidebg" src="images/slide-12.jpg" alt="Master Slider 01" />
+                                <img class=" g" src="https://img.freepik.com/free-photo/yellow-armchair-living-room-with-copy-space_43614-940.jpg?t=st=1717502216~exp=1717505816~hmac=99991c8451c227248893c1dfa5061f5b72547401682cba334fe164539b25706d&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">architecture</h4>
@@ -440,7 +67,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="papercut">
-                                <img class="rev-slidebg" src="images/slide-13.jpg" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/gray-sofa-living-room-with-free-space_43614-893.jpg?t=st=1717502167~exp=1717505767~hmac=5465b0e2b3eebf8637f011fc4191dfdaffb6ab3670024eb22b5b343c1a13f0ef&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">architecture</h4>
@@ -475,14 +102,14 @@
                                     <p class="media__text">Prahathi Interiors Concept is a professional interior design company operating from Puducherry.
                                         Prahathi Interiors is specializing in Turnkey Projects for all interior designing works with assured quality.
                                        <br>We undertake Interiors Projects which include Residential interior designs, Commercial Interior Design, Allied service, Outdoor design and undertaking the Execution on a Turnkey basis.</p>
-                                    <a class="au-btn au-btn--arrow" href="about-us.html">Read more
+                                    <a class="au-btn au-btn--arrow" href="about-us.php">Read more
                                         <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                                     </a>
                                 </div>
                             </div>
                             <div class="col-lg-5">
                                 <div class="media__img js-line">
-                                    <img src="images/about-01.jpg" alt="About">
+                                    <img src="https://img.freepik.com/free-photo/green-sofa-white-living-room-with-blank-table-mockup_43614-835.jpg?t=st=1717502425~exp=1717506025~hmac=6d84b60454c25093887bd908559689ed74babfc5477b35a1afde73ec30b34907&w=740" alt="About">
                                     <span class="line"></span>
                                     <span class="line line-bottom"></span>
                                     <div class="media__img-inner wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
@@ -572,7 +199,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">luxury villa</a>
+                                                <a href="project-detail-1.php">luxury villa</a>
                                             </h3>
                                             <div class="address">Perth, Australia</div>
                                         </div>
@@ -588,7 +215,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">wooden villa</a>
+                                                <a href="project-detail-1.php">wooden villa</a>
                                             </h3>
                                             <div class="address">New York, USA</div>
                                         </div>
@@ -604,7 +231,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">Skyline</a>
+                                                <a href="project-detail-1.php">Skyline</a>
                                             </h3>
                                             <div class="address">Michigan, USA</div>
                                         </div>
@@ -620,7 +247,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">Frozen house</a>
+                                                <a href="project-detail-1.php">Frozen house</a>
                                             </h3>
                                             <div class="address">Mexico</div>
                                         </div>
@@ -636,7 +263,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">luxury villa</a>
+                                                <a href="project-detail-1.php">luxury villa</a>
                                             </h3>
                                             <div class="address">Perth, Australia</div>
                                         </div>
@@ -652,7 +279,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">wooden villa</a>
+                                                <a href="project-detail-1.php">wooden villa</a>
                                             </h3>
                                             <div class="address">New York, USA</div>
                                         </div>
@@ -668,7 +295,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">wooden villa</a>
+                                                <a href="project-detail-1.php">wooden villa</a>
                                             </h3>
                                             <div class="address">New York, USA</div>
                                         </div>
@@ -684,7 +311,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.html">Skyline</a>
+                                                <a href="project-detail-1.php">Skyline</a>
                                             </h3>
                                             <div class="address">Michigan, USA</div>
                                         </div>
@@ -850,13 +477,13 @@
                         <div class="col-md-6">
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="blog-grid.html">
+                                    <a href="blog-grid.php">
                                         <img src="images/blog-01.jpg" alt="the  villa overlooks dramatic mountainous scenery" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="blog-grid.html">the villa overlooks dramatic mountainous scenery</a>
+                                        <a href="blog-grid.php">the villa overlooks dramatic mountainous scenery</a>
                                     </h4>
                                     <span class="entry-meta">12 - August - 2018</span>
                                     <p class="entry-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidis idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud ercaus itation ullamco laboris nisi ut aliquip . .
@@ -867,13 +494,13 @@
                         <div class="col-md-6">
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="blog-grid.html">
+                                    <a href="blog-grid.php">
                                         <img src="images/blog-02.jpg" alt="Will Bruder clads a mountain home in Aspen" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="blog-grid.html">Will Bruder clads a mountain home in Aspen</a>
+                                        <a href="blog-grid.php">Will Bruder clads a mountain home in Aspen</a>
                                     </h4>
                                     <span class="entry-meta">12 - August - 2018</span>
                                     <p class="entry-excerpt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incidis idunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud ercaus itation ullamco laboris nisi ut aliquip . .
@@ -889,89 +516,9 @@
         <!-- END MAIN-->
 
         <!-- FOOTER-->
-        <footer class="footer bg-parallax">
-            <div class="bg-overlay bg-overlay--p85"></div>
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="footer-col">
-                            <div class="widget m-b-25">
-                                <a href="#">
-                                    <img src="images/icon/logo-white.png" alt="Tatee" />
-                                </a>
-                            </div>
-                            <div class="widget widget-address">
-                                <ul>
-                                    <li>Address : 991 White St . Dawsonville, GA 30534 , New York</li>
-                                    <li>Phone number : + (898) 784-7217</li>
-                                    <li>Email : Tatee.architecture@gmail.com</li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-2 col-md-6">
-                        <div class="footer-col p-l-70 p-md-l-0">
-                            <div class="widget widget_pages">
-                                <h4 class="widget-title">Link</h4>
-                                <ul>
-                                    <li>
-                                        <a href="#">About us</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Services</a>
-                                    </li>
-                                    <li>
-                                        <a href="#">Contact</a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-col p-l-70 p-md-l-0">
-                            <h4 class="widget-title">Social</h4>
-                            <div class="widget widget_socials">
-                                <ul class="list-social list-social-2">
-                                    <li class="list-social__item">
-                                        <a class="ic-fb" href="#">
-                                            <i class="zmdi zmdi-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-insta" href="#">
-                                            <i class="zmdi zmdi-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-twi" href="#">
-                                            <i class="zmdi zmdi-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-pinterest" href="#">
-                                            <i class="zmdi zmdi-pinterest"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-google" href="#">
-                                            <i class="zmdi zmdi-google"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-col">
-                            <div class="widget widget_text">
-                                <h4 class="widget-title">copyright</h4>
-                                <p>© 2018 TATEE . Designed by Authemes</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </footer>
+        <?php
+        include './shared/footer.php'
+       ?>
         <!-- END FOOTER-->
     </div>
 
@@ -980,7 +527,7 @@
     <!-- Bootstrap JS-->
     <script src="vendor/bootstrap-4.1/bootstrap.min.js"></script>
     <!-- Vendor JS-->
-    <script src="vendor/animsition/animsition.min.js"></script>
+    <!-- <script src="vendor/animsition/animsition.min.js"></script> -->
     <script src="vendor/slick/slick.min.js"></script>
     <script src="vendor/waypoints/jquery.waypoints.min.js"></script>
     <script src="vendor/wow/wow.min.js"></script>

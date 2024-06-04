@@ -1,387 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-    <!-- Required meta tags-->
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Tatee Theme Templates">
-    <meta name="author" content="AuCreative">
-    <meta name="keywords" content="Tatee Theme Templates">
-
-    <!-- Title Page-->
-    <title>Home Onepage</title>
-
-    <!-- Icons font CSS-->
-    <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
-    <link href="vendor/font-awesome-5/css/fontawesome-all.min.css" rel="stylesheet" media="all">
-    <link href="vendor/themify-font/themify-icons.css" rel="stylesheet" media="all">
-    <!-- Base fonts of theme-->
-    <link href="css/poppins-font.min.css" rel="stylesheet" media="all">
-    <!-- Font special for pages-->
-
-    <!-- Bootstrap CSS-->
-    <link href="vendor/bootstrap-4.1/bootstrap.min.css" rel="stylesheet" media="all">
-
-    <!-- Vendor CSS-->
-    <link href="vendor/animate.css/animate.min.css" rel="stylesheet" media="all">
-    <link href="vendor/css-hamburgers/hamburgers.min.css" rel="stylesheet" media="all">
-    <link href="vendor/animsition/animsition.min.css" rel="stylesheet" media="all">
-    <link href="vendor/slick/slick.css" rel="stylesheet" media="all">
-    <link href="vendor/select2/select2.min.css" rel="stylesheet" media="all">
-    <link href="vendor/revolution/css/layers.css" rel="stylesheet" />
-    <link href="vendor/revolution/css/navigation.css" rel="stylesheet" />
-    <link href="vendor/revolution/css/settings.css" rel="stylesheet" />
-
-    <!-- Main CSS-->
-    <link href="css/main.min.css" rel="stylesheet" media="all">
-
-    <!--Favicons-->
-    <link rel="shortcut icon" href="images/icon/favicon.jpg">
-    <link rel="apple-touch-icon" href="apple-icon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
-</head>
+        <?php
+            include './shared/header.php'
+        ?>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
         <!-- HEADER-->
-        <header id="header">
-            <div class="header header-1 d-none d-lg-block js-header-1">
-                <div class="header__bar">
-                    <div class="container">
-                        <div class="header__content">
-                            <div class="logo">
-                                <a href="#">
-                                    <img src="images/icon/logo-black.png" alt="Tatee" />
-                                </a>
-                            </div>
-                            <div class="header__content-right">
-                                <nav class="header-nav-menu">
-                                    <ul class="menu nav-menu">
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="home-main.html">Home</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="home-main.html">Main home</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-project-hover.html">Project Hover</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-vertical-slide.html">Vertical Slider</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-vertical-slide-video-background.html">Vertical Slider (Video Background)</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-onepage.html">Onepage</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-onepage-video-background.html">Onepage (Video Background)</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-revo-slide.html">Revolution Slider</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-revo-slide-video-background.html">Revolution Slider (Video Background)</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-project-showcase.html">Project Showcase</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-masonry-project.html">Masonry Project</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="home-creative-showcase.html">Creative Showcase</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="index.html">Landing</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="about-us.html">about</a>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="project-grid-full.html">Project</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="project-grid-full.html">Project grid fullwidth</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="project-grid-stand.html">Project Grid Standard</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="project-masonry.html">Project masonry</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="project-carousel.html">Project carousel</a>
-                                                </li>
-                                                <li class="menu-item menu-item-has-children">
-                                                    <a href="project-detail-1.html">Project detail</a>
-                                                    <ul class="sub-menu">
-                                                        <li class="menu-item">
-                                                            <a href="project-detail-1.html">Project detail v1</a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="project-detail-2.html">Project detail v2</a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="project-detail-3.html">Project detail v3</a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="project-detail-4.html">Project detail v4</a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="my-account.html">pages</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="my-account.html">my account</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="shop.html">shop</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="product-detail.html">product detail</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="cart.html">cart</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="checkout.html">checkout</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="coming-soon.html">coming soon</a>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item menu-item-has-children">
-                                            <a href="blog-grid.html">blog</a>
-                                            <ul class="sub-menu">
-                                                <li class="menu-item">
-                                                    <a href="blog-grid.html">blog grid</a>
-                                                </li>
-                                                <li class="menu-item">
-                                                    <a href="blog-sidebar.html">blog with sidebar</a>
-                                                </li>
-                                                <li class="menu-item menu-item-has-children">
-                                                    <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                                    <ul class="sub-menu sub-menu--left">
-                                                        <li class="menu-item">
-                                                            <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="blog-detail-img.html">blog detail image</a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="blog-detail-gallery.html">blog detail gallery</a>
-                                                        </li>
-                                                        <li class="menu-item">
-                                                            <a href="blog-detail-video.html">blog detail video</a>
-                                                        </li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                        </li>
-                                        <li class="menu-item">
-                                            <a href="contact.html">contact</a>
-                                        </li>
-                                    </ul>
-                                </nav>
-                                <div class="header-social">
-                                    <ul class="list-social">
-                                        <li class="list-social__item">
-                                            <a class="ic-fb" href="#">
-                                                <i class="zmdi zmdi-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-insta" href="#">
-                                                <i class="zmdi zmdi-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-twi" href="#">
-                                                <i class="zmdi zmdi-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-pinterest" href="#">
-                                                <i class="zmdi zmdi-pinterest"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-google" href="#">
-                                                <i class="zmdi zmdi-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="header-mobile d-block d-lg-none">
-                <div class="header-mobile__bar">
-                    <div class="container-fluid">
-                        <div class="header-mobile__bar-inner">
-                            <a class="logo" href="index.html">
-                                <img src="images/icon/logo-black.png" alt="Tatee" />
-                            </a>
-                            <button class="hamburger hamburger--slider float-right" type="button">
-                                <span class="hamburger-box">
-                                    <span class="hamburger-inner"></span>
-                                </span>
-                            </button>
-                        </div>
-                    </div>
-                </div>
-                <nav class="header-nav-menu-mobile">
-                    <div class="container-fluid">
-                        <ul class="menu nav-menu menu-mobile">
-                            <li class="menu-item menu-item-has-children">
-                                <a href="home-main.html">Home</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="home-main.html">Main home</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-project-hover.html">Project Hover</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-vertical-slide.html">Vertical Slider</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-vertical-slide-video-background.html">Vertical Slider (Video Background)</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-onepage.html">Onepage</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-onepage-video-background.html">Onepage (Video Background)</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-revo-slide.html">Revolution Slider</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-revo-slide-video-background.html">Revolution Slider (Video Background)</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-project-showcase.html">Project Showcase</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-masonry-project.html">Masonry Project</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="home-creative-showcase.html">Creative Showcase</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="index.html">Landing</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item">
-                                <a href="about-us.html">about</a>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="project-grid-full.html">Project</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="project-grid-full.html">Project grid fullwidth</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="project-grid-stand.html">Project Grid Standard</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="project-masonry.html">Project masonry</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="project-carousel.html">Project carousel</a>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="project-detail-1.html">Project detail</a>
-                                        <ul class="sub-menu">
-                                            <li class="menu-item">
-                                                <a href="project-detail-1.html">Project detail v1</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="project-detail-2.html">Project detail v2</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="project-detail-3.html">Project detail v3</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="project-detail-4.html">Project detail v4</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="my-account.html">pages</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="my-account.html">my account</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="shop.html">shop</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="product-detail.html">product detail</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="cart.html">cart</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="checkout.html">checkout</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="coming-soon.html">coming soon</a>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item menu-item-has-children">
-                                <a href="blog-grid.html">blog</a>
-                                <ul class="sub-menu">
-                                    <li class="menu-item">
-                                        <a href="blog-grid.html">blog grid</a>
-                                    </li>
-                                    <li class="menu-item">
-                                        <a href="blog-sidebar.html">blog with sidebar</a>
-                                    </li>
-                                    <li class="menu-item menu-item-has-children">
-                                        <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                        <ul class="sub-menu sub-menu--left">
-                                            <li class="menu-item">
-                                                <a href="blog-detail-sidebar.html">blog detail with sidebar</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="blog-detail-img.html">blog detail image</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="blog-detail-gallery.html">blog detail gallery</a>
-                                            </li>
-                                            <li class="menu-item">
-                                                <a href="blog-detail-video.html">blog detail video</a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <li class="menu-item">
-                                <a href="contact.html">contact</a>
-                            </li>
-                        </ul>
-                    </div>
-                </nav>
-            </div>
-        </header>
+        <?php
+            include './shared/navbar.php'
+        ?>
         <!-- END HEADER-->
 
         <!-- MAIN-->
@@ -458,7 +87,7 @@
                             <h2 class="title-1">Our bulding are inspired by the challenge of balancing function & beauty</h2>
                             <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utins labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco cot laboris nisi ut aliquip ex ea commodo
                                 consequat. Duis aute irure dolor in reprehenderit in vactil oluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-                            <a class="au-btn au-btn--arrow" href="contact.html">Contact us
+                            <a class="au-btn au-btn--arrow" href="contact.php">Contact us
                                 <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                             </a>
                         </div>
@@ -506,7 +135,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">luxury villa</a>
+                                            <a href="project-grid-full.php">luxury villa</a>
                                         </h3>
                                         <span class="address">Perth, Australia</span>
                                     </div>
@@ -519,7 +148,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">wooden villa</a>
+                                            <a href="project-grid-full.php">wooden villa</a>
                                         </h3>
                                         <span class="address">New York, USA</span>
                                     </div>
@@ -532,7 +161,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">Stiff homestay</a>
+                                            <a href="project-grid-full.php">Stiff homestay</a>
                                         </h3>
                                         <span class="address">Michigan, USA</span>
                                     </div>
@@ -545,7 +174,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">Frozen house</a>
+                                            <a href="project-grid-full.php">Frozen house</a>
                                         </h3>
                                         <span class="address">Mexico</span>
                                     </div>
@@ -560,7 +189,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">luxury villa</a>
+                                            <a href="project-grid-full.php">luxury villa</a>
                                         </h3>
                                         <span class="address">Perth, Australia</span>
                                     </div>
@@ -573,7 +202,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">wooden villa</a>
+                                            <a href="project-grid-full.php">wooden villa</a>
                                         </h3>
                                         <span class="address">New York, USA</span>
                                     </div>
@@ -586,7 +215,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">luxury villa</a>
+                                            <a href="project-grid-full.php">luxury villa</a>
                                         </h3>
                                         <span class="address">Perth, Australia</span>
                                     </div>
@@ -599,7 +228,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.html">wooden villa</a>
+                                            <a href="project-grid-full.php">wooden villa</a>
                                         </h3>
                                         <span class="address">New York, USA</span>
                                     </div>
@@ -607,7 +236,7 @@
                             </div>
                         </div>
                         <div class="text-center p-t-40">
-                            <a class="au-btn" href="project-grid-full.html">See all project</a>
+                            <a class="au-btn" href="project-grid-full.php">See all project</a>
                         </div>
                     </div>
                 </div>
@@ -1089,35 +718,9 @@
             <!-- END CONTACT-->
 
             <!-- FOOTER-->
-            <footer class="footer-2 p-b-5 p-t-20">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4">
-                            <div class="footer-col">
-                                <div class="widget">
-                                    <a href="#">
-                                        <img src="images/icon/logo-black.png" alt="Tatee" />
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="footer-col">
-                                <div class="widget">
-                                    <p class="text-center">Designed by Authemes</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="footer-col">
-                                <div class="widget">
-                                    <p class="text-center text-md-right">© 2018 TATEE . All rights reserved</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </footer>
+            <?php
+                include './shared/footer.php'
+            ?>
             <!-- END FOOTER-->
         </main>
         <!-- END MAIN-->

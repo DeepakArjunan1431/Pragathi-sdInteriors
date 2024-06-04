@@ -138,6 +138,9 @@ button {
  * Always declare margins in the same direction:
  * csswizardry.com/2012/06/single-direction-margin-declarations
  */
+ .logo{
+  width:7%;
+}
 .bg-pattern-01 {
   background: url("../images/bg-pattern-01.jpg") center center/cover fixed no-repeat;
 }
@@ -3010,6 +3013,10 @@ a:hover {
    ========================================================================== */
 .list-rev-item--ov {
   overflow: visible !important;
+}
+.rev-slidebg{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1) !important;
 }
 
 .rev-item--ov {
