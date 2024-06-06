@@ -20,7 +20,9 @@ html {
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
-
+.Mapps {
+  padding-bottom: 100px;
+}
 * {
   padding: 0;
   margin: 0;

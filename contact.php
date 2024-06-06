@@ -41,9 +41,11 @@
             <!-- CONTACT-->
             <section class="section p-b-80">
                 <div class="container">
-                    <div class="map-wrapper js-google-map m-b-60" data-makericon="images/icon/marker.png" data-makers="[[&quot;TATEE&quot;, &quot;Now that you visited our website,&lt;br&gt; how about checking out our office too?&quot;, 40.715681, -74.003427]]">
+                    <!-- <div class="map-wrapper js-google-map m-b-60" data-makericon="images/icon/marker.png" data-makers="[[&quot;TATEE&quot;, &quot;Now that you visited our website,&lt;br&gt; how about checking out our office too?&quot;, 40.715681, -74.003427]]">
                         <div class="map__holder js-map-holder" id="map" style="height: 370px;"></div>
-                    </div>
+                    </div> -->
+                    <iframe class="Mapps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.3946393936467!2d80.22556082507494!3d12.88232653742489!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a525bcca7f090d7%3A0xdfe557111116b049!2sIceil%20Stretch%20Ceilings!5e0!3m2!1sen!2sin!4v1717675103054!5m2!1sen!2sin" width="1170" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    
                     <div class="row no-gutters">
                         <div class="col-lg-4">
                             <div class="contact-info">
@@ -62,17 +64,17 @@
                             </div>
                         </div>
                         <div class="col-lg-8">
-                            <form class="form-contact js-contact-form" method="POST" action="#">
+                            <form class="form-contact" method="post" action="send-email.php">
                                 <div class="form-row no-gutters">
                                     <div class="col-md-6">
-                                        <input class="au-input" type="text" name="name" placeholder="Name" required="required">
-                                        <input class="au-input" type="email" name="email" placeholder="Email Address" required="required" pattern="[^@]+@[^@]+.[a-zA-Z]{2,6}">
-                                        <input class="au-input" type="text" name="phone" placeholder="Phone" required="required">
+                                        <input class="au-input" type="text" name="name" placeholder="Name" id="name" required="required">
+                                        <input class="au-input" type="email" name="email" placeholder="Email Address" id="email" required="required" pattern="[^@]+@[^@]+.[a-zA-Z]{2,6}">
+                                        <input class="au-input" type="text" name="phone" placeholder="Phone" id="phone" required="required">
                                     </div>
                                     <div class="col-md-6 p-r-0">
-                                        <textarea class="au-textarea" name="message" placeholder="Message*" required="required"></textarea>
+                                        <textarea class="au-textarea" name="message" placeholder="Message*" id="message" required="required"></textarea>
                                         <div class="text-right">
-                                            <button class="au-btn au-btn--solid" type="submit">Send message</button>
+                                            <button class="sdfds" type="submit">Send message</button>
                                         </div>
                                     </div>
                                 </div>
