@@ -39,13 +39,39 @@
             <!-- END PAGE HEADING-->
 
             <!-- PAGE IMAGE-->
-            <section class="section">
-                <div class="wrap wrap--w1790">
-                    <div class="container-fluid">
-                        <img src="images/page-img-01.jpg" alt="Page Image">
+            <section class="about-section">
+        <div class="container">
+            <div class="row">                
+                <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2">
+                    <div class="inner-column">
+                        <div class="sec-title">
+                            <span class="title">ABOUT PRAGATHI INTERIORS</span>
+                            <h2>Crafting Beautiful Interiors with Excellence</h2>
+                        </div>
+                        <div class="text">Prahathi Interiors Concept is a premier interior design company based in Puducherry, renowned for its expertise and commitment to excellence. We specialize in providing comprehensive Turnkey Project solutions for a wide range of interior design needs, ensuring the highest standards of quality and craftsmanship.</div>
+                      <div class="text">
+                        We are here to serve you next level tutorial that currently in trend to match you with your expertise. Css3 transition is a learning website. where you can find many good quality content related to web development and tutorials about plugins. here we are using html, html5, css, css3, jquery & javascript along with inspirational UI design layout by professionals by using Photoshop and adobe allustrator.
+                      </div>
+                        
                     </div>
                 </div>
-            </section>
+
+                <!-- Image Column -->
+                <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                    <div class="inner-column wow fadeInLeft">
+                      <div class="author-desc">
+                        <h2>Specializing in</h2>
+                        <span> Turn key project </span>
+                      </div>
+                        <figure class="image-1"><a href="#" class="lightbox-image" data-fancybox="images"><img title="" src="images\About Us.jpg" alt=""></a></figure>
+                     
+                    </div>
+                </div>
+              
+            </div>
+          
+        </div>
+    </section>
             <!-- END PAGE IMAGE-->
 
             <!-- ABOUT US-->
