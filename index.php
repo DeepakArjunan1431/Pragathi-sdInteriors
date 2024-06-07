@@ -36,13 +36,13 @@
                                 <img class="rev-slidebg" src="https://img.freepik.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?t=st=1717502116~exp=1717505716~hmac=1ebc41d49e3bc85678057b7f002ec052ae6d583ac8057cb8d9aaeb8954035b09&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
-                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">architecture</h4>
+                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
                                 <h2 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:800,&quot;speed&quot;:2100,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-35, -30, 15, 10, 10]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="[600,600,500,576,500]" data-height="[&quot;auto&quot;]"
-                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Modern villa on the mountain</h2>
-                                <a class="tp-caption tp-resizeme" href="#" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Residential Interiors Works</h2>
+                                <a class="tp-caption tp-resizeme" href="residential-interiors.php" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[87, 87, 130, 130, 130]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
-                                    <span class="rev-btn-1">See project
+                                    <span class="rev-btn-1">See Our Service
                                         <span class="arrow" data-paddingleft="5">
                                             <i class="zmdi zmdi-arrow-right"></i>
                                         </span>
@@ -53,13 +53,13 @@
                                 <img class="g" src="https://img.freepik.com/free-photo/yellow-armchair-living-room-with-copy-space_43614-940.jpg?t=st=1717502216~exp=1717505816~hmac=99991c8451c227248893c1dfa5061f5b72547401682cba334fe164539b25706d&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
-                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">architecture</h4>
+                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
                                 <h2 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:800,&quot;speed&quot;:2100,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-35, -30, 15, 10, 10]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="[600,600,500,576,500]" data-height="[&quot;auto&quot;]"
-                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Canadian lake house features dark wood</h2>
-                                <a class="tp-caption tp-resizeme" href="#" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Commercial Interiors Works</h2>
+                                <a class="tp-caption tp-resizeme" href="commercial.php" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[87, 87, 130, 130, 130]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
-                                    <span class="rev-btn-1">See project
+                                    <span class="rev-btn-1">See Our Service
                                         <span class="arrow" data-paddingleft="5">
                                             <i class="zmdi zmdi-arrow-right"></i>
                                         </span>
@@ -70,13 +70,30 @@
                                 <img class="rev-slidebg" src="https://img.freepik.com/free-photo/gray-sofa-living-room-with-free-space_43614-893.jpg?t=st=1717502167~exp=1717505767~hmac=5465b0e2b3eebf8637f011fc4191dfdaffb6ab3670024eb22b5b343c1a13f0ef&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
-                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">architecture</h4>
+                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
                                 <h2 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:800,&quot;speed&quot;:2100,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-35, -30, 15, 10, 10]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="[600,600,500,576,500]" data-height="[&quot;auto&quot;]"
-                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Future housein the Barvikha forest</h2>
-                                <a class="tp-caption tp-resizeme" href="#" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Our Allied Services</h2>
+                                <a class="tp-caption tp-resizeme" href="allied-service.php" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[87, 87, 130, 130, 130]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
-                                    <span class="rev-btn-1">See project
+                                    <span class="rev-btn-1">See Our Service
+                                        <span class="arrow" data-paddingleft="5">
+                                            <i class="zmdi zmdi-arrow-right"></i>
+                                        </span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="rev-item rev-item-1" data-transition="crossfade">
+                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/gray-sofa-living-room-with-free-space_43614-893.jpg?t=st=1717502167~exp=1717505767~hmac=5465b0e2b3eebf8637f011fc4191dfdaffb6ab3670024eb22b5b343c1a13f0ef&w=740" alt="Master Slider 01" />
+                                <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
+                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
+                                <h2 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:800,&quot;speed&quot;:2100,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-35, -30, 15, 10, 10]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="[600,600,500,576,500]" data-height="[&quot;auto&quot;]"
+                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Outdoor Designs</h2>
+                                <a class="tp-caption tp-resizeme" href="outdoor-design.php" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[87, 87, 130, 130, 130]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
+                                    <span class="rev-btn-1">See Our Service
                                         <span class="arrow" data-paddingleft="5">
                                             <i class="zmdi zmdi-arrow-right"></i>
                                         </span>
@@ -97,8 +114,8 @@
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="media__body">
-                                    <h5 class="title-sub">about us</h5>
-                                    <h2 class="title-1">We are specialists in the field of Interior design</h2>
+                                    <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
+                                    <h2 class="title-1">We are specialists in the field of <span class="heading-span">Interior designs</span></h2>
                                     <p class="media__text">Prahathi Interiors Concept is a professional interior design company operating from Puducherry.
                                         Prahathi Interiors is specializing in Turnkey Projects for all interior designing works with assured quality.
                                        <br>We undertake Interiors Projects which include Residential interior designs, Commercial Interior Design, Allied service, Outdoor design and undertaking the Execution on a Turnkey basis.</p>
@@ -109,11 +126,11 @@
                             </div>
                             <div class="col-lg-5">
                                 <div class="media__img js-line">
-                                    <img src="https://img.freepik.com/free-photo/green-sofa-white-living-room-with-blank-table-mockup_43614-835.jpg?t=st=1717502425~exp=1717506025~hmac=6d84b60454c25093887bd908559689ed74babfc5477b35a1afde73ec30b34907&w=740" alt="About">
+                                    <img src="https://img.freepik.com/free-photo/scandinavian-vintage-wood-cabinet-with-chair-by-dark-blue-wall_53876-98164.jpg?t=st=1717765816~exp=1717769416~hmac=98ac4e48683e7520fd527bebc0c620e5eb5e98a07a407556d2330e43fbd711d8&w=740" alt="About">
                                     <span class="line"></span>
                                     <span class="line line-bottom"></span>
                                     <div class="media__img-inner wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                                        <span class="number">28</span>
+                                        <span class="number">15</span>
                                         <span class="desc">years of experience</span>
                                     </div>
                                 </div>
@@ -128,8 +145,8 @@
             <section class="p-t-60 p-b-55">
                 <div class="container">
                     <div class="section-title">
-                        <h5 class="title-sub">what we do</h5>
-                        <h2 class="title-1">Our specilization</h2>
+                        <h5 class="title-sub"><span class="sub-heading-span">what we do</span></h5>
+                        <h2 class="title-1">Our <span class="heading-span">specilization</span></h2>
                     </div>
                     <div class="row no-gutters">
                         <div class="col-md-6 col-lg-4">
@@ -139,11 +156,12 @@
                                 </figure>
                                 <div class="media__title">
                                     <h3 class="title">
-                                        <a href="#">architecture</a>
+                                        <a href="#">Ceiling</a>
                                     </h3>
                                     <span class="number">01</span>
                                 </div>
-                                <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipist pricing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p class="media__text">Ceilings play an integral part in giving a classy look to your interiors. They are functional at the same time.
+                                False ceilings hides the cables and wires and also protects leakages or heat radiations from entering the house.</p>
                             </article>
                         </div>
                         <div class="col-md-6 col-lg-4">
@@ -157,7 +175,7 @@
                                     </h3>
                                     <span class="number">02</span>
                                 </div>
-                                <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipist pricing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p class="media__text">Discover our Interior Design Showcase, where modern elegance meets comfort. Explore beautifully curated living spaces that inspire and transform your home both beautiful and uniquely yours.</p>
                             </article>
                         </div>
                         <div class="col-md-6 col-lg-4">
@@ -171,7 +189,7 @@
                                     </h3>
                                     <span class="number">03</span>
                                 </div>
-                                <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipist pricing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+                                <p class="media__text">From layout and color schemes to furniture and decor, every element is thoughtfully considered to enhance the overall ambiance and practicality of each room was beautiful, elegant and uniquely made.</p>
                             </article>
                         </div>
                     </div>
@@ -182,8 +200,8 @@
             <!-- LASTEST PROJECT-->
             <section class="wrap wrap--w1790 p-b-75">
                 <div class="section-title m-b-70">
-                    <h5 class="title-sub">our work</h5>
-                    <h2 class="title-1">Latest project</h2>
+                    <h5 class="title-sub"><span class="sub-heading-span">our work</span></h5>
+                    <h2 class="title-1">Latest <span class="heading-span">Services</span></h2>
                 </div>
                 <div class="container-fluid">
                     <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="3" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="true">
@@ -192,128 +210,130 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-01.jpg" alt="luxury villa" />
+                                            <img src="https://img.freepik.com/free-photo/hotel-room-with-comfortable-couch_1203-1488.jpg?t=st=1717769422~exp=1717773022~hmac=cbae91af57139017b410a243620bb57ac415a4822776bceeb5cc438edabca2b8&w=360" alt="luxury villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">luxury villa</a>
+                                                <a href="project-detail-1.php">Living Room</a>
                                             </h3>
-                                            <div class="address">Perth, Australia</div>
+                                            <div class="address">Residential Interiors</div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-02.jpg" alt="wooden villa" />
+                                            <img src="https://img.freepik.com/free-photo/bed-arrangements-still-life_23-2150532996.jpg?t=st=1717769546~exp=1717773146~hmac=421d3b866e27dbf6a15090e21168d303dd0e2af39b2331c445fba8174a3b75af&w=360" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">wooden villa</a>
+                                                <a href="project-detail-1.php">Bedroom</a>
                                             </h3>
-                                            <div class="address">New York, USA</div>
+                                            <div class="address">Residential Interiors</div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-03.jpg" alt="Skyline" />
+                                            <img src="https://img.freepik.com/free-photo/view-modern-office_1170-1970.jpg?t=st=1717769717~exp=1717773317~hmac=a74cc25fe484ea29cbf00906ffa5402ae44f0f4949056f1f303ca1e2cd2e3644&w=360" alt="Skyline" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Skyline</a>
+                                                <a href="project-detail-1.php">Office Interiors</a>
                                             </h3>
-                                            <div class="address">Michigan, USA</div>
+                                            <div class="address">Commercial Interiors
+                                            </div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-04.jpg" alt="Frozen house" />
+                                            <img src="https://img.freepik.com/free-photo/interior-view-operating-room_1170-2255.jpg?t=st=1717769745~exp=1717773345~hmac=a51faf4ab5412a2a66b6154d56230d830848e2da4d2d87323e6835a8b6c2a7a6&w=360" alt="Frozen house" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Frozen house</a>
+                                                <a href="project-detail-1.php"> Hospital Interiors</a>
                                             </h3>
-                                            <div class="address">Mexico</div>
+                                            <div class="address">Commercial Interiors
+                                            </div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-29.jpg" alt="luxury villa" />
+                                            <img src="https://img.freepik.com/free-photo/interior-design-with-armchair-potted-plant_23-2149427983.jpg?t=st=1717770044~exp=1717773644~hmac=11068b9324bed7c82980787a8340059178ec655fe3a3884a3d6dfd3225adc768&w=360" alt="luxury villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">luxury villa</a>
+                                                <a href="project-detail-1.php">Furniture</a>
                                             </h3>
-                                            <div class="address">Perth, Australia</div>
+                                            <div class="address">Allied Services</div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-30.jpg" alt="wooden villa" />
+                                            <img src="https://img.freepik.com/free-photo/light-lamp-decoration-interior_74190-6674.jpg?t=st=1717770090~exp=1717773690~hmac=19ac432ce27be19837915c0b80906964d0872598d192de288a2424345afc2b12&w=360" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">wooden villa</a>
+                                                <a href="project-detail-1.php">Aluminum partition</a>
                                             </h3>
-                                            <div class="address">New York, USA</div>
+                                            <div class="address">Allied Services</div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-31.jpg" alt="wooden villa" />
+                                            <img src="https://img.freepik.com/free-photo/happy-young-caucasian-brunette-looking-camera-holding-string-bag-with-tangerines-while-sitting-outdoors-healthy-lifestyle-people-concept_197531-32648.jpg?t=st=1717770358~exp=1717773958~hmac=1a19cc7c9ed1bccaee4fd8f16642ded1f45b27880517b3855ff88fe08682884e&w=360" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">wooden villa</a>
+                                                <a href="project-detail-1.php">Front-yard-garden</a>
                                             </h3>
-                                            <div class="address">New York, USA</div>
+                                            <div class="address">Outdoor Designs</div>
                                         </div>
                                     </article>
                                 </div>
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/project-32.jpg" alt="Skyline" />
+                                        <img src="https://img.freepik.com/free-photo/chair-nobody-summer-lifestyle-terrace_1203-4897.jpg?t=st=1717770229~exp=1717773829~hmac=7d9c9dde54aabbc71d858bb8afb0c77d6fd32c12e088dd371747bf3b18716392&w=360" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Skyline</a>
+                                                <a href="project-detail-1.php">Rooftop garden</a>
                                             </h3>
-                                            <div class="address">Michigan, USA</div>
+                                            <div class="address">Outdoor Designs</div>
                                         </div>
                                     </article>
                                 </div>
@@ -329,11 +349,11 @@
             <!-- END LASTEST PROJECT-->
 
             <!-- TESTI-->
-            <section class="p-t-35 p-b-85">
+            <section class="d-none p-t-35 p-b-85">
                 <div class="container">
                     <div class="section-title m-b-80">
-                        <h5 class="title-sub">testimonial</h5>
-                        <h2 class="title-1">What people say</h2>
+                        <h5 class="title-sub"><span class="sub-heading-span">testimonial</span></h5>
+                        <h2 class="title-1">What <span class="heading-span">people say</span></h2>
                     </div>
                     <div class="slick-wrap slick-testi js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="1" data-slick-lg="2" data-slick-xl="2" data-slick-customnav="true" data-slick-autoplay="true">
                         <div class="slick-wrap-content">
@@ -415,63 +435,76 @@
 
             <!-- CLIENT-->
             <section class="p-t-15">
-                <div class="container">
-                    <div class="section-title m-b-100">
-                        <h5 class="title-sub">awesome partner</h5>
-                        <h2 class="title-1">Our clients</h2>
+                <div class="">
+                    <div class="section-title ">
+                        <h5 class="title-sub"><span class="sub-heading-span">awesome partner</span></h5>
+                        <h2 class="title-1">Our <span class="heading-span">clients</span></h2>
                     </div>
-                    <div class="row">
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-01.png" alt="Client 1">
-                            </a>
+                    <section class="section bg-pattern-01 p-t-100 p-b-25">
+                        <div class="">
+                            <div class="row">
+                                <div class="col-md-12 col-xl-3">
+                                    <div class="section-title section-title--light text-left p-t-15">
+                                        <h2 class="title" style="color:white">Every day Service for Customer </h2>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-xl-9">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-09.png" alt="Client 1">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-10.png" alt="Client 2">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-11.png" alt="Client 3">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-12.png" alt="Client 4">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-13.png" alt="Client 5">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-14.png" alt="Client 6">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-15.png" alt="Client 7">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-16.png" alt="Client 8">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-02.png" alt="Client 2">
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-03.png" alt="Client 3">
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-04.png" alt="Client 4">
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-05.png" alt="Client 5">
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-06.png" alt="Client 6">
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-07.png" alt="Client 7">
-                            </a>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <a class="img-client" href="#">
-                                <img src="images/icon/client-08.png" alt="Client 8">
-                            </a>
-                        </div>
-                    </div>
+                    </section>
                 </div>
             </section>
             <!-- END CLIENT-->
 
             <!-- BLOG-->
-            <section class="p-t-65 p-b-65">
+            <section class="d-none p-t-65 p-b-65">
                 <div class="container">
                     <div class="section-title m-b-70">
-                        <h5 class="title-sub">from the blog</h5>
-                        <h2 class="title-1">Latest new</h2>
+                        <h5 class="title-sub"><span class="sub-heading-span">from the blog</span></h5>
+                        <h2 class="title-1">Latest newz</h2>
                     </div>
                     <div class="row gutter-xl">
                         <div class="col-md-6">

@@ -306,10 +306,11 @@ button {
 .swal-button {
   display: inline-block;
   line-height: 43px;
-  border: 1px solid #888;
+  border: 2px solid #004b88 !important;
+  background: #004b88 !important;
   padding: 0 23px;
   font-size: 13px;
-  color: #555;
+  color: white !important;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -330,9 +331,9 @@ button {
 
 .au-btn:hover,
 .swal-button:hover {
-  color: #fff;
-  background: #222;
-  border-color: transparent;
+  color: #fff !important;
+  background: #00abbd !important;
+  border-color: transparent !important;
 }
 
 .au-btn:hover .ic-arrow,
@@ -965,7 +966,7 @@ a:hover {
 }
 
 .media-about .media__text {
-  margin-bottom: 84px;
+  margin-bottom: 25px !important;
 }
 
 .media-about .media__img {
@@ -5495,7 +5496,9 @@ button {
 .menu li {
   list-style: none;
 }
-
+.menu-item a{
+  font-size:16px !important;
+}
 .menu a {
   font-size: 13px;
   color: #222;
@@ -5980,6 +5983,9 @@ button {
 
 .page-info.light .list-social-3 .list-social__item .icon {
   opacity: 0.6;
+}
+.list-social__item a{
+  font-size:18px !important;
 }
 
 @media (max-width: 1760px) {
@@ -16403,4 +16409,10 @@ button:focus {
   .m-xs-l-300 {
     margin-left: 300px;
   }
+}
+.heading-span{
+  color:#004b88
+}
+.sub-heading-span{
+  color:#00abbd
 }

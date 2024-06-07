@@ -5,7 +5,7 @@
                     <div class="wrap wrap--w1790">
                         <div class="container-fluid">
                             <div class="header__content">
-                                <div class="logo">
+                                <div class="logo" style="padding:5px 0;">
                                     <a href="#">
                                         <img src="images/icon/main-logo.png" alt="Tatee" />
                                     </a>
