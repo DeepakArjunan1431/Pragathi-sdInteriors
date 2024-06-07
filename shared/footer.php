@@ -7,7 +7,7 @@
                         <div class="footer-col">
                             <div class="widget m-b-25">
                                 <a href="#">
-                                    <img src="images/icon/logo-white.png" alt="Tatee" />
+                                    <img src="images/icon/main-logo.png" alt="Tatee" style="width:30%"/>
                                 </a>
                             </div>
                             <div class="widget widget-address">
@@ -49,27 +49,27 @@
                             <div class="widget widget_socials">
                                 <ul class="list-social list-social-2">
                                     <li class="list-social__item">
-                                        <a class="ic-fb" href="https://fb.watch/seCxmpzycV/">
+                                        <a class="ic-fb" href="https://fb.watch/seCxmpzycV/" target="_blank">
                                             <i class="zmdi zmdi-facebook"></i>
                                         </a>
                                     </li>
                                     <li class="list-social__item">
-                                        <a class="ic-insta" href="https://www.instagram.com/reel/C7TFG86qhoE/?utm_source=ig_web_copy_link">
+                                        <a class="ic-insta" href="https://www.instagram.com/reel/C7TFG86qhoE/?utm_source=ig_web_copy_link" target="_blank">
                                             <i class="zmdi zmdi-instagram"></i>
                                         </a>
                                     </li>
                                     <li class="list-social__item">
-                                        <a class="ic-twi" href="https://x.com/PInteriors79/status/1793517107503902768">
+                                        <a class="ic-twi" href="https://x.com/PInteriors79/status/1793517107503902768" target="_blank">
                                             <i class="zmdi zmdi-twitter"></i>
                                         </a>
                                     </li>
                                     <li class="list-social__item">
-                                        <a class="ic-pinterest" href="https://www.linkedin.com/posts/pragathi-interiors_stretchceilingpondicherry-rgb-musiccontroller-activity-7199311940882440192-9X8z?utm_source=share&utm_medium=member_desktop">
+                                        <a class="ic-pinterest" href="https://www.linkedin.com/posts/pragathi-interiors_stretchceilingpondicherry-rgb-musiccontroller-activity-7199311940882440192-9X8z?utm_source=share&utm_medium=member_desktop" target="_blank">
                                             <i class="zmdi zmdi-linkedin"></i>
                                         </a>
                                     </li>
                                     <li class="list-social__item">
-                                        <a class="ic-google" href="https://youtube.com/shorts/oNEle_DlP1Q?feature=share">
+                                        <a class="ic-google" href="https://youtube.com/shorts/oNEle_DlP1Q?feature=share" target="_blank">
                                             <i class="zmdi zmdi-youtube"></i>
                                         </a>
                                     </li>
