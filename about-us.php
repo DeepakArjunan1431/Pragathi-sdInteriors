@@ -50,8 +50,8 @@
                         </div>
                         <div class="text">Prahathi Interiors Concept is a premier interior design company based in Puducherry, renowned for its expertise and commitment to excellence. We specialize in providing comprehensive Turnkey Project solutions for a wide range of interior design needs, ensuring the highest standards of quality and craftsmanship.</div>
                       <div class="text">
-                        We are here to serve you next level tutorial that currently in trend to match you with your expertise. Css3 transition is a learning website. where you can find many good quality content related to web development and tutorials about plugins. here we are using html, html5, css, css3, jquery & javascript along with inspirational UI design layout by professionals by using Photoshop and adobe allustrator.
-                      </div>
+                      Pragathi Interiors Concept is a premier interior design company based in the vibrant city of Puducherry. With a reputation for excellence, we specialize in providing comprehensive Turnkey Project solutions that cater to a wide range of interior design needs. Our commitment to delivering the highest standards of quality and craftsmanship sets us apart in the industry. We pride ourselves on transforming spaces with innovative design, meticulous attention to detail, and an unwavering dedication to our clients' visions.
+                        </div>
                         
                     </div>
                 </div>
