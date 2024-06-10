@@ -81,7 +81,7 @@
                         <div class="footer-col">
                             <div class="widget widget_text">
                                 <h4 class="widget-title">copyright</h4>
-                                <p>© 2018 TATEE . Designed by Authemes</p>
+                                <p><a href="blackitechs.com">Developed by Black I Technologies & Solutions</a></p>
                             </div>
                         </div>
                     </div>

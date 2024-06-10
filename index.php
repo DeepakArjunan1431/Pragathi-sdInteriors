@@ -108,11 +108,11 @@
             <!-- END SLIDER-->
 
             <!-- ABOUT US-->
-            <section class="p-t-10 p-b-55">
+            <section class="p-t-10 p-b-55 about-us-section">
                 <div class="container">
                     <div class="media-about">
                         <div class="row">
-                            <div class="col-lg-7">
+                            <div class="col-lg-7 col-md-7 col-sm-12">
                                 <div class="media__body">
                                     <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
                                     <h2 class="title-1">We are specialists in the field of <span class="heading-span">Interior designs</span></h2>
@@ -124,7 +124,7 @@
                                     </a>
                                 </div>
                             </div>
-                            <div class="col-lg-5">
+                            <div class="col-lg-5 col-md-5 col-sm-12">
                                 <div class="media__img js-line">
                                     <img src="https://img.freepik.com/free-photo/scandinavian-vintage-wood-cabinet-with-chair-by-dark-blue-wall_53876-98164.jpg?t=st=1717765816~exp=1717769416~hmac=98ac4e48683e7520fd527bebc0c620e5eb5e98a07a407556d2330e43fbd711d8&w=740" alt="About">
                                     <span class="line"></span>
@@ -217,7 +217,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Living Room</a>
+                                                <a href="residential-interiors.php">Living Room</a>
                                             </h3>
                                             <div class="address">Residential Interiors</div>
                                         </div>
@@ -233,7 +233,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Bedroom</a>
+                                                <a href="residential-interiors.php">Bedroom</a>
                                             </h3>
                                             <div class="address">Residential Interiors</div>
                                         </div>
@@ -249,7 +249,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Office Interiors</a>
+                                                <a href="commercial.php">Office Interiors</a>
                                             </h3>
                                             <div class="address">Commercial Interiors
                                             </div>
@@ -266,7 +266,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php"> Hospital Interiors</a>
+                                                <a href="commercial.php"> Hospital Interiors</a>
                                             </h3>
                                             <div class="address">Commercial Interiors
                                             </div>
@@ -283,7 +283,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Furniture</a>
+                                                <a href="allied-service.php">Furniture</a>
                                             </h3>
                                             <div class="address">Allied Services</div>
                                         </div>
@@ -299,7 +299,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Aluminum partition</a>
+                                                <a href="allied-service.php">Aluminum partition</a>
                                             </h3>
                                             <div class="address">Allied Services</div>
                                         </div>
@@ -315,7 +315,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Front-yard-garden</a>
+                                                <a href="outdoor-design.php">Front-yard-garden</a>
                                             </h3>
                                             <div class="address">Outdoor Designs</div>
                                         </div>
@@ -331,7 +331,7 @@
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="project-detail-1.php">Rooftop garden</a>
+                                                <a href="outdoor-design.php">Rooftop garden</a>
                                             </h3>
                                             <div class="address">Outdoor Designs</div>
                                         </div>
@@ -347,6 +347,21 @@
                 </div>
             </section>
             <!-- END LASTEST PROJECT-->
+
+            <!-- SINGLE PROJECT-->
+            <section class="single-project">
+                <div class="single-project-div">
+                        <div class="single-inner-div">
+                            <h5 class="title-sub"><span class="sub-heading-span">Our Project</span></h5>
+                            <h2 class="title-1"><span class="heading-span">Stretch Ceiling</span></h2>
+                            <p class="single-project-para">Stretch ceilings offer a modern and flexible solution for both residential and commercial spaces, combining aesthetics with practical benefits. Their growing popularity is driven by the ability to create custom designs and the convenience of a durable, low-maintenance ceiling system.</p>
+                                    <a class="au-btn au-btn--arrow" href="stretch-ceiling.php">Read more
+                                        <i class="zmdi zmdi-arrow-right ic-arrow"></i>
+                                    </a>
+                        </div>
+                </div>
+            </section>
+            <!-- SINGLE PROJECT END-->
 
             <!-- TESTI-->
             <section class="d-none p-t-35 p-b-85">
@@ -498,6 +513,24 @@
                 </div>
             </section>
             <!-- END CLIENT-->
+
+            <!-- CTA START -->
+             <section class="cta-section">
+                <div class="cta-div">
+                    <div class="row d-flex cta-banner">
+                        <div class="col-lg-8 col-md-8 col-sm-12 cta-banner__content">
+                            <h2>Click the button<br> to book an Appointment</h2>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-12">
+                            <a class="au-btn au-btn--arrow" href="about-us.php">Call To Action
+                                <i class="zmdi zmdi-arrow-right ic-arrow"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+           <!-- CTA START -->
+
 
             <!-- BLOG-->
             <section class="d-none p-t-65 p-b-65">
