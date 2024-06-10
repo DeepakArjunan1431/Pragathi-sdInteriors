@@ -460,7 +460,7 @@
                             <div class="row">
                                 <div class="col-md-12 col-xl-3">
                                     <div class="section-title section-title--light text-left p-t-15">
-                                        <h2 class="title" style="color:white">Every day Service for Customer </h2>
+                                        <h2 class="title" style="color:white">Spend quality time with beloved clients </h2>
                                     </div>
                                 </div>
                                 <div class="col-md-12 col-xl-9">

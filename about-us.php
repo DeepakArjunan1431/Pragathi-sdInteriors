@@ -27,60 +27,62 @@
             <!-- END PAGE LINE-->
 
             <!-- PAGE HEADING-->
-            <section class="section p-t-100 p-b-65">
-                <div class="container">
-                    <div class="page-heading">
-                        <h4 class="title-sub title-sub--c8 m-b-15">we are tatee</h4>
-                        <h2 class="title-2">Our bulding are inspired by
-                            <br>the challenge of balancing function & beauty .</h2>
-                    </div>
+            <section class="banner-about p-t-100 p-b-65">
+                <div class="banner-div">
+                        <div class="banner-div">
+                            <h2 class="title-sub"><span class=" text-center">About Us</span></h2>
+                        </div>
                 </div>
-            </section>
-            <!-- END PAGE HEADING-->
+            </section> 
+            <!-- END PAGE HEADING--->
 
             <!-- PAGE IMAGE-->
             <section class="about-section">
-        <div class="container">
-            <div class="row">                
-                <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2">
-                    <div class="inner-column">
-                        <div class="sec-title">
-                            <span class="title">ABOUT PRAGATHI INTERIORS</span>
-                            <h2>Crafting Beautiful Interiors with Excellence</h2>
+                <div class="container">
+                    <div class="row">                
+                        <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2">
+                            <div class="inner-column">
+                                <div class="">
+                                    <span class="title">ABOUT PRAGATHI INTERIORS</span>
+                                    <h2 class="title-1">Crafting <span class="heading-span">Beautiful Interiors</span> with Excellence</h2>
+                                </div>
+                                <div class="text">Prahathi Interiors Concept is a premier interior design company based in Puducherry, renowned for its expertise and commitment to excellence. We specialize in providing comprehensive Turnkey Project solutions for a wide range of interior design needs, ensuring the highest standards of quality and craftsmanship.</div>
+                            <div class="text">
+                            Pragathi Interiors Concept is a premier interior design company based in the vibrant city of Puducherry. With a reputation for excellence, we specialize in providing comprehensive Turnkey Project solutions that cater to a wide range of interior design needs. Our commitment to delivering the highest standards of quality and craftsmanship sets us apart in the industry. We pride ourselves on transforming spaces with innovative design, meticulous attention to detail, and an unwavering dedication to our clients' visions.
+                                </div>
+                                
+                            </div>
                         </div>
-                        <div class="text">Prahathi Interiors Concept is a premier interior design company based in Puducherry, renowned for its expertise and commitment to excellence. We specialize in providing comprehensive Turnkey Project solutions for a wide range of interior design needs, ensuring the highest standards of quality and craftsmanship.</div>
-                      <div class="text">
-                      Pragathi Interiors Concept is a premier interior design company based in the vibrant city of Puducherry. With a reputation for excellence, we specialize in providing comprehensive Turnkey Project solutions that cater to a wide range of interior design needs. Our commitment to delivering the highest standards of quality and craftsmanship sets us apart in the industry. We pride ourselves on transforming spaces with innovative design, meticulous attention to detail, and an unwavering dedication to our clients' visions.
-                        </div>
-                        
-                    </div>
-                </div>
 
-                <!-- Image Column -->
-                <div class="image-column col-lg-6 col-md-12 col-sm-12">
-                    <div class="inner-column wow fadeInLeft">
-                      <div class="author-desc">
-                        <h2>Specializing in</h2>
-                        <span> Turn key project </span>
-                      </div>
-                        <figure class="image-1"><a href="#" class="lightbox-image" data-fancybox="images"><img title="" src="images\About Us.jpg" alt=""></a></figure>
-                     
+                        <!-- Image Column -->
+                        <div class="image-column col-lg-6 col-md-12 col-sm-12">
+                            <div class="inner-column wow fadeInLeft">
+                            <div class="author-desc">
+                                <h2>Specializing in</h2>
+                                <span> Turn key project </span>
+                            </div>
+                                <figure class="image-1"><a  class="lightbox-image" data-fancybox="images"><img title="" src="https://img.freepik.com/free-photo/neon-robot-vacuum-cleaner_23-2151349207.jpg?t=st=1718015798~exp=1718019398~hmac=4e7490ebf4d59679f4dc04f04a584b7e4ae4dc9f846289d7f2165d2566d1589a&w=360" alt=""></a></figure>
+                            
+                            </div>
+                        </div>
+                    
                     </div>
+                
                 </div>
-              
-            </div>
-          
-        </div>
-    </section>
+            </section>
             <!-- END PAGE IMAGE-->
 
-            <!-- ABOUT US-->
-            <section class="section p-t-80">
+            <!-- STATS-->
+            <section class="section-stats p-t-80">
+                    <div class="section-title">
+                        <h5 class="title-sub"><span class="sub-heading-stat">want to know more</span></h5>
+                        <h2 class="title-1">Our <span class="heading-span">Stats</span></h2>
+                    </div>
                 <div class="container">
                     <div class="row no-gutters">
-                        <div class="col-lg-6">
+                        <div class="col-lg-12">
                             <div class="row no-gutters">
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">18</span>
@@ -88,7 +90,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">126</span>
@@ -96,7 +98,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">224</span>
@@ -104,7 +106,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-6">
+                                <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">16</span>
@@ -114,25 +116,28 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-6">
-                            <p class="text--s18-40 m-b-15">
-                                <strong class="text--c2">Sed ut</strong>
-
-                                perspiciatis unde omnis iste natus error sit voluptatem galax accusantium doloremque laudantium, totam rem aper ein iam sha eaque ipsa quae ab illo inventore veritatis et quasi architecto luniso beatae vitae dicta sunt explicabo.
-                            </p>
-                            <p class="text--s18-40">
-                                <strong class="text--c2">Nemo</strong>
-
-                                enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione vshaun oluptatem sequi nesciunt.
-                            </p>
-                        </div>
                     </div>
                 </div>
             </section>
-            <!-- END ABOUT US-->
+            <!-- END STATS-->
+
+            <!-- vision-mission -->
+            <section class="section-vision">
+                <div class="row d-flex container-vision">
+                    <div class="col-lg-4 cardItem">
+                            <h2 class="cardLabel">Our <span class="heading-span">Vision</span></h2>
+                            <p>Our vision is to become a leading name in the interior design and stretch ceiling industry, renowned for our creativity, reliability, and excellence. We aspire to set new standards in design innovation, sustainability, and customer service, creating interiors that inspire and elevate the everyday lives of our clients. </p>
+                    </div>
+                    <div class="col-lg-4 cardItem">
+                            <h2 class="cardLabel">Our <span class="heading-span">Mission</span></h2>
+                            <p>At Pragathi Interiors, our mission is to transform spaces into stunning, functional, and personalized environments that reflect our clients' unique styles and needs. We are committed to delivering exceptional quality and innovative design solutions, with a focus on professionalism,and customer satisfaction.</p>
+                    </div>
+                </div>
+            </section>
+            <!-- vision-mission end -->
 
             <!-- SERVICE-->
-            <section class="p-t-60 p-b-60">
+            <section class="d-none p-t-60 p-b-60">
                 <div class="container">
                     <div class="section-title">
                         <h5 class="title-sub">what we do</h5>
@@ -189,206 +194,18 @@
             </section>
             <!-- END SERVICE-->
 
-            <!-- CLIENT-->
-            <section class="section bg-pattern-01 p-t-100 p-b-25">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-12 col-xl-3">
-                            <div class="section-title section-title--light text-left p-t-15">
-                                <h5 class="title-sub">awesome partner</h5>
-                                <h2 class="title-1">Our Clients</h2>
-                            </div>
-                        </div>
-                        <div class="col-md-12 col-xl-9">
-                            <div class="row">
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-09.png" alt="Client 1">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-10.png" alt="Client 2">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-11.png" alt="Client 3">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-12.png" alt="Client 4">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-13.png" alt="Client 5">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-14.png" alt="Client 6">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-15.png" alt="Client 7">
-                                    </a>
-                                </div>
-                                <div class="col-md-6 col-lg-3">
-                                    <a class="img-client m-b-60" href="#">
-                                        <img src="images/icon/client-16.png" alt="Client 8">
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- END CLIENT-->
-
             <!-- TEAM-->
-            <section class="p-t-120 p-b-30">
-                <div class="container">
-                    <div class="section-title m-b-70">
-                        <h5 class="title-sub">awesome people</h5>
-                        <h2 class="title-1">Meet the team</h2>
+            <section class="p-t-60">
+                <div class="container-fluid">
+                    <div class="section-title">
+                        <h5 class="title-sub"><span class="sub-heading-span">awesome people</span></h5>
+                        <h2 class="title-1">Meet <span class="heading-span">The Team</span></h2>
                     </div>
-                    <div class="row">
+                    <div class="row bg-color-team">
                         <div class="col-md-6 col-lg-4">
                             <article class="media-team">
                                 <figure class="media__img-wrap">
-                                    <ul class="list-social list-social--light">
-                                        <li class="list-social__item">
-                                            <a class="ic-fb" href="#">
-                                                <i class="zmdi zmdi-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-insta" href="#">
-                                                <i class="zmdi zmdi-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-twi" href="#">
-                                                <i class="zmdi zmdi-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-pinterest" href="#">
-                                                <i class="zmdi zmdi-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <span class="overlay"></span>
-                                    <img class="media__img img--rounded" src="images/team-01.jpg" alt="Brad Green" />
-                                </figure>
-                                <div class="media__body">
-                                    <h4 class="title--sm">
-                                        <a href="#">Brad Green</a>
-                                    </h4>
-                                    <span class="title-sub--sm">CEO - Main Architect</span>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <article class="media-team">
-                                <figure class="media__img-wrap">
-                                    <ul class="list-social list-social--light">
-                                        <li class="list-social__item">
-                                            <a class="ic-fb" href="#">
-                                                <i class="zmdi zmdi-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-insta" href="#">
-                                                <i class="zmdi zmdi-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-twi" href="#">
-                                                <i class="zmdi zmdi-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-pinterest" href="#">
-                                                <i class="zmdi zmdi-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <span class="overlay"></span>
-                                    <img class="media__img img--rounded" src="images/team-02.jpg" alt="Sonja Porter" />
-                                </figure>
-                                <div class="media__body">
-                                    <h4 class="title--sm">
-                                        <a href="#">Sonja Porter</a>
-                                    </h4>
-                                    <span class="title-sub--sm">Co-manage Associated</span>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <article class="media-team">
-                                <figure class="media__img-wrap">
-                                    <ul class="list-social list-social--light">
-                                        <li class="list-social__item">
-                                            <a class="ic-fb" href="#">
-                                                <i class="zmdi zmdi-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-insta" href="#">
-                                                <i class="zmdi zmdi-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-twi" href="#">
-                                                <i class="zmdi zmdi-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-pinterest" href="#">
-                                                <i class="zmdi zmdi-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
-                                    <span class="overlay"></span>
-                                    <img class="media__img img--rounded" src="images/team-03.jpg" alt="Marion Lawson" />
-                                </figure>
-                                <div class="media__body">
-                                    <h4 class="title--sm">
-                                        <a href="#">Marion Lawson</a>
-                                    </h4>
-                                    <span class="title-sub--sm">Interior Desinger</span>
-                                </div>
-                            </article>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                            <article class="media-team">
-                                <figure class="media__img-wrap">
-                                    <ul class="list-social list-social--light">
-                                        <li class="list-social__item">
-                                            <a class="ic-fb" href="#">
-                                                <i class="zmdi zmdi-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-insta" href="#">
-                                                <i class="zmdi zmdi-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-twi" href="#">
-                                                <i class="zmdi zmdi-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-pinterest" href="#">
-                                                <i class="zmdi zmdi-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
+                                   
                                     <span class="overlay"></span>
                                     <img class="media__img img--rounded" src="images/team-04.jpg" alt="Tyrone Curtis" />
                                 </figure>
@@ -403,28 +220,7 @@
                         <div class="col-md-6 col-lg-4">
                             <article class="media-team">
                                 <figure class="media__img-wrap">
-                                    <ul class="list-social list-social--light">
-                                        <li class="list-social__item">
-                                            <a class="ic-fb" href="#">
-                                                <i class="zmdi zmdi-facebook"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-insta" href="#">
-                                                <i class="zmdi zmdi-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-twi" href="#">
-                                                <i class="zmdi zmdi-instagram"></i>
-                                            </a>
-                                        </li>
-                                        <li class="list-social__item">
-                                            <a class="ic-pinterest" href="#">
-                                                <i class="zmdi zmdi-google"></i>
-                                            </a>
-                                        </li>
-                                    </ul>
+                                 
                                     <span class="overlay"></span>
                                     <img class="media__img img--rounded" src="images/team-05.jpg" alt="Kim Harrington" />
                                 </figure>
@@ -439,7 +235,7 @@
                         <div class="col-md-6 col-lg-4">
                             <article class="media-team">
                                 <figure class="media__img-wrap">
-                                    <ul class="list-social list-social--light">
+                                    <!-- <ul class="list-social list-social--light">
                                         <li class="list-social__item">
                                             <a class="ic-fb" href="#">
                                                 <i class="zmdi zmdi-facebook"></i>
@@ -460,7 +256,7 @@
                                                 <i class="zmdi zmdi-google"></i>
                                             </a>
                                         </li>
-                                    </ul>
+                                    </ul> -->
                                     <span class="overlay"></span>
                                     <img class="media__img img--rounded" src="images/team-06.jpg" alt="Jodi Rivera" />
                                 </figure>
@@ -476,6 +272,23 @@
                 </div>
             </section>
             <!-- END TEAM-->
+
+            <!-- CTA -->
+                <section class="cta-about-page">
+                    <div class="row cta-about-div">
+                        <div class="col-lg-10">
+                            <h2>Our goal is to create a 
+                                Unique Designing Concept:-<h2>
+                                <p>Check out our Services</p>
+                        </div>
+                        <div class="col-lg-2">
+                            <button type="submit" class="button-cta"><a href="residential-Interiors.php">Read More  <i class="zmdi zmdi-arrow-right ic-arrow"></i></a></button>
+                        </div>
+                    </div>
+                </section>
+            <!-- CTA END-->
+
+
         </main>
         <!-- END MAIN-->
 
