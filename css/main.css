@@ -2276,8 +2276,8 @@ a:hover {
 .media-statistic-2:before {
   content: '';
   display: block;
-  width: 100px;
-  height: 100px;
+  width: 120px;
+  height: 120px;
   background: #f8f8f8;
 }
 
@@ -16647,7 +16647,8 @@ color: #ffffff;
 }
 .about-section{
 position: relative;
-padding: 30px 0 70px;
+padding: 30px 0 50px;
+margin-top:100px;
 }
 
 .about-section .sec-title{
@@ -16710,7 +16711,7 @@ bottom: 16px;
 z-index: 1;
 background: #00abbd;
 padding: 10px 15px;
-left: 96px;
+left: 115px;
 width: calc(100% - 152px);
 border-radius: 50px;
 }
@@ -16738,11 +16739,18 @@ top: -80px;
 left: -3px;
 background: transparent;
 z-index: 0;
-border: 20px solid #004b88;
+border: 30px solid #004b88;
 }
 
 .about-section .image-column .image-1{
 position: relative;
+}
+.image-1 img{
+  width:100%;
+  height:85vh;
+}
+.image-1 a{
+  width:100%;
 }
 .about-section .image-column .image-2{
 position: absolute;
@@ -16788,3 +16796,89 @@ color: #ffffff;
 }
 
 /* About Us Style End */
+
+/*about us page - team section start*/
+.bg-color-team{
+  background-color:#004b88 ;
+  position: relative;
+  z-index: 9;
+}
+.banner-about{
+  background-image: url('https://img.freepik.com/free-photo/dreamy-interior-mall_23-2151591414.jpg?t=st=1718015368~exp=1718018968~hmac=9a27e2a7ded8056541aa3ed0780b9638f0cf57738b4c9757fd2ce18c917fd5c9&w=826');
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-size: cover;
+  height:60vh;
+  position: inherit;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.banner-div h2 span{
+  color:white;
+  font-size:3rem;
+}
+.section-stats{
+  background-color: #00abbd;
+  position: inherit;
+  z-index: 9;
+}
+.sub-heading-stat{
+  color:white;
+}
+
+/*mission-vision*/
+.section-vision{
+  position: relative;
+}
+
+.container-vision {
+  display: flex;
+  justify-content: center;
+}
+.cardItem {
+  width: 141px;
+  margin-top: 100px;
+  margin-right: 20px;
+  padding: 20px;
+  text-align: center;
+  transition: all 500ms ease-in-out;
+  background-color: #eee;
+}
+.cardItem:hover {
+  margin-top: 92px;
+  cursor: pointer;
+  box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
+  transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
+}
+.cardLabel {
+  margin-top: 24px;
+  width: 100%;
+  font-size: 30px;
+  display: block;
+}
+.material-icons {
+  font-size: 64px;
+  margin-top: 24px;
+  color: #1ab5ad;
+}
+/*CTA about page*/
+.cta-about-page{
+  padding:5rem 0;
+  /* background-color:rgb(28, 28, 199); */
+}
+.button-cta{
+  border:2px solid #004b88;
+  border-radius:0.5rem;
+  padding:5px 20px;
+}
+.button-cta a{
+  color:#004b88;
+  text-decoration: none;
+}
+.cta-about-div{
+  width:80%;
+  margin:0 auto;
+}
+/*about us page - team section end*/
