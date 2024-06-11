@@ -39,9 +39,9 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <li class="menu-item">
+                                            <!-- <li class="menu-item">
                                                 <a href="project-detail-1.php">projects</a>
-                                            </li>
+                                            </li> -->
                                             <li class="menu-item">
                                                 <a href="contact.php">contact</a>
                                             </li>
@@ -126,9 +126,9 @@
                                         </li>
                                     </ul>
                             </li>
-                            <li class="menu-item">
+                            <!-- <li class="menu-item">
                                 <a href="project-detail-1.php">projects</a>
-                            </li>
+                            </li> -->
                             <li class="menu-item">
                                 <a href="contact.php">contact</a>
                             </li>

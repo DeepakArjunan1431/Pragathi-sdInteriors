@@ -27,9 +27,19 @@
             </div>
             <!-- END PAGE LINE-->
 
+             <!--Banner section start-->
+             
+             <section class="banner-about p-t-100 p-b-65" style="background-image:url(images/service-bg/stretch.jpg)">
+                <div class="banner-div">
+                        <div class="banner-div">
+                            <h2 class="title-1"><span class=" text-center">Stretch Ceilings</span></h2>
+                        </div>
+                </div>
+            </section> 
+            <!--Banner section start-->
+
             <!-- PROJECT-->
             <section class="p-t-110">
-            <h1 class="text-center title-3 mb-5">Stretch Ceilings</h1>
                 <div class="wrap wrap--w1790">
                     <div class="container-fluid">
                         <article class="media-project-3">
@@ -40,7 +50,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Kharkiv , ukraine</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
@@ -66,7 +75,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Perth , Australia</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
@@ -93,7 +101,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Bilbao , Spain</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
@@ -119,7 +126,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
@@ -145,7 +151,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Canada , usa</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
@@ -171,7 +176,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>

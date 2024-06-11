@@ -84,7 +84,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="crossfade">
-                                <img class="rev-slidebg" src="images/pragathi-images/banner-1.avif" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/sofa-living-room-decorated-with-brazilian-folklore-design_23-2150793979.jpg?t=st=1718110527~exp=1718114127~hmac=1683168a89bd6269421fb5858712b47c784ec625215dca1ceac813547d4e3736&w=740" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -92,6 +92,23 @@
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-35, -30, 15, 10, 10]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="[600,600,500,576,500]" data-height="[&quot;auto&quot;]"
                                 data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Outdoor Designs</h2>
                                 <a class="tp-caption tp-resizeme" href="outdoor-design.php" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[87, 87, 130, 130, 130]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
+                                    <span class="rev-btn-1">See Our Service
+                                        <span class="arrow" data-paddingleft="5">
+                                            <i class="zmdi zmdi-arrow-right"></i>
+                                        </span>
+                                    </span>
+                                </a>
+                            </li>
+                            <li class="rev-item rev-item-1" data-transition="crossfade">
+                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/empty-hallway-background_23-2149408819.jpg?t=st=1718110211~exp=1718113811~hmac=eda37c65644252505bcfb339962b57b267189213305fbc44dd59e83c355ef2ad&w=740" alt="Master Slider 01" />
+                                <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
+                                data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Ceiling</h4>
+                                <h2 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:800,&quot;speed&quot;:2100,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;x:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-35, -30, 15, 10, 10]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="[600,600,500,576,500]" data-height="[&quot;auto&quot;]"
+                                data-lineheight="[60, 60, 45, 50, 45]" data-whitespace="normal" data-color="#fff" data-fontweight="700" data-fontsize="[48, 48, 46, 42, 46]" data-textalign="[left, left, left, left, left]">Stretch Ceiling works</h2>
+                                <a class="tp-caption tp-resizeme" href="stretch-ceiling.php" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[left]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[87, 87, 130, 130, 130]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
                                     <span class="rev-btn-1">See Our Service
                                         <span class="arrow" data-paddingleft="5">
@@ -108,6 +125,15 @@
             <!-- END SLIDER-->
 
             <!-- ABOUT US-->
+                        <div class="d-flex justify-content-end">
+                            <div class="static-section-logo ">
+                                <div class="social-links link1">
+                                    <a target="_blank" href="https://wa.me/918925517107">
+                                        <i class="fab fa-whatsapp"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
             <section class="p-t-10 p-b-55 about-us-section">
                 <div class="container">
                     <div class="media-about">
@@ -115,7 +141,7 @@
                             <div class="col-lg-7 col-md-7 col-sm-12">
                                 <div class="media__body">
                                     <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
-                                    <h2 class="title-1">We are specialists in the field of <span class="heading-span">Interior designs</span></h2>
+                                    <h2 class="title-1">We are specialists in the field of <span class="heading-span">Interior Designs</span></h2>
                                     <p class="media__text">Prahathi Interiors Concept is a professional interior design company operating from Puducherry.
                                         Prahathi Interiors is specializing in Turnkey Projects for all interior designing works with assured quality.
                                        <br>We undertake Interiors Projects which include Residential interior designs, Commercial Interior Design, Allied service, Outdoor design and undertaking the Execution on a Turnkey basis.</p>
@@ -126,7 +152,7 @@
                             </div>
                             <div class="col-lg-5 col-md-5 col-sm-12">
                                 <div class="media__img js-line">
-                                    <img src="images/pragathi-images/about-index.jpeg" alt="About">
+                                    <img src="images/pragathi-images/about-us-home.avif" alt="About">
                                     <span class="line"></span>
                                     <span class="line line-bottom"></span>
                                     <div class="media__img-inner wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
@@ -146,7 +172,7 @@
                 <div class="container">
                     <div class="section-title">
                         <h5 class="title-sub"><span class="sub-heading-span">what we do</span></h5>
-                        <h2 class="title-1">Our <span class="heading-span">specilization</span></h2>
+                        <h2 class="title-1">Our <span class="heading-span">Specilization</span></h2>
                     </div>
                     <div class="row no-gutters">
                         <div class="col-md-6 col-lg-4">
@@ -200,8 +226,8 @@
             <!-- LASTEST PROJECT-->
             <section class="wrap wrap--w1790 p-b-75">
                 <div class="section-title m-b-70">
-                    <h5 class="title-sub"><span class="sub-heading-span">our work</span></h5>
-                    <h2 class="title-1">Latest <span class="heading-span">Services</span></h2>
+                    <h5 class="title-sub"><span class="sub-heading-span">Every day Service for Customer</span></h5>
+                    <h2 class="title-1">Our <span class="heading-span">Services</span></h2>
                 </div>
                 <div class="container-fluid">
                     <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="3" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="true">
@@ -352,7 +378,7 @@
             <section class="single-project">
                 <div class="single-project-div">
                         <div class="single-inner-div">
-                            <h5 class="title-sub"><span class="sub-heading-span">Our Project</span></h5>
+                            <h5 class="title-sub"><span class="sub-heading-span">Featured Service</span></h5>
                             <h2 class="title-1"><span class="heading-span">Stretch Ceiling</span></h2>
                             <p class="single-project-para">Stretch ceilings offer a modern and flexible solution for both residential and commercial spaces, combining aesthetics with practical benefits. Their growing popularity is driven by the ability to create custom designs and the convenience of a durable, low-maintenance ceiling system.</p>
                                     <a class="au-btn au-btn--arrow" href="stretch-ceiling.php">Read more
@@ -452,8 +478,8 @@
             <section class="p-t-15">
                 <div class="">
                     <div class="section-title ">
-                        <h5 class="title-sub"><span class="sub-heading-span">awesome partner</span></h5>
-                        <h2 class="title-1">Our <span class="heading-span">clients</span></h2>
+                        <h5 class="title-sub"><span class="sub-heading-span">Our Prestigious</span></h5>
+                        <h2 class="title-1"><span class="heading-span">Clients</span></h2>
                     </div>
                     <section class="section bg-pattern-01 p-t-100 p-b-25">
                         <div class="">
@@ -519,10 +545,10 @@
                 <div class="cta-div">
                     <div class="row d-flex cta-banner">
                         <div class="col-lg-8 col-md-8 col-sm-12 cta-banner__content">
-                            <h2>Click the button<br> to book an Appointment</h2>
+                            <p>Ready to turn your dream home into a reality? Our expert designers are here to create beautiful, functional spaces that reflect your unique style and needs. </p>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-12">
-                            <a class="au-btn au-btn--arrow" href="about-us.php">Call To Action
+                            <a class="button-white" href="about-us.php">Click Here
                                 <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                             </a>
                         </div>

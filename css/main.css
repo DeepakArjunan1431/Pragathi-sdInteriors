@@ -16428,8 +16428,8 @@ button:focus {
 }
 /* IndexPage - Single Project start*/
 .single-project{
-  background: linear-gradient(#002f4b78, #1314144a), url('../images/pragathi-images/single-project.avif');
-  background-position: right top;
+  background: linear-gradient(#002f4b78, #1314144a), url('../images/pragathi-images/01aa.jpg');
+  background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   z-index:9;
@@ -16505,10 +16505,13 @@ button:focus {
 /* CTA section start */
 .cta-section{
   width:100%;
-  background-color:#00abbd;
+  background: linear-gradient(rgb(36 36 32 / 54%) 30%, rgb(35 35 37 / 45%) 65%), url('../images/pragathi-images/4555.jpg');
   position: inherit;
   z-index:9;
-  padding:40px 0;
+  padding:75px 0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 .cta-div{
   width:80%;
@@ -16521,6 +16524,7 @@ button:focus {
   color:white;
 }
 .cta-banner__content p{
+  font-size:17px;
   color:white;
 }
 /* CTA section end */
@@ -16724,7 +16728,6 @@ margin: 0;
 }
 .about-section .image-column .inner-column .author-desc span{
 font-size: 16px;
-letter-spacing: 6px;
 text-align: center;
 color: #fff;
 display: block;
@@ -16799,16 +16802,15 @@ color: #ffffff;
 
 /*about us page - team section start*/
 .bg-color-team{
-  background-color:#004b88 ;
+  background-color:#2d303214 ;
   position: relative;
   z-index: 9;
 }
 .banner-about{
-  background-image: url('https://img.freepik.com/free-photo/dreamy-interior-mall_23-2151591414.jpg?t=st=1718015368~exp=1718018968~hmac=9a27e2a7ded8056541aa3ed0780b9638f0cf57738b4c9757fd2ce18c917fd5c9&w=826');
   background-repeat: no-repeat;
-  background-position: top center;
+  background-position: center center;
   background-size: cover;
-  height:60vh;
+  height:45vh;
   position: inherit;
   z-index: 9;
   display: flex;
@@ -16853,10 +16855,13 @@ color: #ffffff;
   transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
 }
 .cardLabel {
-  margin-top: 24px;
+  /* margin-top: 24px; */
   width: 100%;
   font-size: 30px;
   display: block;
+}
+.cardItem-img img{
+  width:25%;
 }
 .material-icons {
   font-size: 64px;
@@ -16882,3 +16887,70 @@ color: #ffffff;
   margin:0 auto;
 }
 /*about us page - team section end*/
+
+/*static*/
+.static-section-logo{
+	padding:0px 30px 0px 0px;
+	margin-top:-9rem;
+	position:fixed;
+	z-index:999;
+  }
+  .static-section-logo .social-links {
+    width: 30%;
+}
+.static-section-logo .social-links a i {
+  color: #028800;
+  font-size: 40px;
+  width: 55px; 
+  height: 55px; 
+  border-radius: 50%;
+  outline-width: 1px;
+  outline-offset: 0;
+  padding: 10px; 
+  outline-color: white;
+  outline-style: solid;
+  background-color: #ffffff;
+  animation: animateOutline 2s ease infinite;
+  display: inline-flex; 
+  align-items: center; 
+  justify-content: center; 
+}
+
+  @keyframes animateOutline {
+	0% {
+	  outline-width: 1px;
+	  outline-offset: 0;
+	  outline-color: rgba(0, 130, 206, 0);
+	}
+  
+	10% {
+	  outline-color: white;
+	}
+  
+	50% {
+	  outline-width: 7px;
+	  outline-offset: 4px;
+	  outline-color: rgba(0, 130, 206, 0);
+	}
+  
+	100% {
+	  outline-width: 7px;
+	  outline-offset: 4px;
+	  outline-color: rgba(102, 102, 102, 0);
+	}
+  }
+	
+/*static end*/
+.au-rev-bullet-1 .tp-bullet:nth-child(4) .tp-bullet-title:before{content:'04'}
+.au-rev-bullet-1 .tp-bullet:nth-child(5) .tp-bullet-title:before{content:'05'}
+
+.button-white{
+  border:1px solid white;
+  color:white;
+  padding:2px 20px;
+  background-color:#ffffff2b;
+  border-radius:0.5rem;
+}
+.button-white:hover{
+  color:white;
+}

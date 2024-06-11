@@ -3,7 +3,7 @@
             <div class="bg-overlay bg-overlay--p85"></div>
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-4 col-md-6">
+                    <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="footer-col">
                             <div class="widget m-b-25">
                                 <a href="#">
@@ -11,18 +11,14 @@
                                 </a>
                             </div>
                             <div class="widget widget-address">
-                                <ul>
-                                    <li>Address : 991 White St . Dawsonville, GA 30534 , New York</li>
-                                    <li>Phone number : + (898) 784-7217</li>
-                                    <li>Email : Tatee.architecture@gmail.com</li>
-                                </ul>
+                                <p>Your home should tell the story of who you are, and be a collection of what you love.</p>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-6">
-                        <div class="footer-col p-l-70 p-md-l-0">
+                    <div class="col-lg-2 col-md-6 col-sm-12">
+                        <div class="footer-col  p-md-l-0">
                             <div class="widget widget_pages">
-                                <h4 class="widget-title">Link</h4>
+                                <h4 class="widget-title">QUICK Link</h4>
                                 <ul>
                                     <li>
                                         <a href="index.php">Home</a>
@@ -33,9 +29,9 @@
                                     <li>
                                         <a href="#">Service</a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="project=detail-3.php">Projects</a>
-                                    </li>
+                                    </li> -->
                                     <li>
                                         <a href="contact.php">Contact</a>
                                     </li>
@@ -43,11 +39,41 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-col p-l-70 p-md-l-0">
-                            <h4 class="widget-title">Social</h4>
-                            <div class="widget widget_socials">
-                                <ul class="list-social list-social-2">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="footer-col  p-md-l-0">
+                            <div class="widget widget_pages">
+                                <h4 class="widget-title">Our Service</h4>
+                                <ul>
+                                    <li>
+                                        <a href="residential-Interiors.php">Residential</a>
+                                    </li>
+                                    <li>
+                                        <a href="commercial.php">Commercial</a>
+                                    </li>
+                                    <li>
+                                        <a href="stretch-ceiling.php">Stretch Ceilings</a>
+                                    </li>
+                                    <li>
+                                        <a href="allied-service.php">Allied Services</a>
+                                    </li>
+                                    <li>
+                                        <a href="outdoor-design.php">Outdoor Designs</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="footer-col">
+                            <div class="widget widget_text">
+                                <h4 class="widget-title">address</h4>
+                                <div class="widget widget-address">
+                                    <ul>
+                                        <li>Address : 991 White St . Dawsonville, GA 30534 , New York</li>
+                                        <li>Phone number :+91 99402 39064</li>
+                                        <li>Email : Tatee.architecture@gmail.com</li>
+                                    </ul>
+                                    <ul class="list-social list-social-2">
                                     <li class="list-social__item">
                                         <a class="ic-fb" href="https://fb.watch/seCxmpzycV/" target="_blank">
                                             <i class="zmdi zmdi-facebook"></i>
@@ -74,14 +100,7 @@
                                         </a>
                                     </li>
                                 </ul>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6">
-                        <div class="footer-col">
-                            <div class="widget widget_text">
-                                <h4 class="widget-title">copyright</h4>
-                                <p><a href="blackitechs.com">Developed by Black I Technologies & Solutions</a></p>
+                                </div>
                             </div>
                         </div>
                     </div>

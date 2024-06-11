@@ -27,9 +27,18 @@
             </div>
             <!-- END PAGE LINE-->
 
+             <!--Banner section start-->
+             <section class="banner-about p-t-100 p-b-65" style="background-image:url(https://img.freepik.com/free-photo/view-modern-office_1170-1969.jpg?t=st=1718114508~exp=1718118108~hmac=a582555b406f00652ef05a3806de3ceb0069fe543f373dfcfe298569f173c49c&w=740)">
+                <div class="banner-div">
+                        <div class="banner-div">
+                            <h2 class="title-1"><span class=" text-center">Allied Services</span></h2>
+                        </div>
+                </div>
+            </section> 
+            <!--Banner section start-->
+
             <!-- PROJECT-->
             <section class="p-t-110">
-            <h1 class="text-center title-3 mb-5">Allied Services</h1>
                 <div class="wrap wrap--w1790">
                     <div class="container-fluid">
                         <article class="media-project-3">
@@ -40,7 +49,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Kharkiv , ukraine</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -66,7 +74,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Perth , Australia</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -94,7 +101,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Bilbao , Spain</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -121,7 +127,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -147,7 +152,6 @@
                                     </a>
                                 </figure>
                                 <span class="add">Canada , usa</span>
-                                <span class="year">2018</span>
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -175,7 +179,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -201,7 +205,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">Canada , usa</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -228,7 +232,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -256,7 +260,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">Canada , usa</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -286,7 +290,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -313,7 +317,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">Canada , usa</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -342,7 +346,7 @@
                                     </a>
                                 </figure>
                                 <span class="add">samara , rusia</span>
-                                <span class="year">2018</span>
+                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>

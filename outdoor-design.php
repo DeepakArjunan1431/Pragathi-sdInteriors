@@ -27,9 +27,18 @@
             </div>
             <!-- END PAGE LINE-->
 
+             <!--Banner section start-->
+             <section class="banner-about p-t-100 p-b-65" style="background-image: url(https://img.freepik.com/free-photo/sofa-living-room-decorated-with-brazilian-folklore-design_23-2150793987.jpg?t=st=1718114617~exp=1718118217~hmac=129ea170acb59b5b0a2e75d39f5acf023936c345d4787b767b89f9f6ffdc4e83&w=740)">
+                <div class="banner-div">
+                        <div class="banner-div">
+                            <h2 class="title-1"><span class=" text-center">Outdoor Designs</span></h2>
+                        </div>
+                </div>
+            </section> 
+            <!--Banner section start-->
+
             <!-- PROJECT-->
             <section class="p-t-110">
-                <h1 class="text-center title-3 mb-5">Outdoor Designs</h1>
                     <div class="wrap wrap--w1790">
                         <div class="container-fluid">
                             <article class="media-project-3">
@@ -40,7 +49,7 @@
                                         </a>
                                     </figure>
                                     <span class="add">Kharkiv , ukraine</span>
-                                    <span class="year">2018</span>
+                                    
                                     <div class="media__content">
                                         <div class="pointer"></div>
                                         <h4 class="title-sub title-sub--c8">Outdoor Designs</h4>
