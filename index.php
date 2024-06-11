@@ -33,7 +33,7 @@
                     <div class="rev_slider fullwidthabanner js-rev" data-version="5.4.4" style="display:none" data-rev-layout="fullscreen" data-rev-stylearrow="au-rev-arrow-1" data-rev-bullets="true" data-rev-stylebullet="au-rev-bullet-1" data-rev-voffbullet="55">
                         <ul>
                             <li class="rev-item rev-item-1" data-transition="crossfade">
-                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/armchair-green-living-room-with-copy-space_43614-910.jpg?t=st=1717502116~exp=1717505716~hmac=1ebc41d49e3bc85678057b7f002ec052ae6d583ac8057cb8d9aaeb8954035b09&w=740" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="images/pragathi-images/banner-1.avif" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -50,7 +50,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="slotslide-horizontal">
-                                <img class="g" src="https://img.freepik.com/free-photo/yellow-armchair-living-room-with-copy-space_43614-940.jpg?t=st=1717502216~exp=1717505816~hmac=99991c8451c227248893c1dfa5061f5b72547401682cba334fe164539b25706d&w=740" alt="Master Slider 01" />
+                                <img class="g" src="images/pragathi-images/banner-2.avif" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -67,7 +67,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="papercut">
-                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/gray-sofa-living-room-with-free-space_43614-893.jpg?t=st=1717502167~exp=1717505767~hmac=5465b0e2b3eebf8637f011fc4191dfdaffb6ab3670024eb22b5b343c1a13f0ef&w=740" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="images/pragathi-images/banner-3.avif" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -84,7 +84,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="crossfade">
-                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/gray-sofa-living-room-with-free-space_43614-893.jpg?t=st=1717502167~exp=1717505767~hmac=5465b0e2b3eebf8637f011fc4191dfdaffb6ab3670024eb22b5b343c1a13f0ef&w=740" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="images/pragathi-images/banner-1.avif" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -126,7 +126,7 @@
                             </div>
                             <div class="col-lg-5 col-md-5 col-sm-12">
                                 <div class="media__img js-line">
-                                    <img src="https://img.freepik.com/free-photo/scandinavian-vintage-wood-cabinet-with-chair-by-dark-blue-wall_53876-98164.jpg?t=st=1717765816~exp=1717769416~hmac=98ac4e48683e7520fd527bebc0c620e5eb5e98a07a407556d2330e43fbd711d8&w=740" alt="About">
+                                    <img src="images/pragathi-images/about-index.jpeg" alt="About">
                                     <span class="line"></span>
                                     <span class="line line-bottom"></span>
                                     <div class="media__img-inner wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
@@ -210,7 +210,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/hotel-room-with-comfortable-couch_1203-1488.jpg?t=st=1717769422~exp=1717773022~hmac=cbae91af57139017b410a243620bb57ac415a4822776bceeb5cc438edabca2b8&w=360" alt="luxury villa" />
+                                            <img src="images/pragathi-images/project-1.avif" alt="luxury villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -226,7 +226,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/bed-arrangements-still-life_23-2150532996.jpg?t=st=1717769546~exp=1717773146~hmac=421d3b866e27dbf6a15090e21168d303dd0e2af39b2331c445fba8174a3b75af&w=360" alt="wooden villa" />
+                                            <img src="images/pragathi-images/project-2.avif" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -242,7 +242,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/view-modern-office_1170-1970.jpg?t=st=1717769717~exp=1717773317~hmac=a74cc25fe484ea29cbf00906ffa5402ae44f0f4949056f1f303ca1e2cd2e3644&w=360" alt="Skyline" />
+                                            <img src="images/pragathi-images/project-3.avif" alt="Skyline" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -259,7 +259,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/interior-view-operating-room_1170-2255.jpg?t=st=1717769745~exp=1717773345~hmac=a51faf4ab5412a2a66b6154d56230d830848e2da4d2d87323e6835a8b6c2a7a6&w=360" alt="Frozen house" />
+                                            <img src="images/pragathi-images/project-4.avif" alt="Frozen house" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -276,7 +276,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/interior-design-with-armchair-potted-plant_23-2149427983.jpg?t=st=1717770044~exp=1717773644~hmac=11068b9324bed7c82980787a8340059178ec655fe3a3884a3d6dfd3225adc768&w=360" alt="luxury villa" />
+                                            <img src="images/pragathi-images/project-5.avif" alt="luxury villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -292,7 +292,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/light-lamp-decoration-interior_74190-6674.jpg?t=st=1717770090~exp=1717773690~hmac=19ac432ce27be19837915c0b80906964d0872598d192de288a2424345afc2b12&w=360" alt="wooden villa" />
+                                            <img src="images/pragathi-images/project-6.avif" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -308,7 +308,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="https://img.freepik.com/free-photo/happy-young-caucasian-brunette-looking-camera-holding-string-bag-with-tangerines-while-sitting-outdoors-healthy-lifestyle-people-concept_197531-32648.jpg?t=st=1717770358~exp=1717773958~hmac=1a19cc7c9ed1bccaee4fd8f16642ded1f45b27880517b3855ff88fe08682884e&w=360" alt="wooden villa" />
+                                            <img src="images/pragathi-images/project-7.avif" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
@@ -324,7 +324,7 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                        <img src="https://img.freepik.com/free-photo/chair-nobody-summer-lifestyle-terrace_1203-4897.jpg?t=st=1717770229~exp=1717773829~hmac=7d9c9dde54aabbc71d858bb8afb0c77d6fd32c12e088dd371747bf3b18716392&w=360" alt="wooden villa" />
+                                        <img src="images/pragathi-images/project-8.avif" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>

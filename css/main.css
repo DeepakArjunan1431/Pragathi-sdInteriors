@@ -16428,7 +16428,7 @@ button:focus {
 }
 /* IndexPage - Single Project start*/
 .single-project{
-  background: linear-gradient(#002f4b78, #1314144a), url(https://img.freepik.com/free-photo/3d-rendering-modern-dining-room-living-room-with-luxury-decor_105762-2000.jpg?t=st=1717999118~exp=1718002718~hmac=529b20b…&w=996);
+  background: linear-gradient(#002f4b78, #1314144a), url('../images/pragathi-images/single-project.avif');
   background-position: right top;
   background-repeat: no-repeat;
   background-size: cover;
