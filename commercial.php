@@ -177,7 +177,7 @@
                             <div class="media__body">
                                 <figure class="media__img">
                                     <a>
-                                        <img src="https://img.freepik.com/free-photo/lady-receptionist-working-hospital-reception-desk-help-patients-with-medical-appointment-healthcare-employee-waiting-room-lobby-checkup-visit-report-with-medication_482257-47699.jpg?t=st=1717506608~exp=1717510208~hmac=b34b55f53fc1df8c004c3d45c8a75cd7c07fc9969b4f71a90eb882fe1966ccc2&w=826" alt="Banking" />
+                                        <img src="images/pragathi-images/com-6.jpg" alt="Banking" />
                                     </a>
                                 </figure>
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">

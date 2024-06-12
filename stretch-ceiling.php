@@ -119,7 +119,7 @@
                             <div class="media__body">
                                 <figure class="media__img">
                                     <a>
-                                        <img src="https://img.freepik.com/free-photo/photo-swimming-pool-trampolines_23-2148326836.jpg?t=st=1718006296~exp=1718009896~hmac=7711aa2c5c68e07988c3b4a19f1e23be9a3a1aa761c12c76f48a92aecb192a8c&w=740" alt="Light Boxes" />
+                                        <img src="images/pragathi-images/stretch-4.jpg" alt="Light Boxes" />
                                     </a>
                                 </figure>
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
@@ -167,7 +167,7 @@
                             <div class="media__body">
                                 <figure class="media__img">
                                     <a>
-                                        <img src="https://img.freepik.com/free-photo/bangkok-thailand-august-12-2016-beautiful-luxury-living-room_1203-2867.jpg?t=st=1718006489~exp=1718010089~hmac=237fad8ee0d8af69df1badc868764a499a7ec825b6b86ce0516084a12e68734d&w=740" alt="Acoustic" />
+                                        <img src="images/pragathi-images/stretch-6.jpg" alt="Acoustic" />
                                     </a>
                                 </figure>
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
