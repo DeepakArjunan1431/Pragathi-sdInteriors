@@ -1746,7 +1746,7 @@ a:hover {
 
 .media-project-3 .media__content {
   padding-left: 80px;
-  max-width: 750px;
+  max-width: 600px !important;
   position: relative;
 }
 
@@ -16807,6 +16807,7 @@ color: #ffffff;
   z-index: 9;
 }
 .banner-about{
+  background-image: url('https://utopiainteriors.in/wp-content/uploads/2022/05/Bedroom-Interior-Design.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -16953,4 +16954,69 @@ color: #ffffff;
 }
 .button-white:hover{
   color:white;
+}
+/*services banner*/
+.res-banner-sec{
+  background:linear-gradient(#00000038,#000000a1), url('https://basics.co.in/wp-content/uploads/2020/09/01_Nature_Residence_Interior_DoubleHeightLobby_HERO.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height:45vh;
+  position: inherit;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.comm-banner-sec{
+  background:linear-gradient(#00000038,#000000a1), url('../images/service-bg/commercial-interiors.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height:45vh;
+  position: inherit;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stretch-banner-sec{
+  background:linear-gradient(#00000038,#000000a1), url('../images/service-bg/stretch.jpg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height:45vh;
+  position: inherit;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.allied-banner-sec{
+ background:linear-gradient(#00000038,#000000a1), url('https://img.freepik.com/free-photo/human-hands-working-it-yourself-project_23-2151509469.jpg?t=st=1718177169~exp=1718180769~hmac=5e726a4b4b847af921b280f5179874f51e34c06d7c7f9593ff9f83312a803970&w=740');
+ background-repeat: no-repeat;
+ background-position: top center;
+ background-size: cover;
+ height:45vh;
+ position: inherit;
+ z-index: 9;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+
+.outdoor-banner-sec{
+  background:linear-gradient(#00000038,#000000a1), url('https://img.freepik.com/free-photo/hammocks-near-pool_1203-693.jpg?t=st=1718177510~exp=1718181110~hmac=ee12d1eeff529190a922dd35711f3b06254eff4d01df4f458152476c14aaeba6&w=740');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  height:45vh;
+  position: inherit;
+  z-index: 9;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

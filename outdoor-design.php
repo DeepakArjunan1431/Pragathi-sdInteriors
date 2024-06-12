@@ -28,7 +28,7 @@
             <!-- END PAGE LINE-->
 
              <!--Banner section start-->
-             <section class="banner-about p-t-100 p-b-65" style="background-image: url(https://img.freepik.com/free-photo/sofa-living-room-decorated-with-brazilian-folklore-design_23-2150793987.jpg?t=st=1718114617~exp=1718118217~hmac=129ea170acb59b5b0a2e75d39f5acf023936c345d4787b767b89f9f6ffdc4e83&w=740)">
+             <section class="outdoor-banner-sec p-t-100 p-b-65">
                 <div class="banner-div">
                         <div class="banner-div">
                             <h2 class="title-1"><span class=" text-center">Outdoor Designs</span></h2>
@@ -48,7 +48,7 @@
                                             <img src="https://img.freepik.com/free-photo/dreamy-interior-mall_23-2151591389.jpg?t=st=1717507660~exp=1717511260~hmac=4db20f02da1e7a4287af252cd08333d2c005adddf99022eedbd1174e3c636e28&w=826" alt="Living Room" />
                                         </a>
                                     </figure>
-                                    <span class="add">Kharkiv , ukraine</span>
+                                    <span><a href="contact.php" class="add">Click here to know more</a></span>
                                     
                                     <div class="media__content">
                                         <div class="pointer"></div>

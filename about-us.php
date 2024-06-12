@@ -27,7 +27,7 @@
             <!-- END PAGE LINE-->
 
             <!-- PAGE HEADING-->
-            <section class="banner-about p-t-100 p-b-65" style="background-image: url('https://utopiainteriors.in/wp-content/uploads/2022/05/Bedroom-Interior-Design.jpg');">
+            <section class="banner-about p-t-100 p-b-65" >
                 <div class="banner-div">
                         <div class="banner-div">
                             <h2 class="title-1"><span class=" text-center">About Us</span></h2>
@@ -110,7 +110,7 @@
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">16</span>
-                                            <h5 class="media__title ">design arwards</h5>
+                                            <h5 class="media__title ">design awards</h5>
                                         </div>
                                     </div>
                                 </div>
