@@ -76,7 +76,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Printed Stretch Ceiling</h2>
+                                    <h2 class="title-3">Printed</h2>
                                     <p class="media__text">Printed stretch ceilings provide customizable designs that enhance aesthetics, reduce stress, and cultivate a positive atmosphere. 
                                         </p>
                                 </div>
@@ -149,7 +149,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Lacquer Ceiling</h2>
+                                    <h2 class="title-3">Lacquer</h2>
                                     <p class="media__text">Lacquer ceilings can reflect light beautifully, giving rooms a luminous and sophisticated appearance. They are also relatively easy to clean and maintain, making them a popular choice for spaces where hygiene and aesthetics are both important.</p>
                                 </div>
                             </div>
@@ -173,7 +173,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Acoustic stretch ceilings</h2>
+                                    <h2 class="title-3">Acoustic</h2>
                                     <p class="media__text">Acoustic stretch ceilings are a specialized type of stretch ceiling designed to address sound related issues in interior spaces. These ceilings combine the aesthetic advantages of stretch ceilings with acoustic properties, creating an environment that is both visually pleasing and acoustically comfortable.</p>
                                 </div>
                             </div>

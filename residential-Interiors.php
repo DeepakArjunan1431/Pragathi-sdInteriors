@@ -79,7 +79,7 @@
                                                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Residential Interiors</h4>
-                                    <h2 class="title-3"> Bedroom</h2>
+                                    <h2 class="title-3"> Bed Room</h2>
                                     <p class="media__text">Every human being develops a intimate relationship with the bedroom where they spend nearly one third of a
                                         day. Bedroom will be designed to make your body and mind totally relaxed and gets rejuvenated for peak
                                         performance during next day.</p>

@@ -53,7 +53,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h2 class="title-3">Office Interiors</h2>
+                                    <h2 class="title-3">Office</h2>
                                     <p class="media__text">Organized and highly sophisticated corporate office areas are offered by us. Spacious cupboards to store the
                                         files and comfortable furniture are some of the vital things that we always incorporate in our interior designing.
                                         Prahathi Interiors adopts the Latest office equipments for providing better space and innovative work place.</p>
@@ -79,7 +79,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h2 class="title-3">Hospital Interiors</h2>
+                                    <h2 class="title-3">Hospital</h2>
                                     <p class="media__text">Hospitals and healthcare centers are repository of good health, recuperation and fountainhead of healing the body and mind. Such
                                         a place should have interiors that are positive, expansive with enough natural light and air is but a natural expectation. The core
                                         of the healthcare express the body, heart, mind, or spirit.
@@ -106,7 +106,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h2 class="title-3">Showroom Interiors</h2>
+                                    <h2 class="title-3">Showroom</h2>
                                     <p class="media__text">OWe offer showroom interior design for well spaced and organizes showrooms keeping the aesthetic sense and other requirements of
                                             our clients in mind.</p>
                                     
@@ -207,7 +207,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h2 class="title-3">Education</h2>
+                                    <h2 class="title-3">Education Places</h2>
                                     <p class="media__text">We offer comprehensive Institution Interior Design Services. The overall effect should be calming, comforting and not a strange
                                         place where one feels out of place.</p>
                                 </div>

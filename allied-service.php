@@ -75,7 +75,7 @@
                                 <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h2 class="title-3"> Aluminum partition & Wooden Partition</h2>
+                                    <h2 class="title-3"> Aluminum & Wooden Partition</h2>
                                     <p class="media__text">Interiors Fabricates and installs aluminum doors, Window and louvers. Free Space Interiors Provides high quality glass
                                     works for office complexes, shopping malls, etc.
                                         </p>
