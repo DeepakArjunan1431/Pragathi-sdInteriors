@@ -5,7 +5,7 @@
             include './shared/header.php'
         ?>
 
-<body class="animsition js-preloader">
+<body class="">
     <div class="page-wrapper">
         <!-- HEADER-->
         <?php
