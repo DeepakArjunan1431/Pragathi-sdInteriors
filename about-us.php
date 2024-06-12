@@ -37,9 +37,12 @@
             <!-- END PAGE HEADING--->
 
             <!-- PAGE IMAGE-->
+             
             <section class="about-section">
                 <div class="container">
-                    <div class="row">                
+
+                    <div class="row">
+                                        
                         <div class="content-column col-lg-6 col-md-12 col-sm-12 order-2">
                             <div class="inner-column">
                                 <div class="">
@@ -61,7 +64,7 @@
                                 <h2>Specializing in</h2>
                                 <span> Turn key project </span>
                             </div>
-                                <figure class="image-1"><a  class="lightbox-image" data-fancybox="images"><img title="" src="https://img.freepik.com/free-photo/neon-robot-vacuum-cleaner_23-2151349207.jpg?t=st=1718015798~exp=1718019398~hmac=4e7490ebf4d59679f4dc04f04a584b7e4ae4dc9f846289d7f2165d2566d1589a&w=360" alt=""></a></figure>
+                                <figure class="image-1"><a  class="lightbox-image" data-fancybox="images"><img title="" src="images/pragathi-images/about-page.avif" alt=""></a></figure>
                             
                             </div>
                         </div>

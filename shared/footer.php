@@ -1,7 +1,17 @@
  <!-- FOOTER-->
  <footer class="footer bg-parallax">
             <div class="bg-overlay bg-overlay--p85"></div>
+            
             <div class="container">
+                        <div class="d-flex justify-content-end">
+                            <div class="static-section-logo ">
+                                <div class="social-links link1">
+                                    <a target="_blank" href="https://wa.me/918925517107">
+                                        <i class="fab fa-whatsapp"></i>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-sm-12">
                         <div class="footer-col">
@@ -69,42 +79,44 @@
                                 <h4 class="widget-title">address</h4>
                                 <div class="widget widget-address">
                                     <ul>
-                                        <li>Address : 991 White St . Dawsonville, GA 30534 , New York</li>
+                                        <!-- <li>Address : 991 White St . Dawsonville, GA 30534 , New York</li> -->
                                         <li>Phone number :+91 99402 39064</li>
-                                        <li>Email : Tatee.architecture@gmail.com</li>
+                                        <li>Email : contact@pragathiinteriors.com</li>
                                     </ul>
                                     <ul class="list-social list-social-2">
-                                    <li class="list-social__item">
-                                        <a class="ic-fb" href="https://fb.watch/seCxmpzycV/" target="_blank">
-                                            <i class="zmdi zmdi-facebook"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-insta" href="https://www.instagram.com/reel/C7TFG86qhoE/?utm_source=ig_web_copy_link" target="_blank">
-                                            <i class="zmdi zmdi-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-twi" href="https://x.com/PInteriors79/status/1793517107503902768" target="_blank">
-                                            <i class="zmdi zmdi-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-pinterest" href="https://www.linkedin.com/posts/pragathi-interiors_stretchceilingpondicherry-rgb-musiccontroller-activity-7199311940882440192-9X8z?utm_source=share&utm_medium=member_desktop" target="_blank">
-                                            <i class="zmdi zmdi-linkedin"></i>
-                                        </a>
-                                    </li>
-                                    <li class="list-social__item">
-                                        <a class="ic-google" href="https://youtube.com/shorts/oNEle_DlP1Q?feature=share" target="_blank">
-                                            <i class="zmdi zmdi-youtube"></i>
-                                        </a>
-                                    </li>
-                                </ul>
+                                        <li class="list-social__item">
+                                            <a class="ic-fb" href="https://fb.watch/seCxmpzycV/" target="_blank">
+                                                <i class="zmdi zmdi-facebook"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-social__item">
+                                            <a class="ic-insta" href="https://www.instagram.com/reel/C7TFG86qhoE/?utm_source=ig_web_copy_link" target="_blank">
+                                                <i class="zmdi zmdi-instagram"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-social__item">
+                                            <a class="ic-twi" href="https://x.com/PInteriors79/status/1793517107503902768" target="_blank">
+                                                <i class="zmdi zmdi-twitter"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-social__item">
+                                            <a class="ic-pinterest" href="https://www.linkedin.com/posts/pragathi-interiors_stretchceilingpondicherry-rgb-musiccontroller-activity-7199311940882440192-9X8z?utm_source=share&utm_medium=member_desktop" target="_blank">
+                                                <i class="zmdi zmdi-linkedin"></i>
+                                            </a>
+                                        </li>
+                                        <li class="list-social__item">
+                                            <a class="ic-google" href="https://youtube.com/shorts/oNEle_DlP1Q?feature=share" target="_blank">
+                                                <i class="zmdi zmdi-youtube"></i>
+                                            </a>
+                                        </li>
+                                    </ul>
                                 </div>
                             </div>
                         </div>
                     </div>
+                    
                 </div>
+                
             </div>
         </footer>
         <!-- END FOOTER-->

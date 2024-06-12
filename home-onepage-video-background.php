@@ -691,7 +691,7 @@
                                 </div>
                                 <div class="contact-info__item">
                                     <h5 class="title--sm2">email:</h5>
-                                    <p class="value">Tatee.architecture@gmail.com</p>
+                                    <p class="value">contact@pragathiinteriors.com</p>
                                 </div>
                             </div>
                         </div>

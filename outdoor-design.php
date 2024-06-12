@@ -44,11 +44,10 @@
                             <article class="media-project-3">
                                 <div class="media__body">
                                     <figure class="media__img">
-                                        <a href="project-detail-1.php">
-                                            <img src="https://img.freepik.com/free-photo/dreamy-interior-mall_23-2151591389.jpg?t=st=1717507660~exp=1717511260~hmac=4db20f02da1e7a4287af252cd08333d2c005adddf99022eedbd1174e3c636e28&w=826" alt="Living Room" />
-                                        </a>
+                                        <a>
+                                            <img src="images/pragathi-images/outdoor-1.avif" alt="Outdoor Designs" />                                        </a>
                                     </figure>
-                                    <span><a href="contact.php" class="add">Click here to know more</a></span>
+                                    <span><a href="contact.php" class="add">KNOW MORE</a></span>
                                     
                                     <div class="media__content">
                                         <div class="pointer"></div>

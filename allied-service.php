@@ -44,11 +44,11 @@
                         <article class="media-project-3">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/back-view-person-with-empty-chairs-prepared-group-therapy_23-2148752124.jpg?t=st=1717506921~exp=1717510521~hmac=bae7a1c2b13aaf8eae5371816ec12560b14c08f68496a1621a199ddfabccad2b&w=740" alt="Living Room" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-1.jpg" alt="Furniture" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
                                     <h2 class="title-3">Furniture</h2>
@@ -68,11 +68,11 @@
                         <article class="media-project-3 right">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/interior-shopping-mall_23-2147669866.jpg?t=st=1717506965~exp=1717510565~hmac=8f56aed04574cae7b53e23d9f42f813c785a9a2c3a2236b5f4bd59245ff4c1a7&w=740" alt="Lunisolar Homestay" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-2.jpg" alt="Aluminum & Wooden Partition" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
                                     <h2 class="title-3"> Aluminum & Wooden Partition</h2>
@@ -94,11 +94,11 @@
                         <article class="media-project-3">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/silhouette-businessman-holding-document_23-2147626387.jpg?t=st=1717507010~exp=1717510610~hmac=f39c94bb8ae2b2d38f498a88f0d0de825401248cbccdc3b62f54c402c86598ee&w=740" alt="B.o.x Studio" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-3.jpg" alt="Toughened Glass work" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
                                     <h2 class="title-3">Toughened Glass work</h2>
@@ -119,11 +119,11 @@
                         <article class="media-project-3 right">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/construction-worker-painting-fence-home_1150-5910.jpg?t=st=1717507083~exp=1717510683~hmac=6b89d2cce3bdb013a95a8dc6b055dc8736014266e39f0a775c38a8af83a18979&w=740" alt="Tourliver University" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-4.jpg" alt="Railing & SS Grill" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
                                     <h2 class="title-3">Railing & SS Grill</h2>
@@ -143,11 +143,11 @@
                         <article class="media-project-3">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/standing-industrial-engineers-blue-vests-helmets_496169-947.jpg?t=st=1717507129~exp=1717510729~hmac=03a2274f6b4e4d4ec96f38e189041771de48a5f6083039b1333df97b9d5ef4a6&w=740" alt="Moutain home" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-6.jpg" alt="ACP and Glazing" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                <div class="media__content">
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
                                     <h2 class="title-3">ACP and Glazing</h2>
@@ -169,11 +169,11 @@
                         <article class="media-project-3 right">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/cheerful-people-using-orange-color-paint-apartment-walls-painting-home-interior-surface-with-round-rolling-tool-paintbrush-with-bristles-little-girl-sitting-ladder-help-woman_482257-47762.jpg?t=st=1717507188~exp=1717510788~hmac=a7924802714b268253c0748666e2823c682d20353da73eea4c42abb9798b7d79&w=740" alt="Tourliver University" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-7.jpg" alt="Wall texture painting" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -194,11 +194,11 @@
                         <article class="media-project-3">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/medium-shot-woman-painting-wall-home_23-2149098981.jpg?t=st=1717507248~exp=1717510848~hmac=3a22726e94608be7ff1dc0e2b92a94f971aacb4e37ad05ddeb72cb43b5eb136a&w=740" alt="Moutain home" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-8.jpg" alt="Painting Interior & Exterior" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -220,11 +220,11 @@
                         <article class="media-project-3 right">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/boy-looking-out-window_23-2148806372.jpg?t=st=1717507278~exp=1717510878~hmac=e6e1040c4f6ed3e92ba16d04b5a755e2e95cedcdcf5d5e0a7f9c10ae7b5b547e&w=740" alt="Tourliver University" />
+                                    <a>
+                                        <img src="images/pragathi-images/allied-9.jpg" alt="Curtains and Blinds" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -247,11 +247,11 @@
                         <article class="media-project-3">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/colleagues-communicating-break_23-2147679089.jpg?t=st=1717507359~exp=1717510959~hmac=e6222f35c65a3d9c3bbb977a46bcbd58f5ee274c898a2bfbee05935112b0932c&w=740" alt="Moutain home" />
+                                    <a>
+                                    <img src="images/pragathi-images/allied-10.jpg" alt="Vinyl Flooring" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -276,11 +276,11 @@
                         <article class="media-project-3 right">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/abstract-map-illustration-with-cartography-world-map-generative-ai_188544-9424.jpg?t=st=1717507396~exp=1717510996~hmac=ca7df70d08061cd49afc4da2ab7e8b10ffca5dcecc75318b968720fb6f4185d8&w=826" alt="Tourliver University" />
+                                    <a>
+                                    <img src="images/pragathi-images/allied-11.avif" alt="Imported Wall paper and sticker’s murals" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -302,11 +302,11 @@
                         <article class="media-project-3">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/ceiling-lamps_1203-791.jpg?t=st=1717507440~exp=1717511040~hmac=3b7ed21f3b7e0920c9af0ea2c715e8f479d5b86ebbddd4f82580cbb8e230bdf7&w=740" alt="Moutain home" />
+                                    <a>
+                                    <img src="images/pragathi-images/allied-12.jpg" alt="Lamps" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
@@ -330,11 +330,11 @@
                         <article class="media-project-3 right">
                             <div class="media__body">
                                 <figure class="media__img">
-                                    <a href="project-detail-1.php">
-                                        <img src="https://img.freepik.com/free-photo/boy-with-skateboard-looking-through-window_23-2147667438.jpg?t=st=1717507525~exp=1717511125~hmac=57f15849c426f71d9e40e07fcdae8407f73c4c40b82249e69a428704b20f90fc&w=826" alt="Tourliver University" />
+                                    <a>
+                                    <img src="images/pragathi-images/allied-13.avif" alt="UPVC Door & Window" />
                                     </a>
                                 </figure>
-                                <span><a href="contact.php" class="add">Click here to know more</a></span>                                
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>

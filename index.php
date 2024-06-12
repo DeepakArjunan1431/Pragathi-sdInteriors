@@ -50,7 +50,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="slotslide-horizontal">
-                                <img class="g" src="images/pragathi-images/banner-2.avif" alt="Master Slider 01" />
+                                <img class="g" src="images/service-bg/commercial-interiors.jpg" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -84,7 +84,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="crossfade">
-                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/sofa-living-room-decorated-with-brazilian-folklore-design_23-2150793979.jpg?t=st=1718110527~exp=1718114127~hmac=1683168a89bd6269421fb5858712b47c784ec625215dca1ceac813547d4e3736&w=740" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="images/pragathi-images/banner-4.jpg" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Interiors</h4>
@@ -101,7 +101,7 @@
                                 </a>
                             </li>
                             <li class="rev-item rev-item-1" data-transition="crossfade">
-                                <img class="rev-slidebg" src="https://img.freepik.com/free-photo/empty-hallway-background_23-2149408819.jpg?t=st=1718110211~exp=1718113811~hmac=eda37c65644252505bcfb339962b57b267189213305fbc44dd59e83c355ef2ad&w=740" alt="Master Slider 01" />
+                                <img class="rev-slidebg" src="images/service-bg/stretch.jpg" alt="Master Slider 01" />
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['left']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-118, -118, -70, -80, -80]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#fff" data-fontweight="400" data-fontsize="[11, 11, 18, 20, 20]" data-textalign="[left, left, left, center, center]">Ceiling</h4>
@@ -125,15 +125,6 @@
             <!-- END SLIDER-->
 
             <!-- ABOUT US-->
-                        <div class="d-flex justify-content-end">
-                            <div class="static-section-logo ">
-                                <div class="social-links link1">
-                                    <a target="_blank" href="https://wa.me/918925517107">
-                                        <i class="fab fa-whatsapp"></i>
-                                    </a>
-                                </div>
-                            </div>
-                        </div>
             <section class="p-t-10 p-b-55 about-us-section">
                 <div class="container">
                     <div class="media-about">
