@@ -21,8 +21,8 @@ $mail->Port = 587;
 $mail->SMTPAuth = true;
 $mail->Username = "mails@blackitechs.com";
 $mail->Password = "BitsMail@2022";
-$mail->setFrom("mails@blackitechs.com", "FROM DEEPAK");
-$mail->AddAddress($email);
+$mail->setFrom("mails@blackitechs.com", "FROM Pragathi");
+$mail->AddAddress("contact@pragathiinteriors.com");
 $mail->Subject = "PRAGATHI INTERIORS USER DETAILS";
 $mail->msgHTML('
             <!DOCTYPE html>
@@ -37,13 +37,13 @@ $mail->msgHTML('
             <body>
                 <br><br>
                 <p>
-                    Greetings from the Deepak.'.$name.'
+                    Name  .'.$name.'
                 </p><br>
                 <p>
-                    Greetings from Deepak.'.$subject.'
+                    Number.'.$subject.'
                 </p><br>
                 <p>
-                    Greetings from the Deepak.'.$message.'
+                    Message.'.$message.'
                 </p><br>
             </body>
 
