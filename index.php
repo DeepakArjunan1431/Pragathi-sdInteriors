@@ -4,6 +4,9 @@
         <?php
             include './shared/header.php'
         ?>
+        <head>
+<title>Pragathi Interiors|Home</title>
+</head>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
@@ -221,7 +224,7 @@
                     <h2 class="title-1">Our <span class="heading-span">Services</span></h2>
                 </div>
                 <div class="container-fluid">
-                    <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="3" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="true">
+                    <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="3" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="false">
                         <div class="slick-wrap-content">
                             <div class="slick-content js-slick-content">
                                 <div class="slick-item">
@@ -325,14 +328,14 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/pragathi-images/project-7.avif" alt="wooden villa" />
+                                            <img src="images/pragathi-images/Frontyard.jpg" alt="wooden villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="outdoor-design.php">Front-yard-garden</a>
+                                                <a href="outdoor-design.php">Frontyard Garden</a>
                                             </h3>
                                             <div class="address">Outdoor Designs</div>
                                         </div>

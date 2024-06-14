@@ -2,12 +2,13 @@
     <!-- Required meta tags-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Tatee Theme Templates">
-    <meta name="author" content="AuCreative">
-    <meta name="keywords" content="Tatee Theme Templates">
+    <meta name="description" content="Creative touch and experience">
+    <meta name="author" content="Blackitechs">
+    <meta name="keywords" content="Pragathi Interiors, residential interiors, home design, interior decoration, interior design services, living room interiors, bedroom interiors, kitchen interiors, home renovation, custom furniture, interior styling, home decor">
+
 
     <!-- Title Page-->
-    <title>Pragathi Interior</title>
+    <!-- <title>Pragathi Interior</title> -->
 
     <!-- Icons font CSS-->
     <link href="./vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
@@ -33,6 +34,7 @@
     <!-- Main CSS-->
     <link href="./css/main.css" rel="stylesheet" media="all">
     <link href="./css/main.min.css" rel="stylesheet" media="all">
+    <link rel="stylesheet" href="./css/custom.css">
 
     <!--Favicons-->
     <link rel="shortcut icon" href="images/icon/main-logo.png">
