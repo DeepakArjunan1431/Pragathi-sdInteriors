@@ -16438,7 +16438,6 @@ button:focus {
   background-size: cover;
   z-index:9;
   position:relative;
-  margin-bottom:5rem;
 }
 .single-project-div{
   background-color:white;
@@ -16457,7 +16456,7 @@ button:focus {
   .single-project{
     padding-top:13rem;
     padding-left:5rem;
-    height:100vh;
+    height:130vh;
   }
   .single-project-div{
     width:50%;
@@ -16467,7 +16466,7 @@ button:focus {
   .single-project{
     padding-top:5rem;
     padding-left:5rem;
-    height:100vh;
+    height:130vh;
   }
   .single-project-div{
     width:60%;
@@ -16477,7 +16476,7 @@ button:focus {
   .single-project{
     padding-top:6rem;
     padding-left:5rem;
-    height:100vh;
+    height:130vh;
   }
   .single-project-div{
     width:70%;
@@ -16487,7 +16486,7 @@ button:focus {
   .single-project{
     padding-top:1rem;
     padding-left:1rem;
-    height:120vh;
+    height:150vh;
   }
   .single-project-div{
     width:95%;
@@ -16509,13 +16508,14 @@ button:focus {
 /* CTA section start */
 .cta-section{
   width:100%;
-  background: linear-gradient(rgb(36 36 32 / 54%) 30%, rgb(35 35 37 / 45%) 65%), url('../images/pragathi-images/4555.jpg');
+  background: linear-gradient(rgb(36 36 32 / 21%) 30%, rgb(35 35 37 / 20%) 65%), url() ;
+  background: linear-gradient(rgb(36 36 32 / 54%) 30%, rgb(35 35 37 / 45%) 65%), url('https://img.freepik.com/premium-photo/spacious-living-room-with-long-dining-table-welllit-modern-sophisticated-ambiance-concept-living-room-decor-dining-table-setup-modern-lighting-spacious-interiors-sophisticated-ambiance_918839-250311.jpg?w=996');
   position: inherit;
   z-index:9;
-  padding:75px 0;
+  padding:45px 0;
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: top center;
 }
 .cta-div{
   width:80%;
@@ -16655,7 +16655,7 @@ color: #ffffff;
 }
 .about-section{
 position: relative;
-padding: 30px 0 50px;
+padding: 30px 0 0px;
 margin-top:100px;
 }
 
@@ -16841,7 +16841,7 @@ color: #ffffff;
   z-index: 9;
 }
 .banner-about{
-  background-image: url('../images/pragathi-images/about-banner.jpg');
+  background-image: url('../images/About-banner.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -16876,7 +16876,8 @@ color: #ffffff;
 }
 .cardItem {
   /* width: 141px; */
-  margin-top: 100px;
+  margin-top: 60px;
+  margin-bottom: 60px;
   padding: 20px;
   margin-right: 20px;
   text-align: center;
@@ -16887,11 +16888,11 @@ color: #ffffff;
   .cardItem {
     margin-right: 0px;
     margin-top: 45px;
-
+    margin-bottom: 45px;
   }
 }
 .cardItem:hover {
-  margin-top: 92px;
+  margin-top: 52px;
   cursor: pointer;
   box-shadow: 0px 12px 30px 0px rgba(0, 0, 0, 0.2);
   transition: all 800ms cubic-bezier(0.19, 1, 0.22, 1);
@@ -16989,6 +16990,7 @@ color: #ffffff;
 .au-rev-bullet-1 .tp-bullet:nth-child(5) .tp-bullet-title:before{content:'05'}
 
 .button-white{
+  margin-top:2rem;
   border:1px solid white;
   color:white;
   padding:2px 20px;

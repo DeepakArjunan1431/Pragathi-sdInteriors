@@ -135,9 +135,9 @@
                             <div class="col-lg-7 col-md-7 col-sm-12">
                                 <div class="media__body">
                                     <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
-                                    <h2 class="title-1">We are specialists in the field of <span class="heading-span">Interior Designs</span></h2>
-                                    <p class="media__text">Prahathi Interiors Concept is a professional interior design company operating from Puducherry.
-                                        Prahathi Interiors is specializing in Turnkey Projects for all interior designing works with assured quality.
+                                    <h2 class="title-1">We are specialists in the field of <span class="heading-span">Stretch Ceiling and Interior Designs</span></h2>
+                                    <p class="media__text">Pragathi Interiors Concept is a professional interior design company operating from Puducherry.
+                                        Pragathi Interiors is specializing in Turnkey Projects for all interior designing works with assured quality.
                                        <br>We undertake Interiors Projects which include Residential interior designs, Commercial Interior Design, Allied service, Outdoor design and undertaking the Execution on a Turnkey basis.</p>
                                     <a class="au-btn au-btn--arrow" href="about-us.php">Read more
                                         <i class="zmdi zmdi-arrow-right ic-arrow"></i>
@@ -150,7 +150,7 @@
                                     <span class="line"></span>
                                     <span class="line line-bottom"></span>
                                     <div class="media__img-inner wow fadeIn" data-wow-duration="0.8s" data-wow-delay="0.2s">
-                                        <span class="number">15</span>
+                                        <span class="number">20</span>
                                         <span class="desc">years of experience</span>
                                     </div>
                                 </div>
@@ -380,6 +380,61 @@
                                     </a>
                         </div>
                 </div>
+                <section class="section p-t-100 p-b-25">
+                        <div class="">
+                            <div class="row">
+                                <div class="col-md-12 col-xl-3">
+                                    <div class="section-title section-title--light text-left p-t-15">
+                                        <h2 class="title" style="color:white">Our Clients </h2>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-xl-9">
+                                    <div class="row">
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-09.png" alt="Client 1">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-10.png" alt="Client 2">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-11.png" alt="Client 3">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-12.png" alt="Client 4">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-13.png" alt="Client 5">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-14.png" alt="Client 6">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-15.png" alt="Client 7">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6 col-lg-3">
+                                            <a class="img-client m-b-60" href="#">
+                                                <img src="images/icon/client-16.png" alt="Client 8">
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
             </section>
             <!-- SINGLE PROJECT END-->
 
@@ -468,80 +523,12 @@
             </section>
             <!-- END TESTI-->
 
-            <!-- CLIENT-->
-            <section class="p-t-15">
-                <div class="">
-                    <div class="section-title ">
-                        <h5 class="title-sub"><span class="sub-heading-span">Our Prestigious</span></h5>
-                        <h2 class="title-1"><span class="heading-span">Clients</span></h2>
-                    </div>
-                    <section class="section bg-pattern-01 p-t-100 p-b-25">
-                        <div class="">
-                            <div class="row">
-                                <div class="col-md-12 col-xl-3">
-                                    <div class="section-title section-title--light text-left p-t-15">
-                                        <h2 class="title" style="color:white">Spend quality time with beloved clients </h2>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 col-xl-9">
-                                    <div class="row">
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-09.png" alt="Client 1">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-10.png" alt="Client 2">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-11.png" alt="Client 3">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-12.png" alt="Client 4">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-13.png" alt="Client 5">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-14.png" alt="Client 6">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-15.png" alt="Client 7">
-                                            </a>
-                                        </div>
-                                        <div class="col-md-6 col-lg-3">
-                                            <a class="img-client m-b-60" href="#">
-                                                <img src="images/icon/client-16.png" alt="Client 8">
-                                            </a>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                </div>
-            </section>
-            <!-- END CLIENT-->
-
             <!-- CTA START -->
              <section class="cta-section">
                 <div class="cta-div">
-                    <div class="row d-flex cta-banner">
-                        <div class="col-lg-8 col-md-8 col-sm-12 cta-banner__content">
+                    <div class="row cta-banner">
+                        <div class="col-lg-10 col-md-12 col-sm-12 cta-banner__content">
                             <p>Ready to turn your dream home into a reality? Our expert designers are here to create beautiful, functional spaces that reflect your unique style and needs. </p>
-                        </div>
-                        <div class="col-lg-4 col-md-4 col-sm-12">
                             <a class="button-white" href="about-us.php">Click Here
                                 <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                             </a>

@@ -6,7 +6,7 @@
                         <div class="d-flex justify-content-end">
                             <div class="static-section-logo ">
                                 <div class="social-links link1">
-                                    <a target="_blank" href="https://wa.me/918925517107">
+                                    <a target="_blank" href="https://wa.me/919092299355">
                                         <i class="fab fa-whatsapp"></i>
                                     </a>
                                 </div>
@@ -80,7 +80,7 @@
                                 <div class="widget widget-address">
                                     <ul>
                                         <!-- <li>Address : 991 White St . Dawsonville, GA 30534 , New York</li> -->
-                                        <li>Phone number :+91 99402 39064</li>
+                                        <li>Phone number :+91 9092299355</li>
                                         <li>Email : contact@pragathiinteriors.com</li>
                                     </ul>
                                     <ul class="list-social list-social-2">

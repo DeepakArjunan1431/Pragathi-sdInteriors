@@ -50,11 +50,13 @@
                             <div class="inner-column">
                                 <div class="">
                                     <span class="title">ABOUT PRAGATHI INTERIORS</span>
-                                    <h2 class="title-1">Crafting <span class="heading-span">Beautiful Interiors</span> with Excellence</h2>
+                                    <h2 class="title-1">Crafting <span class="heading-span">Beautiful Interiors and Stretch Ceiling</span> with Excellence.</h2>
                                 </div>
-                                <div class="text">Prahathi Interiors Concept is a premier interior design company based in Puducherry, renowned for its expertise and commitment to excellence. We specialize in providing comprehensive Turnkey Project solutions for a wide range of interior design needs, ensuring the highest standards of quality and craftsmanship.</div>
-                            <div class="text">
-                            Pragathi Interiors Concept is a premier interior design company based in the vibrant city of Puducherry. With a reputation for excellence, we specialize in providing comprehensive Turnkey Project solutions that cater to a wide range of interior design needs. Our commitment to delivering the highest standards of quality and craftsmanship sets us apart in the industry. We pride ourselves on transforming spaces with innovative design, meticulous attention to detail, and an unwavering dedication to our clients' visions.
+                                <div class="text">
+                                    Pragathi Interiors Concept is a premier interior design company based in the vibrant city of Puducherry, renowned for its expertise in both interior design and stretch ceilings. We specialize in providing comprehensive turnkey project solutions, ensuring the highest standards of quality and craftsmanship for a wide range of interior needs.
+                                </div>
+                                <div class="text">
+                                    At Pragathi Interiors Concept, we are dedicated to transforming spaces with innovative design and meticulous attention to detail. Our services encompass stylish interior design and state-of-the-art stretch ceilings, designed to enhance the aesthetic and functionality of your space. With a commitment to excellence and an unwavering dedication to our clients' visions, we pride ourselves on delivering exceptional results that reflect the unique style and requirements of each project.
                                 </div>
                                 
                             </div>
@@ -78,6 +80,27 @@
             </section>
             <!-- END PAGE IMAGE-->
 
+            <!-- vision-mission -->
+            <section class="section-vision">
+                <div class="row  container-vision">
+                    <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
+                        <div class="cardItem-img">
+                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png">
+                        </div>
+                            <h2 class="cardLabel">Our <span class="heading-span">Vision</span></h2>
+                            <p>Our vision is to lead in interior design and stretch ceilings, known for creativity and excellence. We aim to innovate with cutting-edge stretch ceiling solutions and set new standards in design and service. Our goal is to inspire and elevate spaces, enhancing the everyday lives of our clients.</p>
+                    </div>
+                    <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
+                        <div class="cardItem-img">
+                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png">
+                        </div>
+                            <h2 class="cardLabel">Our <span class="heading-span">Mission</span></h2>
+                            <p>At Pragathi Interiors, our mission is to create stunning and functional spaces that reflect our clients' unique styles. We are dedicated to delivering exceptional quality and innovative design solutions, focusing on professionalism and customer satisfaction.</p>
+                    </div>
+                </div>
+            </section>
+            <!-- vision-mission end -->
+
             <!-- STATS-->
             <section class="section-stats p-t-80">
                     <div class="section-title">
@@ -91,7 +114,7 @@
                                 <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
-                                            <span class="media__number js-counterup">14</span>
+                                            <span class="media__number js-counterup">20</span>
                                             <h5 class="media__title ">Years of experience</h5>
                                         </div>
                                     </div>
@@ -108,7 +131,7 @@
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">224</span>
-                                            <h5 class="media__title ">completed projects</h5>
+                                            <h5 class="media__title ">Completed projects</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -116,7 +139,7 @@
                                     <div class="media-statistic-2">
                                         <div class="media__body">
                                             <span class="media__number js-counterup">16</span>
-                                            <h5 class="media__title ">design awards</h5>
+                                            <h5 class="media__title ">Design awards</h5>
                                         </div>
                                     </div>
                                 </div>
@@ -127,26 +150,6 @@
             </section>
             <!-- END STATS-->
 
-            <!-- vision-mission -->
-            <section class="section-vision">
-                <div class="row  container-vision">
-                    <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
-                        <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png">
-                        </div>
-                            <h2 class="cardLabel">Our <span class="heading-span">Vision</span></h2>
-                            <p>Our vision is to become a leading name in the interior design and stretch ceiling industry, renowned for our creativity, reliability, and excellence. We aspire to set new standards in design innovation, sustainability, and customer service, creating interiors that inspire and elevate the everyday lives of our clients. </p>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
-                        <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png">
-                        </div>
-                            <h2 class="cardLabel">Our <span class="heading-span">Mission</span></h2>
-                            <p>At Pragathi Interiors, our mission is to transform spaces into stunning, functional, and personalized environments that reflect our clients' unique styles and needs. We are committed to delivering exceptional quality and innovative design solutions, with a focus on professionalism,and customer satisfaction.</p>
-                    </div>
-                </div>
-            </section>
-            <!-- vision-mission end -->
 
             <!-- SERVICE-->
             <section class="d-none p-t-60 p-b-60">
@@ -207,7 +210,7 @@
             <!-- END SERVICE-->
 
             <!-- TEAM-->
-            <section class="p-t-60">
+            <section class="d-none p-t-60">
                 <div class="container-fluid">
                     <div class="section-title">
                         <h5 class="title-sub"><span class="sub-heading-span">meet our</span></h5>
@@ -289,11 +292,10 @@
                 <section class="cta-about-page">
                     <div class="row cta-about-div">
                         <div class="col-lg-9">
-                            <h2>Our goal is to create a 
-                                Unique Designing Concept<h2>
+                            <h2>Our goal is to craft unique and innovative stretch ceiling solutions.<h2>
                         </div>
                         <div class="col-lg-3">
-                            <button type="submit" class="button-cta"><a href="residential-Interiors.php">Explore Our Services<i class="zmdi zmdi-arrow-right ic-arrow"></i></a></button>
+                            <button type="submit" class="button-cta"><a href="stretch-ceiling.php">Explore Our Services<i class="zmdi zmdi-arrow-right ic-arrow"></i></a></button>
                         </div>
                     </div>
                 </section>

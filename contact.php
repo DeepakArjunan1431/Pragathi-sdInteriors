@@ -64,7 +64,7 @@
                             <div class="contact-info">
                                 <div class="contact-info__item">
                                     <h5 class="title--sm2">PHONE NUMBER :</h5>
-                                    <p class="value"><a href="tel:919940239064">+91 9940239064</a></p>
+                                    <p class="value"><a href="tel:919092299355">+91 9092299355</a></p>
                                 </div>
                                 <div class="contact-info__item">
                                     <h5 class="title--sm2">email:</h5>

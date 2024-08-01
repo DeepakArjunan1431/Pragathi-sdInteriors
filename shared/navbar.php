@@ -23,13 +23,16 @@
                                                 <a href="residential-Interiors.php">Services</a>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">
-                                                        <a href="residential-Interiors.php">Residential Interiors </a>
+                                                        <a href="stretch-ceiling.php">Stretch Ceiling</a>
                                                     </li>
+                                                    <li class="menu-item">
+                                                        <a href="WallGraphics.php">Wall Graphics</a>
+                                                    </li>  
                                                     <li class="menu-item">
                                                         <a href="commercial.php">Commercial Interiors</a>
-                                                    </li>
+                                                    </li> 
                                                     <li class="menu-item">
-                                                        <a href="stretch-ceiling.php">Stretch Ceiling</a>
+                                                        <a href="residential-Interiors.php">Residential Interiors </a>
                                                     </li>
                                                     <li class="menu-item">
                                                         <a href="allied-service.php">Allied Services</a>
@@ -113,13 +116,16 @@
                                 <a href="residential-Interiors.php">Services</a>
                                     <ul class="sub-menu">
                                         <li class="menu-item">
-                                            <a href="residential-Interiors.php">Residential Interiors </a>
+                                            <a href="stretch-ceiling.php">Stretch Ceiling</a>
+                                        </li>
+                                        <li class="menu-item">
+                                            <a href="WallGraphics.php">Wall Graphics</a>
                                         </li>
                                         <li class="menu-item">
                                             <a href="commercial.php">Commercial Interiors</a>
                                         </li>
                                         <li class="menu-item">
-                                            <a href="stretch-ceiling.php">Stretch Ceiling</a>
+                                            <a href="residential-Interiors.php">Residential Interiors </a>
                                         </li>
                                         <li class="menu-item">
                                             <a href="allied-service.php">Allied Services</a>

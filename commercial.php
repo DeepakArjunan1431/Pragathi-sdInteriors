@@ -58,7 +58,7 @@
                                     <h2 class="title-3">Office</h2>
                                     <p class="media__text">Organized and highly sophisticated corporate office areas are offered by us. Spacious cupboards to store the
                                         files and comfortable furniture are some of the vital things that we always incorporate in our interior designing.
-                                        Prahathi Interiors adopts the Latest office equipments for providing better space and innovative work place.</p>
+                                        Pragathi Interiors adopts the Latest office equipments for providing better space and innovative work place.</p>
                                 </div>
                             </div>
                         </article>
