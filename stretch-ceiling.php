@@ -6,7 +6,7 @@
         ?>
 
 <head>
-<title>Pragathi Interiors|Stretch Ceilings</title>
+<title>Pragathi Interiors | Stretch Ceilings</title>
 </head>
 
 <body class="">

@@ -6,7 +6,7 @@
             
         ?>
 <head>
-<title>Pragathi Interiors|About Us</title>
+<title> Pragathi Interiors | About Us</title>
 </head>
 
 <body class="animsition js-preloader">

@@ -5,7 +5,7 @@
             include './shared/header.php'
         ?>
         <head>
-<title>Pragathi Interiors|Home</title>
+<title> Pragathi Interiors | Home </title>
 </head>
 
 <body class="animsition js-preloader">

@@ -4,8 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="Creative touch and experience">
     <meta name="author" content="Blackitechs">
-    <meta name="keywords" content="Pragathi Interiors, residential interiors, home design, interior decoration, interior design services, living room interiors, bedroom interiors, kitchen interiors, home renovation, custom furniture, interior styling, home decor">
-
+    <meta name="keywords" content="interiors, residential interiors, home design, interior decoration, interior design services, 
+        living room interiors, bedroom interiors, kitchen interiors, home renovation, custom furniture, interior styling, 
+        home decor">
 
     <!-- Title Page-->
     <!-- <title>Pragathi Interior</title> -->

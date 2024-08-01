@@ -5,7 +5,7 @@
             include './shared/header.php'
         ?>
 <head>
-<title>Pragathi Interiors|Commercial Interiors</title>
+<title> Pragathi Interiors | Commercial Interiors</title>
 </head>
 <body class="">
     <div class="page-wrapper">
