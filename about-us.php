@@ -3,8 +3,11 @@
 
         <?php
             include './shared/header.php'
+            
         ?>
-
+<head>
+<title>Pragathi Interiors|About Us</title>
+</head>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
@@ -129,14 +132,14 @@
                 <div class="row  container-vision">
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png">
+                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png">
                         </div>
                             <h2 class="cardLabel">Our <span class="heading-span">Vision</span></h2>
                             <p>Our vision is to become a leading name in the interior design and stretch ceiling industry, renowned for our creativity, reliability, and excellence. We aspire to set new standards in design innovation, sustainability, and customer service, creating interiors that inspire and elevate the everyday lives of our clients. </p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png">
+                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png">
                         </div>
                             <h2 class="cardLabel">Our <span class="heading-span">Mission</span></h2>
                             <p>At Pragathi Interiors, our mission is to transform spaces into stunning, functional, and personalized environments that reflect our clients' unique styles and needs. We are committed to delivering exceptional quality and innovative design solutions, with a focus on professionalism,and customer satisfaction.</p>

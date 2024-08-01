@@ -42,12 +42,15 @@
                                             <!-- <li class="menu-item">
                                                 <a href="project-detail-1.php">projects</a>
                                             </li> -->
+                                            <Button class="au-btn au-btn--arrow">
                                             <li class="menu-item">
-                                                <a href="contact.php">contact</a>
+                                                <a class="hot" href="contact.php">contact</a>
                                             </li>
+                                            </Button>
+                                            
                                         </ul>
                                     </nav>
-                                    <div class="header-social">
+                                    <!-- <div class="header-social">
                                         <ul class="list-social">
                                             <li class="list-social__item">
                                                 <a target="_blank" class="ic-fb" href="https://fb.watch/seCxmpzycV/">
@@ -75,7 +78,7 @@
                                                 </a>
                                             </li>
                                         </ul>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

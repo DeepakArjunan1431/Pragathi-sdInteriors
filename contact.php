@@ -4,6 +4,9 @@
         <?php
             include './shared/header.php'
         ?>
+        <head>
+<title>Pragathi Interiors|Contact</title>
+</head>
 
 <body class="">
     <div class="page-wrapper">

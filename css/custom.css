@@ -1,0 +1,8 @@
+a.hot {
+    color: white;
+    font-weight: 600;
+}
+.header--fixed .menu-item a.hot {
+    padding: 2px 8px 2px 8px ;
+}
+

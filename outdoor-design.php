@@ -4,7 +4,9 @@
         <?php
             include './shared/header.php'
         ?>
-
+<head>
+<title>Pragathi Interiors|Outdoor Designs</title>
+</head>
 <body class="">
     <div class="page-wrapper">
         <!-- HEADER-->
