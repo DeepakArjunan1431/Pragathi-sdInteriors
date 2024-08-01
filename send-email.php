@@ -37,7 +37,7 @@ $mail->msgHTML('
             <body>
                 <br><br>
                 <p>
-                    Name  .'.$name.'
+                    Name .'.$name.'
                 </p><br>
                 <p>
                     Number.'.$subject.'
