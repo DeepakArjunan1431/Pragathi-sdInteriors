@@ -170,9 +170,8 @@
                                 <div class="media__body">
                                     <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
                                     <h2 class="title-1">We are specialists in the field of <span class="heading-span">Stretch Ceiling and Interior Designs</span></h2>
-                                    <p class="media__text">Pragathi Interiors Concept is a professional interior design company operating from Puducherry.
-                                        Pragathi Interiors is specializing in Turnkey Projects for all interior designing works with assured quality.
-                                       <br>We undertake Interiors Projects which include Residential interior designs, Commercial Interior Design, Allied service, Outdoor design and undertaking the Execution on a Turnkey basis.</p>
+                                    <p class="media__text">Pragathi Interiors Concept is a professional interior design company based in Puducherry. We specialize in Turnkey Projects for all interior design needs, including residential and commercial interiors, outdoor design, and allied services.
+                                       <br>In addition, we offer innovative stretch ceiling solutions to enhance the aesthetic and functionality of your spaces. Our commitment to quality and comprehensive execution ensures a seamless experience from design to implementation.</p>
                                     <a class="au-btn au-btn--arrow" href="about-us.php">Read more
                                         <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                                     </a>

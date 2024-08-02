@@ -17105,3 +17105,84 @@ color: #ffffff;
   align-items: center;
   justify-content: center;
 }
+
+/*founder notes in about page*/
+.founders-note {
+  margin-bottom: 5rem;
+  width: 100%;
+  background: linear-gradient(to right, #004b88 50%, #e3d9d940 50%);
+  padding: 50px 0;
+  position: relative;
+}
+
+.founders-note .container {
+  background-color: white;
+  width: 80%;
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.founders-note .container .left,
+.founders-note .container .right {
+  flex: 1;
+  padding: 15px;
+}
+
+.founders-note .container .left {
+  background-image: url('../images/service-bg/founder.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 8px 0 0 8px;
+}
+
+.founders-note .container .right {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.founders-note .container .right .content {
+  max-width: 500px;
+}
+
+.content p {
+  padding: 5px 0px;
+  line-height: 25px !important;
+}
+
+.content span {
+  font-weight: bold;
+}
+
+/* Responsive styles for mobile */
+@media (max-width: 768px) {
+  .founders-note .container {
+    flex-direction: column;
+    width: 90%; 
+    padding:0px !important;
+  }
+  
+
+  .founders-note .container .left {
+    border-radius: 8px 8px 0 0; 
+    width: 100%; 
+    background-size: cover;
+    background-position: center;
+    padding:250px 0px;
+  }
+
+  .founders-note .container .right {
+    width: 100%; 
+    padding: 15px;
+    margin-top: 15px; 
+  }
+
+  .founders-note .container .right .content {
+    max-width: 100%; 
+  }
+}
+
+/*founder notes in about end*/

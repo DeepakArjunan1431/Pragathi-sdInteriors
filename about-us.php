@@ -101,6 +101,24 @@
             </section>
             <!-- vision-mission end -->
 
+            <!-- founder notes-->
+            <section class="founders-note">
+                <div class="container">
+                    <div class="left"></div>
+                    <div class="right">
+                        <div class="content">
+                            <h2>Founder's Note</h2>
+                            <p>At Pragathi Interiors, we believe that great design transforms not just spaces but lives. Our journey began with a passion for creating environments that blend aesthetic beauty with functional excellence. As the founder, I am proud of our team's dedication to delivering outstanding interior design solutions and stretch ceiling innovations.</p>
+                            <p>Our mission has always been to exceed expectations through quality craftsmanship and a personalized approach. We understand that every project is unique, and we are committed to understanding your vision and bringing it to life with creativity and precision.</p>
+                            
+                            <span>Gopalakannan K</span><br>
+                            <span>Founder, Pragathi Interiors</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+             <!-- founder notes end-->
+
             <!-- STATS-->
             <section class="section-stats p-t-80">
                     <div class="section-title">
@@ -122,7 +140,7 @@
                                 <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
-                                            <span class="media__number js-counterup">126</span>
+                                            <span class="media__number js-counterup">700</span>
                                             <h5 class="media__title ">Happy clients</h5>
                                         </div>
                                     </div>
@@ -130,7 +148,7 @@
                                 <div class="col-md-3">
                                     <div class="media-statistic-2">
                                         <div class="media__body">
-                                            <span class="media__number js-counterup">224</span>
+                                            <span class="media__number js-counterup">1000</span>
                                             <h5 class="media__title ">Completed projects</h5>
                                         </div>
                                     </div>
