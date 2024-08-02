@@ -168,6 +168,35 @@
             </section>
             <!-- END STATS-->
 
+             <!-- ICEIL  PARTNER-->
+             <div class="iceil-partners">
+                <div class=" row">
+                    <div class="content-side col-lg-6 col-md-6 col-sm-12">
+                        <div class="content-child">
+                            <h2>Global Partnerships, Local Excellence</h2>
+                            <p>We are proud to partner with ICEIL, a leader in stretch ceilings. With a network of worldwide partners, we bring unparalleled expertise and quality to our interior design and stretch ceiling solutions.</p>
+                        </div>
+                    </div>
+                    <div class="image-side col-lg-6  col-md-6 col-sm-12">
+                        <img src="images/service-bg/franchise.jpg">
+                    </div>
+                </div>
+            </div>
+            <!--ICEIL  PARTNER end-->
+
+            <!-- vehaan-builders-->
+            <div class="vehaan-builders">
+                <div class="container">
+                    <div class="left"></div>
+                    <div class="center">
+                        <p>Pragathi Interiors and Vehan Builders are two names for the same dedicated team. We offer exceptional interior design and construction solutions, ensuring quality and satisfaction in every project.</p>
+                    </div>
+                    <div class="right"></div>
+                </div>
+                </div>
+            </div>
+            <!--vehaan-builders end-->
+
 
             <!-- SERVICE-->
             <section class="d-none p-t-60 p-b-60">
