@@ -261,6 +261,7 @@
                     <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="3" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="false">
                         <div class="slick-wrap-content">
                             <div class="slick-content js-slick-content">
+                                <!--interior start-->
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
@@ -272,22 +273,6 @@
                                         <div class="media__body">
                                             <h3 class="title">
                                                 <a href="residential-interiors.php">Living Room</a>
-                                            </h3>
-                                            <div class="address">Residential Interiors</div>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="slick-item">
-                                    <article class="media media-project">
-                                        <figure class="media__img">
-                                            <img src="images/pragathi-images/project-2.avif" alt="wooden villa" />
-                                        </figure>
-                                        <div class="bg-overlay"></div>
-                                        <span class="line"></span>
-                                        <span class="line line--bottom"></span>
-                                        <div class="media__body">
-                                            <h3 class="title">
-                                                <a href="residential-interiors.php">Bedroom</a>
                                             </h3>
                                             <div class="address">Residential Interiors</div>
                                         </div>
@@ -313,23 +298,6 @@
                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                            <img src="images/pragathi-images/project-4.avif" alt="Frozen house" />
-                                        </figure>
-                                        <div class="bg-overlay"></div>
-                                        <span class="line"></span>
-                                        <span class="line line--bottom"></span>
-                                        <div class="media__body">
-                                            <h3 class="title">
-                                                <a href="commercial.php"> Hospital Interiors</a>
-                                            </h3>
-                                            <div class="address">Commercial Interiors
-                                            </div>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="slick-item">
-                                    <article class="media media-project">
-                                        <figure class="media__img">
                                             <img src="images/pragathi-images/project-5.avif" alt="luxury villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
@@ -338,22 +306,6 @@
                                         <div class="media__body">
                                             <h3 class="title">
                                                 <a href="allied-service.php">Furniture</a>
-                                            </h3>
-                                            <div class="address">Allied Services</div>
-                                        </div>
-                                    </article>
-                                </div>
-                                <div class="slick-item">
-                                    <article class="media media-project">
-                                        <figure class="media__img">
-                                            <img src="images/pragathi-images/project-6.avif" alt="wooden villa" />
-                                        </figure>
-                                        <div class="bg-overlay"></div>
-                                        <span class="line"></span>
-                                        <span class="line line--bottom"></span>
-                                        <div class="media__body">
-                                            <h3 class="title">
-                                                <a href="allied-service.php">Aluminum partition</a>
                                             </h3>
                                             <div class="address">Allied Services</div>
                                         </div>
@@ -375,22 +327,90 @@
                                         </div>
                                     </article>
                                 </div>
-                                <div class="slick-item">
+                                <!--interior end-->
+                                <!--ceiling start-->
+                                 <div class="slick-item">
                                     <article class="media media-project">
                                         <figure class="media__img">
-                                        <img src="images/pragathi-images/project-8.avif" alt="wooden villa" />
+                                            <img src="images/service-bg/transulcent-vertical.jpg" alt="luxury villa" />
                                         </figure>
                                         <div class="bg-overlay"></div>
                                         <span class="line"></span>
                                         <span class="line line--bottom"></span>
                                         <div class="media__body">
                                             <h3 class="title">
-                                                <a href="outdoor-design.php">Rooftop garden</a>
+                                                <a href="residential-interiors.php">Translucent</a>
                                             </h3>
-                                            <div class="address">Outdoor Designs</div>
+                                            <div class="address">Stretch Ceiling</div>
                                         </div>
                                     </article>
                                 </div>
+                                <div class="slick-item">
+                                    <article class="media media-project">
+                                        <figure class="media__img">
+                                            <img src="images/service-bg/printed-vertical.jpg" alt="Skyline" />
+                                        </figure>
+                                        <div class="bg-overlay"></div>
+                                        <span class="line"></span>
+                                        <span class="line line--bottom"></span>
+                                        <div class="media__body">
+                                            <h3 class="title">
+                                                <a href="commercial.php">Printed</a>
+                                            </h3>
+                                            <div class="address">Stretch Ceiling
+                                            </div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="slick-item">
+                                    <article class="media media-project">
+                                        <figure class="media__img">
+                                            <img src="images/service-bg/3d.jpg" alt="luxury villa" />
+                                        </figure>
+                                        <div class="bg-overlay"></div>
+                                        <span class="line"></span>
+                                        <span class="line line--bottom"></span>
+                                        <div class="media__body">
+                                            <h3 class="title">
+                                                <a href="allied-service.php">3D Forms</a>
+                                            </h3>
+                                            <div class="address">Stretch Ceiling</div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="slick-item">
+                                    <article class="media media-project">
+                                        <figure class="media__img">
+                                            <img src="images/service-bg/wall-vertical.jpg" alt="wooden villa" />
+                                        </figure>
+                                        <div class="bg-overlay"></div>
+                                        <span class="line"></span>
+                                        <span class="line line--bottom"></span>
+                                        <div class="media__body">
+                                            <h3 class="title">
+                                                <a href="outdoor-design.php">Wall Graphics</a>
+                                            </h3>
+                                            <div class="address">Stretch Ceiling</div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <div class="slick-item">
+                                    <article class="media media-project">
+                                        <figure class="media__img">
+                                            <img src="images/service-bg/acoustic.jpg" alt="wooden villa" />
+                                        </figure>
+                                        <div class="bg-overlay"></div>
+                                        <span class="line"></span>
+                                        <span class="line line--bottom"></span>
+                                        <div class="media__body">
+                                            <h3 class="title">
+                                                <a href="outdoor-design.php">Acoustic</a>
+                                            </h3>
+                                            <div class="address">Stretch Ceiling</div>
+                                        </div>
+                                    </article>
+                                </div>
+                                <!--ceiling end-->
                             </div>
                         </div>
                         <div class="slick__nav arrows-1">
