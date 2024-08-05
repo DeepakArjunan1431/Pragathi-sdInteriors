@@ -17,7 +17,7 @@
                         <div class="footer-col">
                             <div class="widget m-b-25">
                                 <a href="#">
-                                    <img src="images/icon/footer-pragathi.png" alt="Tatee" style="width:30%"/>
+                                    <img src="images/icon/Pragathi Logo 2.png" alt="Tatee" style="width:30%"/>
                                 </a>
                             </div>
                             <div class="widget widget-address">
