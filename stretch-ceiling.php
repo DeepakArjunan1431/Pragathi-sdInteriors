@@ -43,7 +43,7 @@
             <!--Banner section start-->
 
             <!-- PROJECT-->
-            <section class="p-t-110">
+            <section class="p-t-110" id="tranlucent">
                 <div class="wrap wrap--w1790">
                     <div class="container-fluid">
                         <article class="media-project-3">
@@ -67,7 +67,7 @@
             <!-- END PROJECT-->
 
             <!-- PROJECT-->
-            <section>
+            <section id="printed">
                 <div class="wrap wrap--w1790">
                     <div class="container-fluid">
                         <article class="media-project-3 right">
@@ -92,7 +92,7 @@
             <!-- END PROJECT-->
 
             <!-- PROJECT-->
-            <section>
+            <section id="threed">
                 <div class="wrap wrap--w1790">
                     <div class="container-fluid">
                         <article class="media-project-3">
@@ -164,7 +164,7 @@
             <!-- END PROJECT-->
 
              <!-- PROJECT-->
-             <section>
+             <section id="Acoustic">
                 <div class="wrap wrap--w1790">
                     <div class="container-fluid">
                         <article class="media-project-3 right">

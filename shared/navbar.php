@@ -7,7 +7,7 @@
                             <div class="header__content">
                                 <div class="logo" style="padding:5px 0;">
                                     <a href="#">
-                                        <img src="images/icon/main-logo.png" alt="Tatee" />
+                                        <img src="images/icon/PDF_Pragathi_office-1-removebg-preview-crop.png" alt="Tatee" />
                                     </a>
                                 </div>
                                 <div class="header__content-right">
@@ -93,7 +93,7 @@
                     <div class="container-fluid">
                         <div class="header-mobile__bar-inner">
                             <a class="logo" href="index.php">
-                                <img src="images/icon/main-logo.png" alt="Tatee" />
+                                <img src="images/icon/PDF_Pragathi_office-1-removebg-preview-crop.png" alt="Tatee" />
                             </a>
                             <button class="hamburger hamburger--slider float-right" type="button">
                                 <span class="hamburger-box">

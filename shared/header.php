@@ -38,7 +38,7 @@
     <link rel="stylesheet" href="./css/custom.css">
 
     <!--Favicons-->
-    <link rel="shortcut icon" href="images/icon/main-logo.png">
+    <link rel="shortcut icon" href="images/icon/PDF_Pragathi_office-1-removebg-preview-crop.png">
     <link rel="apple-touch-icon" href="apple-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">

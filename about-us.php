@@ -173,8 +173,11 @@
                 <div class=" row">
                     <div class="content-side col-lg-6 col-md-6 col-sm-12">
                         <div class="content-child">
+                        <div class="image-child"><img src="images/icon/iceil-logo-white.png"></div><br>
+
                             <h2>Global Partnerships, Local Excellence</h2>
-                            <p>We are proud to partner with ICEIL, a leader in stretch ceilings. With a network of worldwide partners, we bring unparalleled expertise and quality to our interior design and stretch ceiling solutions.</p>
+                            <p>We are proud to partner with ICEIL, a leader in stretch ceilings and No:1 Stretch Ceiling manufacturer in India. With a network of worldwide partners, we bring unparalleled expertise and quality to our interior design and stretch ceiling solutions.</p>
+                            <p><a class="underline" href="https://iceilsystems.com/" target="_blank">View ICEIL's website</a> to learn more about their innovative solutions.</p>
                         </div>
                     </div>
                     <div class="image-side col-lg-6  col-md-6 col-sm-12">
@@ -186,12 +189,16 @@
 
             <!-- vehaan-builders-->
             <div class="vehaan-builders">
-                <div class="container">
-                    <div class="left"></div>
-                    <div class="center">
+                <div class="container-vehan row">
+                    <div class="left col-lg-3 col-md-3 col-sm-12">
+                        <img src="images/icon/PDF_Pragathi_office-1-removebg-preview.png">
+                    </div>
+                    <div class="center col-lg-6 col-md-6 col-sm-12">
                         <p>Pragathi Interiors and Vehan Builders are two names for the same dedicated team. We offer exceptional interior design and construction solutions, ensuring quality and satisfaction in every project.</p>
                     </div>
-                    <div class="right"></div>
+                    <div class="right col-lg-3 col-md-3 col-sm-12">
+                        <img src="images/icon/vehan.png">
+                    </div>
                 </div>
                 </div>
             </div>
@@ -335,18 +342,20 @@
             </section>
             <!-- END TEAM-->
 
-            <!-- CTA -->
-                <section class="cta-about-page">
-                    <div class="row cta-about-div">
-                        <div class="col-lg-9">
-                            <h2>Our goal is to craft unique and innovative stretch ceiling solutions.<h2>
-                        </div>
-                        <div class="col-lg-3">
-                            <button type="submit" class="button-cta"><a href="stretch-ceiling.php">Explore Our Services<i class="zmdi zmdi-arrow-right ic-arrow"></i></a></button>
+            <!-- CTA START -->
+            <section class="cta-section-about">
+                <div class="cta-div">
+                    <div class="row cta-banner">
+                        <div class="col-lg-12 col-md-12 col-sm-12 cta-banner__content">
+                            <h2>Our goal is to craft unique and innovative stretch ceiling solutions.</h2>
+                            <a class="button-white" href="stretch-ceiling.php">Explore Our Services
+                                <i class="zmdi zmdi-arrow-right ic-arrow"></i>
+                            </a>
                         </div>
                     </div>
-                </section>
-            <!-- CTA END-->
+                </div>
+            </section>
+           <!-- CTA START -->
 
 
         </main>

@@ -17,7 +17,7 @@
                         <div class="footer-col">
                             <div class="widget m-b-25">
                                 <a href="#">
-                                    <img src="images/icon/main-logo.png" alt="Tatee" style="width:30%"/>
+                                    <img src="images/icon/footer-pragathi.png" alt="Tatee" style="width:30%"/>
                                 </a>
                             </div>
                             <div class="widget widget-address">
@@ -37,7 +37,7 @@
                                         <a href="about-us.php">About us</a>
                                     </li>
                                     <li>
-                                        <a href="#">Service</a>
+                                        <a href="index.php#ourservice">Service</a>
                                     </li>
                                     <!-- <li>
                                         <a href="project=detail-3.php">Projects</a>
@@ -55,13 +55,16 @@
                                 <h4 class="widget-title">Our Service</h4>
                                 <ul>
                                     <li>
-                                        <a href="residential-Interiors.php">Residential</a>
+                                        <a href="stretch-ceiling.php">Stretch Ceilings</a>
+                                    </li>
+                                    <li>
+                                        <a href="WallGraphics.php">Wall Graphics</a>
                                     </li>
                                     <li>
                                         <a href="commercial.php">Commercial</a>
                                     </li>
                                     <li>
-                                        <a href="stretch-ceiling.php">Stretch Ceilings</a>
+                                        <a href="residential-Interiors.php">Residential</a>
                                     </li>
                                     <li>
                                         <a href="allied-service.php">Allied Services</a>

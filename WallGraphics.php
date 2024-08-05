@@ -89,6 +89,56 @@
             </section>
             <!-- END PROJECT-->
 
+             <!-- PROJECT-->
+             <section>
+                    <div class="wrap wrap--w1790">
+                        <div class="container-fluid">
+                            <article class="media-project-3">
+                                <div class="media__body">
+                                    <figure class="media__img">
+                                        <a>
+                                            <img src="images/wall-images/Art-Painting5.jpeg" alt="Wall Graphics" />                                        </a>
+                                    </figure>
+                                    <span><a href="contact.php" class="add">KNOW MORE</a></span>
+                                    
+                                    <div class="media__content">
+                                        <div class="pointer"></div>
+                                        <h4 class="title-sub title-sub--c8">Painting Wall Mural</h4>
+                                        <h2 class="title-3">Art Painting</h2>
+                                        <p class="media__text">Enhance your space with our premium wall paper and stretch ceiling solutions. Choose from a variety of designs and colors for wall paper to add unique style, while our stretch ceilings offer modern and functional enhancements. Discover how these elements can create a stunning and personalized environment for your home or office.</p>
+                                    </div>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+            </section>
+            <!-- END PROJECT-->
+
+             <!-- PROJECT-->
+             <section>
+                <div class="wrap wrap--w1790">
+                    <div class="container-fluid">
+                        <article class="media-project-3 right">
+                            <div class="media__body">
+                                <figure class="media__img">
+                                    <a>
+                                        <img src="images/wall-images/Reinforced-Fiberglass8.jpeg" alt="Hospital" />
+                                    </a>
+                                </figure>
+                                <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
+                                    <div class="pointer"></div>
+                                    <h4 class="title-sub title-sub--c8">Fiber Wall Mural</h4>
+                                    <h2 class="title-3">Reinforced Fiberglass material</h2>
+                                    <p class="media__text">We specialize in wall texture painting, offering expert techniques to enhance your interiors. Our team creates stunning textures that add depth and character to your space. Trust us to bring your vision to life with professional and high-quality results.
+                                        </p>
+                                </div>
+                            </div>
+                        </article>
+                    </div>
+                </div>
+            </section>
+            <!-- END PROJECT-->
+
             <!-- FOOTER-->
             <?php
                 include './shared/footer.php'
