@@ -17137,15 +17137,20 @@ color: #ffffff;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.founders-note .container .left,
 .founders-note .container .right {
+  flex: 3;
+  padding: 15px;
+}
+.founders-note .container .left {
   flex: 1;
   padding: 15px;
 }
 
 .founders-note .container .left {
-  background-image: url('../images/service-bg/founder.jpg');
-  background-size: cover;
+  background-image: url('../images/gopalakannan-k.png');
+  background-size: contain;
+  height: 475px;
+  background-repeat: no-repeat;
   background-position: center;
   border-radius: 8px 0 0 8px;
 }
