@@ -165,7 +165,7 @@
             <section class="p-t-10 p-b-55 about-us-section">
                 <div class="container">
                     <div class="media-about">
-                        <div class="row">
+                        <div class="row" style="align-items:center">
                             <div class="col-lg-7 col-md-7 col-sm-12">
                                 <div class="media__body">
                                     <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
@@ -201,7 +201,7 @@
                         <h5 class="title-sub"><span class="sub-heading-span">what we do</span></h5>
                         <h2 class="title-1">Our <span class="heading-span">Specilization</span></h2>
                     </div>
-                    <div class="row no-gutters">
+                    <div class="row no-gutters" style="justify-content:center">
                         <div class="col-md-6 col-lg-4">
                             <article class="media media-service">
                                 <figure class="media__img">
@@ -257,7 +257,7 @@
                     <h2 class="title-1">Our <span class="heading-span">Services</span></h2>
                 </div>
                 <div class="container-fluid">
-                    <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="3" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="false">
+                    <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="2" data-slick-md="2" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="false">
                         <div class="slick-wrap-content">
                             <div class="slick-content js-slick-content">
                                 <!--interior start-->
@@ -443,42 +443,42 @@
                                 </div>
                                 <div class="col-md-12 col-xl-9">
                                     <div class="row">
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/cbre-removebg-preview.png" alt="Client 1">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/dlf-removebg-preview.png" alt="Client 2">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/ecotone-removebg-preview.png" alt="Client 3">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/godrej-removebg-preview.png" alt="Client 4">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/hunter-removebg-preview.png" alt="Client 5">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/lumino-removebg-preview.png" alt="Client 6">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/radical-removebg-preview.png" alt="Client 7">
                                             </a>
                                         </div>
-                                        <div class="col-md-6 col-lg-3">
+                                        <div class="col-md-3 col-lg-3">
                                             <a class="img-client m-b-60" href="#">
                                                 <img src="images/client-logo/signify-removebg-preview.png" alt="Client 8">
                                             </a>
