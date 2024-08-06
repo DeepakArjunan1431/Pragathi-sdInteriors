@@ -17190,7 +17190,8 @@ color: #ffffff;
 
   .founders-note .container .left {
     border-radius: 8px 8px 0 0; 
-    width: 100%; 
+    width: 50%; 
+    margin:0 auto;
     background-size: cover;
     background-position: center;
     padding:250px 0px;
@@ -17204,6 +17205,17 @@ color: #ffffff;
 
   .founders-note .container .right .content {
     max-width: 100%; 
+  }
+}
+@media (max-width: 600px) {
+  
+  .founders-note .container .left {
+    border-radius: 8px 8px 0 0; 
+    width:100%; 
+    margin:0 auto;
+    background-size: cover;
+    background-position: center;
+    padding:250px 0px;
   }
 }
 
