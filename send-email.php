@@ -71,10 +71,10 @@ $htmlMessageToUser = '
 </html>
 ';
 
-// Send mail to yourself
-$result1 = sendMail("deepakramoorthy@gmail.com", "User Details", $htmlMessageToSelf);
+// Send mail to yourself(admin)
+$result1 = sendMail("contact@pragathiinteriors.com", "User Details", $htmlMessageToSelf);
 
-// Send confirmation mail to the user
+// Send confirmation mail to the user(who fills the form)
 $result2 = sendMail($email, "Thank You for Contacting Us", $htmlMessageToUser);
 
 // Check the results
