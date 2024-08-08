@@ -17351,6 +17351,31 @@ color: #ffffff;
   .single-inner-div {
     padding: 40px 20px !important;
 }
+.tp-resizem{
+    width:100%;
+}
+.button-container{
+  display: none;
+}
+.button-container-phone{
+  display: block;
+  position: relative;
+  top: 32px !important;
+}
+.heding-class-slder{
+  font-size:25px !important;
+}
 }
 
+@media(min-width:601px){
 
+.button-container{
+  display: block;
+  position: relative;
+  top: 32px !important;
+}
+
+.button-container-phone{
+  display: none;
+}
+}
