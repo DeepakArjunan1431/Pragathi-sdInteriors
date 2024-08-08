@@ -112,7 +112,7 @@
                             <p>Our mission has always been to exceed expectations through quality craftsmanship and a personalized approach. We understand that every project is unique, and we are committed to understanding your vision and bringing it to life with creativity and precision.</p>
                             
                             <span>Gopalakannan K</span><br>
-                            <span>Founder, Pragathi Interiors</span>
+                            <span>Founder of Pragathi Interiors and Vehan Builders</span>
                         </div>
                     </div>
                 </div>
