@@ -138,6 +138,17 @@ button {
  * Always declare margins in the same direction:
  * csswizardry.com/2012/06/single-direction-margin-declarations
  */
+
+@media(max-width:599px){
+  .logo{
+    width:20%;
+  }
+}
+@media(min-width:600px){
+  .logo{
+    width:7%;
+  }
+}
 .bg-pattern-01 {
   background: url("../images/bg-pattern-01.jpg") center center/cover fixed no-repeat;
 }
@@ -303,10 +314,11 @@ button {
 .swal-button {
   display: inline-block;
   line-height: 43px;
-  border: 1px solid #888;
+  border: 2px solid #004b88 !important;
+  background: #004b88 !important;
   padding: 0 23px;
   font-size: 13px;
-  color: #555;
+  color: white !important;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   -moz-transition: all 0.3s ease;
@@ -327,9 +339,9 @@ button {
 
 .au-btn:hover,
 .swal-button:hover {
-  color: #fff;
-  background: #222;
-  border-color: transparent;
+  color: #fff !important;
+  background: #00abbd !important;
+  border-color: transparent !important;
 }
 
 .au-btn:hover .ic-arrow,
@@ -962,7 +974,7 @@ a:hover {
 }
 
 .media-about .media__text {
-  margin-bottom: 84px;
+  margin-bottom: 25px !important;
 }
 
 .media-about .media__img {
@@ -3010,6 +3022,10 @@ a:hover {
    ========================================================================== */
 .list-rev-item--ov {
   overflow: visible !important;
+}
+.rev-slidebg{
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1) !important;
 }
 
 .rev-item--ov {
@@ -5094,7 +5110,7 @@ button {
   position: relative;
   padding: 75px 0;
   padding-bottom: 95px;
-  background-image: url("../images/bg-footer-01.jpg");
+  /* background-image: url("../images/bg-footer-01.jpg"); */
 }
 
 .footer.bg-parallax {
@@ -5488,7 +5504,9 @@ button {
 .menu li {
   list-style: none;
 }
-
+.menu-item a{
+  font-size:16px !important;
+}
 .menu a {
   font-size: 13px;
   color: #222;
@@ -5973,6 +5991,9 @@ button {
 
 .page-info.light .list-social-3 .list-social__item .icon {
   opacity: 0.6;
+}
+.list-social__item a{
+  font-size:18px !important;
 }
 
 @media (max-width: 1760px) {
@@ -16396,4 +16417,112 @@ button:focus {
   .m-xs-l-300 {
     margin-left: 300px;
   }
+}
+.heading-span{
+  color:#004b88
+}
+.sub-heading-span{
+  color:#00abbd
+}
+/* IndexPage - Single Project start*/
+.single-project{
+  background: linear-gradient(#002f4b78, #1314144a), url(https://img.freepik.com/free-photo/3d-rendering-modern-dining-room-living-room-with-luxury-decor_105762-2000.jpg?t=st=1717999118~exp=1718002718~hmac=529b20b…&w=996);
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  z-index:9;
+  position:relative;
+  margin-bottom:5rem;
+}
+.single-project-div{
+  background-color:white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.single-inner-div{
+  padding:40px 50px;
+}
+.single-project-para{
+  font-size:1rem;
+  padding:10px 0;
+}
+@media(min-width:1038px){
+  .single-project{
+    padding-top:13rem;
+    padding-left:5rem;
+    height:100vh;
+  }
+  .single-project-div{
+    width:50%;
+  }
+}
+@media(max-width:1037px) and (min-width:840px){
+  .single-project{
+    padding-top:5rem;
+    padding-left:5rem;
+    height:100vh;
+  }
+  .single-project-div{
+    width:60%;
+  }
+}
+@media(max-width:839px) and (min-width:700px){
+  .single-project{
+    padding-top:6rem;
+    padding-left:5rem;
+    height:100vh;
+  }
+  .single-project-div{
+    width:70%;
+  }
+}
+@media(max-width:699px) and (min-width:300px){
+  .single-project{
+    padding-top:1rem;
+    padding-left:1rem;
+    height:120vh;
+  }
+  .single-project-div{
+    width:95%;
+  }
+}
+/* IndexPage - Single Project end */
+
+/* about us section start */
+.about-us-section{
+  padding-top:20px;
+}
+@media(max-width:800px) and (min-width:600px){
+  .about-us-section{
+    padding-top:75px !important;
+  }
+}
+/* about us section end */
+
+/* CTA section start */
+.cta-section{
+  width:100%;
+  background-color:#00abbd;
+  position: inherit;
+  z-index:9;
+  padding:40px 0;
+}
+.cta-div{
+  width:80%;
+  margin:0 auto;
+}
+.cta-banner{
+  align-items: center;
+}
+.cta-banner__content h2{
+  color:white;
+}
+.cta-banner__content p{
+  color:white;
+}
+/* CTA section end */
+.widget_text  a{
+  text-decoration: none;
+  color:white;
 }
