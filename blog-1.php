@@ -53,13 +53,13 @@
                         <div class="col-md-8 col-lg-9">
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="">
+                                    <a>
                                         <img src="images/blogs/blog-1.jpg" alt="What to Look for in an Interior Designer" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="">What to Look for in an Interior Designer:</a>
+                                        <a>What to Look for in an Interior Designer:</a>
                                     </h4>
                                     <span class="entry-meta">Portfolio and Style:</span>
                                     <p class="entry-excerpt">A designer's portfolio speaks volumes. Browse their past projects to see if their aesthetic aligns with your taste. Do they specialize in residential or commercial design? Do they have experience with projects similar to yours? Look for a diverse portfolio that showcases their versatility, even if you have a specific style in mind. A good designer can adapt to different styles while maintaining a cohesive vision.</p>
@@ -115,37 +115,37 @@
                                     <h4 class="widget-title">Blogs Here</h4>
                                     <ul>
                                         <li>
-                                            <a href="#">Popular posts</a>
+                                            <a>Popular posts</a>
                                         </li>
                                         <li>
-                                            <a href="#">Experience and Expertise</a>
+                                            <a>Experience and Expertise</a>
                                         </li>
                                         <li>
-                                            <a href="#">Communication and Collaboration</a>
+                                            <a>Communication and Collaboration</a>
                                         </li>
                                         <li>
-                                            <a href="#">Understanding of Budget and Timeline</a>
+                                            <a>Understanding of Budget and Timeline</a>
                                         </li>
                                         <li>
-                                            <a href="#">Client Testimonials and Reviews</a>
+                                            <a>Client Testimonials and Reviews</a>
                                         </li>
                                         <li>
-                                            <a href="#">Local Knowledge</a>
+                                            <a>Local Knowledge</a>
                                         </li>
                                         <li>
-                                            <a href="#">Personality and Fit</a>
+                                            <a>Personality and Fit</a>
                                         </li>
                                         <li>
-                                            <a href="#">Pragathi Interiors' Approach</a>
+                                            <a>Pragathi Interiors' Approach</a>
                                         </li>
                                         <li>
-                                            <a href="#">Concept Development</a>
+                                            <a>Concept Development</a>
                                         </li>
                                         <li>
-                                            <a href="#">Design Development</a>
+                                            <a>Design Development</a>
                                         </li>
                                         <li>
-                                            <a href="#">Project Management</a>
+                                            <a>Project Management</a>
                                         </li>
                                     </ul>
                                 </div>

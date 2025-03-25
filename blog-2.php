@@ -58,19 +58,19 @@
                         <div class="col-md-8 col-lg-9">
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="">
+                                    <a>
                                         <img src="images/blogs/blog-5.jpg" alt="What to Look for in an Interior Designer" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="">Sustainable and Conscious Living:</a>
+                                        <a>Sustainable and Conscious Living:</a>
                                     </h4>
                                     <p class="entry-excerpt">With increasing awareness of environmental issues, sustainability is no longer a niche concept but a core value in interior design. In 2025, we'll see a greater emphasis on eco-friendly materials, energy-efficient appliances, and responsible sourcing.</p>
                                     <span class="entry-meta">Pragathi's Touch:</span>
                                     <p class="entry-excerpt">We prioritize the use of locally sourced, sustainable materials like reclaimed wood, bamboo, and natural fibers. We also guide our clients in choosing energy-efficient lighting and appliances to minimize their environmental footprint.</p>
                                     <h4 class="entry-title">
-                                        <a href="">Blending Tradition with Modernity:</a>
+                                        <a>Blending Tradition with Modernity:</a>
                                     </h4>
                                     <p class="entry-excerpt">Indian homes are a beautiful blend of heritage and contemporary design. In 2025, this fusion will be even more prominent. Traditional elements like intricate carvings, handcrafted textiles, and regional art will be seamlessly integrated with modern furniture and minimalist aesthetics.</p>
                                     <span class="entry-meta">Pragathi's Touch:</span>
@@ -80,19 +80,19 @@
                             </article>
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="">
+                                    <a>
                                         <img style="width:100%" src="images/blogs/blog-4.jpg" alt="Understanding of Budget and Timeline" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="">Warm and Earthy Tones:</a>
+                                        <a>Warm and Earthy Tones:</a>
                                     </h4>
                                     <p class="entry-excerpt">The color palette for 2025 leans towards warm, earthy tones that evoke a sense of comfort and connection to nature. Think terracotta, ochre, deep greens, and warm neutrals. These hues create a soothing and inviting atmosphere, perfect for Indian homes.</p>
                                     <span class="entry-meta">Pragathi's Touch:</span>
                                     <p class="entry-excerpt">We carefully select color palettes that complement the Indian climate and create a sense of warmth and tranquility. We also consider the psychological impact of colors and how they can enhance the mood and well-being of our clients.</p>
                                     <h4 class="entry-title">
-                                        <a href="">Biophilic Designs bringing the Outdoors In:</a>
+                                        <a>Biophilic Designs bringing the Outdoors In:</a>
                                     </h4>   
                                     <p class="entry-excerpt">Biophilic design, which focuses on connecting people with nature, will continue to be a major trend in 2025. Incorporating indoor plants, natural light, and organic materials creates a calming and rejuvenating environment.</p>  
                                     <span class="entry-meta">Pragathi's Touch:</span>  
@@ -101,13 +101,13 @@
                             </article>
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="">
+                                    <a>
                                         <img src="images/blogs/blog-3.jpg" alt="Design Development" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="">Multifunctional and Flexible Spaces:</a>
+                                        <a>Multifunctional and Flexible Spaces:</a>
                                     </h4>
                                     <p class="entry-excerpt">With the rise of remote work and smaller living spaces, multifunctional and flexible spaces are essential. Furniture that can be easily rearranged or repurposed, along with smart storage solutions, will be key.</p>
                                     <span class="entry-meta">Pragathi's Touch:</span>
@@ -117,13 +117,13 @@
                             <article class="blog">
                                 <div class="entry-summary">
                                     <h4 class="entry-title">
-                                        <a href="">Personalized and Curated Spaces:</a>
+                                        <a>Personalized and Curated Spaces:</a>
                                     </h4>
                                     <p class="entry-excerpt">In 2025, interior design is all about expressing individuality. People are moving away from cookie-cutter designs and embracing personalized spaces that reflect their unique style and interests.</p>
                                     <span class="entry-meta">Pragathi's Touch:</span>
                                     <p class="entry-excerpt">We work closely with our clients to understand their passions, hobbies, and personal stories. We then curate spaces that tell their story and reflect their individuality.</p>
                                     <h4 class="entry-title">
-                                        <a href=""> Smart Home Integration:</a>
+                                        <a> Smart Home Integration:</a>
                                     </h4>
                                     <p class="entry-excerpt">Technology is transforming our lives, and interior design is no exception. Smart home features like automated lighting, voice assistants, and integrated entertainment systems are becoming increasingly popular.</p>
                                     <span class="entry-meta">Pragathi's Touch:</span>
@@ -132,7 +132,7 @@
                             </article>
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="">
+                                    <a>
                                         <img src="images/blogs/blog-6.jpg" alt="Design Development" />
                                     </a>
                                 </figure>
@@ -147,25 +147,25 @@
                                     <h4 class="widget-title">Blogs Here</h4>
                                     <ul>
                                         <li>
-                                            <a href="#">Sustainable and Conscious Living</a>
+                                            <a>Sustainable and Conscious Living</a>
                                         </li>
                                         <li>
-                                            <a href="#">Blending Tradition with Modernity</a>
+                                            <a>Blending Tradition with Modernity</a>
                                         </li>
                                         <li>
-                                            <a href="#">Warm and Earthy Tones</a>
+                                            <a>Warm and Earthy Tones</a>
                                         </li>
                                         <li>
-                                            <a href="#">Biophilic Designs bringing the Outdoors In</a>
+                                            <a>Biophilic Designs bringing the Outdoors In</a>
                                         </li>
                                         <li>
-                                            <a href="#">Multifunctional and Flexible Spaces</a>
+                                            <a>Multifunctional and Flexible Spaces</a>
                                         </li>
                                         <li>
-                                            <a href="#">Personalized and Curated Spaces</a>
+                                            <a>Personalized and Curated Spaces</a>
                                         </li>
                                         <li>
-                                            <a href="#">Smart Home Integration</a>
+                                            <a>Smart Home Integration</a>
                                         </li>
                                     </ul>
                                 </div>
