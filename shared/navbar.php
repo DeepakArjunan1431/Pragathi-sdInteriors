@@ -20,6 +20,17 @@
                                                 <a href="about-us.php">about</a>
                                             </li>
                                             <li class="menu-item menu-item-has-children">
+                                                <a href="">Blogs</a>
+                                                <ul class="sub-menu">
+                                                    <li class="menu-item">
+                                                        <a href="blog-1.php">Interior Designer</a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="blog-2.php">Interior Design Trends</a>
+                                                    </li>                                                      
+                                                </ul>
+                                            </li>
+                                            <li class="menu-item menu-item-has-children">
                                                 <a href="residential-Interiors.php">Services</a>
                                                 <ul class="sub-menu">
                                                     <li class="menu-item">

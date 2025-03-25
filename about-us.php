@@ -69,7 +69,7 @@
                                 <h2>Specializing in</h2>
                                 <span> Turn key project </span>
                             </div>
-                                <figure class="image-1"><a  class="lightbox-image" data-fancybox="images"><img title="" src="images/pragathi-images/about-page.avif" alt=""></a></figure>
+                                <figure class="image-1"><a  class="lightbox-image" data-fancybox="images"><img title="" src="images/pragathi-images/about-page.avif" alt="about"></a></figure>
                             
                             </div>
                         </div>
@@ -85,14 +85,14 @@
                 <div class="row  container-vision">
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png">
+                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png" alt="oru version">
                         </div>
                             <h2 class="cardLabel">Our <span class="heading-span">Vision</span></h2>
                             <p>Our vision is to lead in interior design and stretch ceilings, known for creativity and excellence. We aim to innovate with cutting-edge stretch ceiling solutions and set new standards in design and service. Our goal is to inspire and elevate spaces, enhancing the everyday lives of our clients.</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png">
+                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png" alt="our mission">
                         </div>
                             <h2 class="cardLabel">Our <span class="heading-span">Mission</span></h2>
                             <p>At Pragathi Interiors, our mission is to create stunning and functional spaces that reflect our clients' unique styles. We are dedicated to delivering exceptional quality and innovative design solutions, focusing on professionalism and customer satisfaction.</p>
@@ -173,7 +173,7 @@
                 <div class=" row">
                     <div class="content-side col-lg-6 col-md-6 col-sm-12">
                         <div class="content-child">
-                        <div class="image-child"><img src="images/icon/iceil-logo-white.png"></div><br>
+                        <div class="image-child"><img src="images/icon/iceil-logo-white.png" alt="Global Partnerships"></div><br>
 
                             <h2>Global Partnerships, Local Excellence</h2>
                             <p>We are proud to partner with ICEIL, a leader in stretch ceilings and No:1 Stretch Ceiling manufacturer in India. With a network of worldwide partners, we bring unparalleled expertise and quality to our interior design and stretch ceiling solutions.</p>
@@ -181,7 +181,7 @@
                         </div>
                     </div>
                     <div class="image-side col-lg-6  col-md-6 col-sm-12">
-                        <img src="images/service-bg/franchise.jpg">
+                        <img src="images/service-bg/franchise.jpg" alt="Global Partnerships">
                     </div>
                 </div>
             </div>
@@ -191,13 +191,13 @@
             <div class="vehaan-builders">
                 <div class="container-vehan row">
                     <div class="left col-lg-3 col-md-3 col-sm-12">
-                        <img src="images/icon/PDF_Pragathi_office-1-removebg-preview.png">
+                        <img src="images/icon/PDF_Pragathi_office-1-removebg-preview.png" alt="Vehan Builders">
                     </div>
                     <div class="center col-lg-6 col-md-6 col-sm-12">
                         <p>Pragathi Interiors and Vehan Builders are two names for the same dedicated team. We offer exceptional interior design and construction solutions, ensuring quality and satisfaction in every project.</p>
                     </div>
                     <div class="right col-lg-3 col-md-3 col-sm-12">
-                        <img src="images/icon/vehan.png">
+                        <img src="images/icon/vehan.png" alt="Vehan Builders">
                     </div>
                 </div>
                 </div>

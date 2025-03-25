@@ -13,7 +13,7 @@
                             </div>
                         </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
                         <div class="footer-col">
                             <div class="widget m-b-25">
                                 <a href="#">
@@ -49,7 +49,22 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="col-lg-2 col-md-6 col-sm-12">
+                        <div class="footer-col  p-md-l-0">
+                            <div class="widget widget_pages">
+                                <h4 class="widget-title">Blogs</h4>
+                                <ul>
+                                    <li>
+                                        <a href="blog-1.php">Interior Designer</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog-2.php">Interior Design Trends</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-2 col-md-6 col-sm-12">
                         <div class="footer-col  p-md-l-0">
                             <div class="widget widget_pages">
                                 <h4 class="widget-title">Our Service</h4>
