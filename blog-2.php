@@ -38,10 +38,10 @@
             <!-- END PAGE LINE-->
 
             <!-- PAGE HEADING-->
-            <section class="banner-about p-t-100 p-b-65" >
+            <section class="banner-blog-2 p-t-100 p-b-65" >
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h1 class="title-1"><span class=" text-center"> Blogs</span></h1>
+                            <h1 class="title-1"><span class="text-center text-dark"> Blogs</span></h1>
                         </div>
                 </div>
             </section> 
