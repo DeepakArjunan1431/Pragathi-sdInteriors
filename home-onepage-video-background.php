@@ -4,6 +4,13 @@
         <?php
             include './shared/header.php'
         ?>
+        <head>
+            <title> Pragathi Interiors | Home two</title>
+            <meta name="description" content="Creative touch and experience">
+            <meta name="keywords" content="interiors, residential interiors, home design, interior decoration, interior design services, 
+                living room interiors, bedroom interiors, kitchen interiors, home renovation, custom furniture, interior styling, 
+                home decor">
+        </head>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
@@ -37,9 +44,9 @@
                                 <h4 class="tp-caption tp-resizeme rev-text-1" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="['center']" data-y="['middle']" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-76, -76, -80, -120, -120]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto']" data-height="[&quot;auto&quot;]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]" data-color="#ebebeb" data-fontweight="400" data-fontsize="[13, 13, 18, 18, 18]" data-textalign="[center]">architecture</h4>
-                                <h2 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
+                                <h1 class="tp-caption tp-resizeme rev-text-2" data-frames="[{&quot;delay&quot;:1200,&quot;speed&quot;:1500,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;z:0;rX:0deg;rY:0;rZ:0;sX:2;sY:2;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:0px;s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[center]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 0]" data-voffset="[-20, -20, 0, 0, 0]" data-paddingleft="[0, 0, 0, 0, 15]" data-paddingright="[0, 0, 0, 0, 15]" data-width="['auto','auto','auto','576','500']"
-                                data-height="[&quot;auto&quot;]" data-lineheight="[70, 70, 54, 50, 52]" data-whitespace="[nowrap, nowrap, nowrap, normal, normal]" data-color="#fff" data-fontweight="700" data-fontsize="[60, 60, 48, 42, 46]" data-textalign="[center]">Space Speaker Studio</h2>
+                                data-height="[&quot;auto&quot;]" data-lineheight="[70, 70, 54, 50, 52]" data-whitespace="[nowrap, nowrap, nowrap, normal, normal]" data-color="#fff" data-fontweight="700" data-fontsize="[60, 60, 48, 42, 46]" data-textalign="[center]">Space Speaker Studio</h1>
                                 <a class="tp-caption tp-resizeme" href="#" target="_self" data-frames="[{&quot;delay&quot;:0,&quot;speed&quot;:1800,&quot;frame&quot;:&quot;0&quot;,&quot;from&quot;:&quot;y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;&quot;,&quot;mask&quot;:&quot;x:0px;y:[100%];s:inherit;e:inherit;&quot;,&quot;to&quot;:&quot;o:1;&quot;,&quot;ease&quot;:&quot;Power2.easeInOut&quot;},{&quot;delay&quot;:&quot;wait&quot;,&quot;speed&quot;:800,&quot;frame&quot;:&quot;999&quot;,&quot;to&quot;:&quot;auto:auto;&quot;,&quot;ease&quot;:&quot;Power3.easeInOut&quot;}]"
                                 data-x="[center]" data-y="[center]" data-hoffset="[0, 0, 0, 0, 15]" data-voffset="[77, 77, 70, 120, 120]" data-width="['auto']" data-height="[&quot;auto&quot;]" data-responsive_offset="on" data-responsive="off" data-textalign="[center]"
                                 data-whitespace="[nowrap, nowrap, nowrap, nowrap, nowrap]">
@@ -84,7 +91,7 @@
                         </div>
                         <div class="media__body">
                             <h5 class="title-sub">we are tatee</h5>
-                            <h2 class="title-1">Our bulding are inspired by the challenge of balancing function & beauty</h2>
+                            <h1 class="title-1">Our bulding are inspired by the challenge of balancing function & beauty</h1>
                             <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt utins labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco cot laboris nisi ut aliquip ex ea commodo
                                 consequat. Duis aute irure dolor in reprehenderit in vactil oluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
                             <a class="au-btn au-btn--arrow" href="contact.php">Contact us
@@ -125,7 +132,7 @@
                     <div class="container-fluid">
                         <div class="section-title m-b-70">
                             <h5 class="title-sub">our work</h5>
-                            <h2 class="title-1">Latest project</h2>
+                            <h1 class="title-1">Latest project</h1>
                         </div>
                         <div class="section-row section-row--p-sm">
                             <div class="section-col-3">
@@ -135,7 +142,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">luxury villa</a>
+                                            <a href="">luxury villa</a>
                                         </h3>
                                         <span class="address">Perth, Australia</span>
                                     </div>
@@ -148,7 +155,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">wooden villa</a>
+                                            <a href="">wooden villa</a>
                                         </h3>
                                         <span class="address">New York, USA</span>
                                     </div>
@@ -161,7 +168,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">Stiff homestay</a>
+                                            <a href="">Stiff homestay</a>
                                         </h3>
                                         <span class="address">Michigan, USA</span>
                                     </div>
@@ -174,7 +181,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">Frozen house</a>
+                                            <a href="">Frozen house</a>
                                         </h3>
                                         <span class="address">Mexico</span>
                                     </div>
@@ -189,7 +196,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">luxury villa</a>
+                                            <a href="">luxury villa</a>
                                         </h3>
                                         <span class="address">Perth, Australia</span>
                                     </div>
@@ -202,7 +209,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">wooden villa</a>
+                                            <a href="">wooden villa</a>
                                         </h3>
                                         <span class="address">New York, USA</span>
                                     </div>
@@ -215,7 +222,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">luxury villa</a>
+                                            <a href="">luxury villa</a>
                                         </h3>
                                         <span class="address">Perth, Australia</span>
                                     </div>
@@ -228,7 +235,7 @@
                                     </figure>
                                     <div class="media__body">
                                         <h3 class="media__title">
-                                            <a href="project-grid-full.php">wooden villa</a>
+                                            <a href="">wooden villa</a>
                                         </h3>
                                         <span class="address">New York, USA</span>
                                     </div>
@@ -236,7 +243,7 @@
                             </div>
                         </div>
                         <div class="text-center p-t-40">
-                            <a class="au-btn" href="project-grid-full.php">See all project</a>
+                            <a class="au-btn" href="">See all project</a>
                         </div>
                     </div>
                 </div>
@@ -250,7 +257,7 @@
                         <div class="col-md-12 col-xl-3">
                             <div class="section-title section-title--light text-left p-t-55">
                                 <h5 class="title-sub">what we do</h5>
-                                <h2 class="title-1">Our Specilization</h2>
+                                <h1 class="title-1">Our Specilization</h1>
                             </div>
                         </div>
                         <div class="col-md-12 col-xl-9">
@@ -303,7 +310,7 @@
                 <div class="container">
                     <div class="section-title m-b-70">
                         <h5 class="title-sub">awesome people</h5>
-                        <h2 class="title-1">Meet the team</h2>
+                        <h1 class="title-1">Meet the team</h1>
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-lg-4">
@@ -532,7 +539,7 @@
                 <div class="container">
                     <div class="section-title m-b-70">
                         <h5 class="title-sub">testimonial</h5>
-                        <h2 class="title-1">What people say</h2>
+                        <h1 class="title-1">What people say</h1>
                     </div>
                     <div class="slick-wrap slick-testi js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="1" data-slick-lg="2" data-slick-xl="2" data-slick-customnav="true" data-slick-autoplay="true">
                         <div class="slick-wrap-content">
@@ -619,7 +626,7 @@
                         <div class="col-md-12 col-xl-3">
                             <div class="section-title section-title--light text-left p-t-15">
                                 <h5 class="title-sub">awesome partner</h5>
-                                <h2 class="title-1">Our Clients</h2>
+                                <h1 class="title-1">Our Clients</h1>
                             </div>
                         </div>
                         <div class="col-md-12 col-xl-9">
@@ -676,7 +683,7 @@
                 <div class="container">
                     <div class="section-title m-b-70">
                         <h5 class="title-sub">how to find us</h5>
-                        <h2 class="title-1">Contact us</h2>
+                        <h1 class="title-1">Contact us</h1>
                     </div>
                     <div class="row no-gutters">
                         <div class="col-lg-4">

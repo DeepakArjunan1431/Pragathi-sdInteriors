@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /login/
+Disallow: /register/
+
+Allow: /public/
+Allow: /images/
+Allow: /css/
+Allow: /js/
+
+Sitemap: https://pragathiinteriors.com/sitemap.xml

@@ -5,9 +5,11 @@
             include './shared/header.php'
         ?>
 
-<head>
-<title>Pragathi Interiors | Stretch Ceilings</title>
-</head>
+        <head>
+            <title>Pragathi Interiors | Stretch Ceilings</title>
+            <meta name="description" content="Enhance your interiors with premium stretch ceilings. Explore translucent, printed, 3D forms, light boxes, lacquer, and acoustic stretch ceilings for a modern and elegant look." />
+            <meta name="keywords" content="stretch ceilings, translucent ceilings, printed stretch ceilings, 3D stretch ceilings, light box ceilings, lacquer ceilings, acoustic ceilings, modern ceiling design, interior ceiling solutions" />
+        </head>
 
 <body class="">
     <div class="page-wrapper">

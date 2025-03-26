@@ -9,6 +9,11 @@
         <?php
             include './shared/header.php'
         ?>
+    <head>
+        <title> Pragathi Interiors |Blog</title>
+        <meta name="description" content="Discover the top interior design trends for 2025 in India, from sustainable living and biophilic designs to smart home integration and personalized spaces. Stay ahead with the latest trends blending tradition with modernity." />
+        <meta name="keywords" content="interior design trends 2025, Indian interior design, sustainable interiors, modern home design, biophilic design, smart home integration, warm earthy tones, flexible spaces, personalized interiors, traditional and modern interiors, home decor trends India" />
+    </head>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
@@ -36,7 +41,7 @@
             <section class="banner-about p-t-100 p-b-65" >
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h2 class="title-1"><span class=" text-center"> Blogs</span></h2>
+                            <h1 class="title-1"><span class=" text-center"> Blogs</span></h1>
                         </div>
                 </div>
             </section> 

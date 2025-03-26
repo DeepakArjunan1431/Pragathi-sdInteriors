@@ -4,6 +4,11 @@
         <?php
             include './shared/header.php'
         ?>
+    <head>
+        <title> Pragathi Interiors | Blog Details</title>
+        <meta name="description" content="Explore in-depth insights on the latest interior design trends, expert tips, and innovative ideas. Stay updated with Pragathi Interiors' blog for the best home and office decor inspirations." />
+        <meta name="keywords" content="interior design blog, home decor tips, latest interior trends, interior design ideas, modern interiors, home renovation, office interiors, luxury interiors, interior styling, Pragathi Interiors blog" />
+    </head>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
@@ -32,7 +37,7 @@
                 <div class="container">
                     <article class="blog-detail-1">
                         <header class="entry-header">
-                            <h2 class="entry-title">The greastest architect</h2>
+                            <h1 class="entry-title">The greastest architect</h1>
                             <span class="entry-date">12 - August - 2018</span>
                         </header>
                         <div class="entry-content">

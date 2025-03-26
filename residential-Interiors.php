@@ -4,9 +4,11 @@
         <?php
             include './shared/header.php'
         ?>
-<head>
-<title>Pragathi Interiors | Residential Interiors</title>
-</head>
+        <head>
+            <title>Pragathi Interiors | Residential Interiors</title>
+            <meta name="description" content="Upgrade your home with expert residential interior designs. Explore stylish living rooms, cozy bedrooms, modular kitchens, elegant dining rooms, and luxurious bathrooms designed for comfort and elegance." />
+            <meta name="keywords" content="residential interiors, living room design, bedroom interiors, modular kitchen, dining room decor, bathroom design, home interiors, luxury home design, modern home decor, interior styling" />
+        </head>
 <body class="">
     <div class="page-wrapper">
         <!-- HEADER-->

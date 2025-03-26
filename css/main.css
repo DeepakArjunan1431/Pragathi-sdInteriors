@@ -42,14 +42,14 @@ img {
   height: auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1, h1, h3, h4, h5, h6 {
   font-family: "Poppins", Arial, "Helvetica Neue", sans-serif;
   font-weight: 700;
   text-transform: none;
   line-height: 1.2;
 }
 
-h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a {
+h1 > a, h1 > a, h3 > a, h4 > a, h5 > a, h6 > a {
   display: inline-block;
   line-height: 1.2;
 }
@@ -58,7 +58,7 @@ h1 {
   font-size: 36px;
 }
 
-h2 {
+h1 {
   font-size: 30px;
 }
 
@@ -89,7 +89,7 @@ ul {
  * A very simple reset that sits on top of Normalize.css.
  */
 body,
-h1, h2, h3, h4, h5, h6,
+h1, h1, h3, h4, h5, h6,
 blockquote, p, pre,
 dl, dd, ol, ul,
 figure,
@@ -16538,7 +16538,7 @@ button:focus {
 .cta-banner{
   align-items: center;
 }
-.cta-banner__content h2{
+.cta-banner__content h1{
   color:white;
 }
 .cta-banner__content p{
@@ -16587,7 +16587,7 @@ font-weight: 500;
 margin-bottom: 15px;
 }
 
-.sec-title h2{
+.sec-title h1{
 position: relative;
 display: block;
 font-size:40px;
@@ -16597,7 +16597,7 @@ font-weight: 600;
 padding-bottom:18px;
 }
 
-.sec-title h2:before{
+.sec-title h1:before{
 position:absolute;
 content:'';
 left:0px;
@@ -16616,11 +16616,11 @@ font-weight: 400;
 margin-top: 35px;
 }
 
-.sec-title.light h2{
+.sec-title.light h1{
 color: #ffffff;
 }
 
-.sec-title.text-center h2:before{
+.sec-title.text-center h1:before{
 left:50%;
 margin-left: -25px;
 }
@@ -16754,7 +16754,7 @@ border-radius: 50px;
     left: 90px;
     width:65%;
   }
-  .about-section .image-column .inner-column .author-desc h2{
+  .about-section .image-column .inner-column .author-desc h1{
     font-size: 18px !important;
   }
   .about-section .image-column .inner-column .author-desc span{
@@ -16763,7 +16763,7 @@ border-radius: 50px;
   .about-section .content-column .inner-column {
     padding-left:1px;
   }
-  .cta-about-div h2{
+  .cta-about-div h1{
     font-size:22px;
   }
   .media-project-3.right .media__content{
@@ -16774,7 +16774,7 @@ border-radius: 50px;
   }
 }
 
-.about-section .image-column .inner-column .author-desc h2{
+.about-section .image-column .inner-column .author-desc h1{
 font-size: 21px;
 letter-spacing: 1px;
 text-align: center;
@@ -16878,7 +16878,7 @@ color: #ffffff;
   align-items: center;
   justify-content: center;
 }
-.banner-div h2 span{
+.banner-div h1 span{
   color:white;
   font-size:3rem;
 }
@@ -17299,7 +17299,7 @@ color: #ffffff;
 .image-side {
  padding:0px !important;
 }
-.content-side h2{
+.content-side h1{
   color:white;
 }
 .content-side p{
@@ -17314,7 +17314,7 @@ color: #ffffff;
   font-size:15px;
 }
 @media(max-width:600px){
-  .content-side h2{
+  .content-side h1{
     font-size:15px;;
   }
   .content-child p{
@@ -17325,7 +17325,7 @@ color: #ffffff;
   }
 }
 @media(max-width:800px) and (min-width:699px){
-  .content-side h2{
+  .content-side h1{
     font-size:20px;;
   }
   .content-child p{

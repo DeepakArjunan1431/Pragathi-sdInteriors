@@ -4,9 +4,11 @@
         <?php
             include './shared/header.php'
         ?>
-<head>
-<title>Pragathi Interiors | Outdoor Designs</title>
-</head>
+    <head>
+        <title>Pragathi Interiors | Outdoor Designs</title>
+        <meta name="description" content="Transform your outdoor spaces with expert outdoor design solutions. Explore hardscaping, landscaping, water features, outdoor furniture, and more to create a stunning outdoor ambiance." />
+        <meta name="keywords" content="outdoor designs, landscape design, hardscaping, outdoor furniture, garden decor, water features, patio design, backyard transformation, exterior decor, outdoor living spaces" />
+    </head>
 <body class="">
     <div class="page-wrapper">
         <!-- HEADER-->
@@ -33,7 +35,7 @@
              <section class="outdoor-banner-sec p-t-100 p-b-65">
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h2 class="title-1"><span class=" text-center">Outdoor Designs</span></h2>
+                            <h1 class="title-1"><span class=" text-center">Outdoor Designs</span></h1>
                         </div>
                 </div>
             </section> 
@@ -54,7 +56,7 @@
                                     <div class="media__content">
                                         <div class="pointer"></div>
                                         <h4 class="title-sub title-sub--c8">Outdoor Designs</h4>
-                                        <h2 class="title-3">Outdoor Designs</h2>
+                                        <h1 class="title-3">Outdoor Designs</h1>
                                         <p class="media__text">Create a beautiful outdoor space with expert tips on hardscaping, plants, water features and furniture.</p>
                                     </div>
                                 </div>

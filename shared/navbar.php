@@ -53,9 +53,6 @@
                                                     </li>
                                                 </ul>
                                             </li>
-                                            <!-- <li class="menu-item">
-                                                <a href="project-detail-1.php">projects</a>
-                                            </li> -->
                                             <Button class="au-btn au-btn--arrow">
                                             <li class="menu-item">
                                                 <a class="hot" href="contact.php">contact</a>
@@ -146,9 +143,6 @@
                                         </li>
                                     </ul>
                             </li>
-                            <!-- <li class="menu-item">
-                                <a href="project-detail-1.php">projects</a>
-                            </li> -->
                             <li class="menu-item">
                                 <a href="contact.php">contact</a>
                             </li>

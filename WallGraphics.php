@@ -4,9 +4,11 @@
         <?php
             include './shared/header.php'
         ?>
-<head>
-<title>Pragathi Interiors | Wall Graphics</title>
-</head>
+    <head>
+        <title>Pragathi Interiors | Wall Graphics</title>
+        <meta name="description" content="Elevate your walls with stunning wall graphics, including wallpapers, texture painting, art painting, and reinforced fiberglass materials. Add style and creativity to any space." />
+        <meta name="keywords" content="wall graphics, wallpaper design, wall texture painting, art painting, fiberglass wall material, decorative walls, interior wall decor, modern wall designs" />
+    </head>
 <body class="">
     <div class="page-wrapper">
         <!-- HEADER-->
@@ -33,7 +35,7 @@
              <section class="Wall-Graphics-sec p-t-100 p-b-65">
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h2 class="title-1"><span class=" text-center">Wall Graphics</span></h2>
+                            <h1 class="title-1"><span class=" text-center">Wall Graphics</span></h1>
                         </div>
                 </div>
             </section> 
@@ -54,7 +56,7 @@
                                     <div class="media__content">
                                         <div class="pointer"></div>
                                         <h4 class="title-sub title-sub--c8">Wall Graphics</h4>
-                                        <h2 class="title-3">Wall Paper</h2>
+                                        <h1 class="title-3">Wall Paper</h1>
                                         <p class="media__text">Enhance your space with our premium wall paper and stretch ceiling solutions. Choose from a variety of designs and colors for wall paper to add unique style, while our stretch ceilings offer modern and functional enhancements. Discover how these elements can create a stunning and personalized environment for your home or office.</p>
                                     </div>
                                 </div>
@@ -78,7 +80,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Wall Graphics</h4>
-                                    <h2 class="title-3">Wall Texture Painting</h2>
+                                    <h1 class="title-3">Wall Texture Painting</h1>
                                     <p class="media__text">We specialize in wall texture painting, offering expert techniques to enhance your interiors. Our team creates stunning textures that add depth and character to your space. Trust us to bring your vision to life with professional and high-quality results.
                                         </p>
                                 </div>
@@ -104,7 +106,7 @@
                                     <div class="media__content">
                                         <div class="pointer"></div>
                                         <h4 class="title-sub title-sub--c8">Painting Wall Mural</h4>
-                                        <h2 class="title-3">Art Painting</h2>
+                                        <h1 class="title-3">Art Painting</h1>
                                         <p class="media__text">Enhance your space with our premium wall paper and stretch ceiling solutions. Choose from a variety of designs and colors for wall paper to add unique style, while our stretch ceilings offer modern and functional enhancements. Discover how these elements can create a stunning and personalized environment for your home or office.</p>
                                     </div>
                                 </div>
@@ -128,7 +130,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Fiber Wall Mural</h4>
-                                    <h2 class="title-3">Reinforced Fiberglass material</h2>
+                                    <h1 class="title-3">Reinforced Fiberglass material</h1>
                                     <p class="media__text">We specialize in wall texture painting, offering expert techniques to enhance your interiors. Our team creates stunning textures that add depth and character to your space. Trust us to bring your vision to life with professional and high-quality results.
                                         </p>
                                 </div>

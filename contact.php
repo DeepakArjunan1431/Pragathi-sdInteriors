@@ -4,9 +4,11 @@
         <?php
             include './shared/header.php'
         ?>
-        <head>
-<title> Pragathi Interiors | Contact</title>
-</head>
+    <head>
+        <title> Pragathi Interiors | Contact</title>
+        <meta name="description" content="Get in touch with Pragathi Interiors for expert interior design solutions. Contact us for residential, commercial, and custom interior projects. We’re here to bring your vision to life." />
+        <meta name="keywords" content="contact Pragathi Interiors, interior design consultation, get in touch, interior design services, residential interiors, commercial interiors, custom interiors, interior solutions, home decor consultation" />
+    </head>
 
 <body class="">
     <div class="page-wrapper">
@@ -34,7 +36,7 @@
             <section class="contact-banner-sec p-t-100 p-b-65">
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h2 class="title-1"><span class=" text-center">Contact Us</span></h2>
+                            <h1 class="title-1"><span class=" text-center">Contact Us</span></h1>
                         </div>
                 </div>
             </section> 
@@ -45,7 +47,7 @@
                 <div class="container">
                     <div class="page-heading">
                         <h4 class="title-sub title-sub--c8 m-b-15">Let’s work with us</h4>
-                        <h2 class="title-2">Together we can make dreams come true</h2>
+                        <h1 class="title-2">Together we can make dreams come true</h1>
                     </div>
                 </div>
             </section>

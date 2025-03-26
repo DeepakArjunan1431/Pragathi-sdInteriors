@@ -4,6 +4,11 @@
         <?php
             include './shared/header.php'
         ?>
+    <head>
+        <title> Pragathi Interiors | Blog</title>
+        <meta name="description" content="Looking for the best interior designer in Pondicherry? Learn how to choose the right one by considering experience, communication, budget, client reviews, local knowledge, and more. Explore Pragathi Interiors' expert approach." />
+        <meta name="keywords" content="interior designer in Pondicherry, best interior designers, home interiors, office interiors, experience in interior design, budget-friendly interiors, client testimonials, local interior designers, design development, project management, Pragathi Interiors, concept development, home decor tips" />
+    </head>
 
 <body class="animsition js-preloader">
     <div class="page-wrapper">
@@ -31,7 +36,7 @@
             <section class="banner-about p-t-100 p-b-65" >
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h2 class="title-1"><span class=" text-center"> Blogs</span></h2>
+                            <h1 class="title-1"><span class=" text-center"> Blogs</span></h1>
                         </div>
                 </div>
             </section> 
@@ -71,7 +76,7 @@
                             </article>
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="blog-grid.php">
+                                    <a href="">
                                         <img style="width:100%" src="images/blogs/blog-2.jpg" alt="Understanding of Budget and Timeline" />
                                     </a>
                                 </figure>
@@ -86,7 +91,7 @@
                                     <span class="entry-meta">Personality and Fit:</span>
                                     <p class="entry-excerpt">Ultimately, you'll be working closely with your designer, so it's important to choose someone you connect with on a personal level. A good working relationship will make the design process smoother and more enjoyable.</p>
                                     <h4 class="entry-title">
-                                        <a href="blog-grid.php">Pragathi Interiors' Approach:</a>
+                                        <a href="">Pragathi Interiors' Approach:</a>
                                     </h4>
                                     <p class="entry-excerpt">At Pragathi Interiors Pondicherry, we understand that every client is unique. Our process begins with a thorough consultation to understand your vision, lifestyle, and budget. We believe in a collaborative approach, working closely with you to develop a design that reflects your personal style and meets your specific needs.</p>
                                     <span class="entry-meta">Initial Consultation:</span>
@@ -97,7 +102,7 @@
                             </article>
                             <article class="blog">
                                 <figure class="entry-image">
-                                    <a href="blog-grid.php">
+                                    <a href="">
                                         <img src="images/blogs/blog-3.avif" alt="Design Development" />
                                     </a>
                                 </figure>
