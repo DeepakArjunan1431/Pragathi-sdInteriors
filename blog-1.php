@@ -77,7 +77,7 @@
                             <article class="blog">
                                 <figure class="entry-image">
                                     <a href="">
-                                        <img style="width:100%" src="images/blogs/blog-2.jpg" alt="Understanding of Budget and Timeline" />
+                                        <img style="width:100%" src="images/blogs/blog-2.filter.jpg" alt="Understanding of Budget and Timeline" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">

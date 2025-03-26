@@ -87,14 +87,14 @@
                 <div class="row  container-vision">
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/14014/14014311.png" alt="oru version">
+                            <img src="images/about/vision.png" alt="oru version">
                         </div>
                             <h1 class="cardLabel">Our <span class="heading-span">Vision</span></h1>
                             <p>Our vision is to lead in interior design and stretch ceilings, known for creativity and excellence. We aim to innovate with cutting-edge stretch ceiling solutions and set new standards in design and service. Our goal is to inspire and elevate spaces, enhancing the everyday lives of our clients.</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
-                            <img src="https://cdn-icons-png.flaticon.com/128/15550/15550310.png" alt="our mission">
+                            <img src="images/about/mission.png" alt="our mission">
                         </div>
                             <h1 class="cardLabel">Our <span class="heading-span">Mission</span></h1>
                             <p>At Pragathi Interiors, our mission is to create stunning and functional spaces that reflect our clients' unique styles. We are dedicated to delivering exceptional quality and innovative design solutions, focusing on professionalism and customer satisfaction.</p>
