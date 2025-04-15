@@ -27,7 +27,13 @@
                                                     </li>
                                                     <li class="menu-item">
                                                         <a href="blog-2.php">Interior Design Trends</a>
-                                                    </li>                                                      
+                                                    </li>   
+                                                    <li class="menu-item">
+                                                        <a href="blog-3.php">Budget Design</a>
+                                                    </li>
+                                                    <li class="menu-item">
+                                                        <a href="blog-4.php">Psychology of Color</a>
+                                                    </li>                                                   
                                                 </ul>
                                             </li>
                                             <li class="menu-item menu-item-has-children">

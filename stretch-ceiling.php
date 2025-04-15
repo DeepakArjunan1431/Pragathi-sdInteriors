@@ -38,7 +38,7 @@
              <section class="stretch-banner-sec p-t-100 p-b-65">
                 <div class="banner-div">
                         <div class="banner-div">
-                            <h2 class="title-1"><span class=" text-center">Stretch Ceilings</span></h2>
+                            <h1 class="title-1"><span class=" text-center">Stretch Ceilings</span></h1>
                         </div>
                 </div>
             </section> 
@@ -58,7 +58,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Translucent</h2>
+                                    <h1 class="title-3">Translucent</h1>
                                     <p class="media__text">Translucent stretch ceilings provide distinctive benefits. They enable the gentle diffusion of natural light, illuminating the area and diminishing reliance on artificial lighting, thus fostering a warm and inviting ambiance while conserving energy.</p>
                                 </div>
                             </div>
@@ -82,7 +82,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Printed</h2>
+                                    <h1 class="title-3">Printed</h1>
                                     <p class="media__text">Printed stretch ceilings provide customizable designs that enhance aesthetics, reduce stress, and cultivate a positive atmosphere. 
                                         </p>
                                 </div>
@@ -107,7 +107,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">3D Forms</h2>
+                                    <h1 class="title-3">3D Forms</h1>
                                     <p class="media__text">3D stretch Form are created by engi- neering multilevel framing structures using the latest fabrication technologies.</p>
                                 </div>
                             </div>
@@ -131,7 +131,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Light Boxes</h2>
+                                    <h1 class="title-3">Light Boxes</h1>
                                     <p class="media__text">These frameworks can be illuminated and installed against ceilings, walls, and pillars to provide unique and extraordinary looks to your space.</p>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Lacquer</h2>
+                                    <h1 class="title-3">Lacquer</h1>
                                     <p class="media__text">Lacquer ceilings can reflect light beautifully, giving rooms a luminous and sophisticated appearance. They are also relatively easy to clean and maintain, making them a popular choice for spaces where hygiene and aesthetics are both important.</p>
                                 </div>
                             </div>
@@ -179,7 +179,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Stretch Ceilings</h4>
-                                    <h2 class="title-3">Acoustic</h2>
+                                    <h1 class="title-3">Acoustic</h1>
                                     <p class="media__text">Acoustic stretch ceilings are a specialized type of stretch ceiling designed to address sound related issues in interior spaces. These ceilings combine the aesthetic advantages of stretch ceilings with acoustic properties, creating an environment that is both visually pleasing and acoustically comfortable.</p>
                                 </div>
                             </div>

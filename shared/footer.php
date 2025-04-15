@@ -39,9 +39,6 @@
                                     <li>
                                         <a href="index.php#ourservice">Service</a>
                                     </li>
-                                    <!-- <li>
-                                        <a href="project=detail-3.php">Projects</a>
-                                    </li> -->
                                     <li>
                                         <a href="contact.php">Contact</a>
                                     </li>
@@ -59,6 +56,12 @@
                                     </li>
                                     <li>
                                         <a href="blog-2.php">Interior Design Trends</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog-3.php">Budget Design</a>
+                                    </li>
+                                    <li>
+                                        <a href="blog-4.php">Psychology of Color</a>
                                     </li>
                                 </ul>
                             </div>

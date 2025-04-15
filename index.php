@@ -527,90 +527,6 @@
             </section>
             <!-- SINGLE PROJECT END-->
 
-            <!-- TESTI-->
-            <section class="d-none p-t-35 p-b-85">
-                <div class="container">
-                    <div class="section-title m-b-80">
-                        <h5 class="title-sub"><span class="sub-heading-span">testimonial</span></h5>
-                        <h1 class="title-1">What <span class="heading-span">people say</span></h1>
-                    </div>
-                    <div class="slick-wrap slick-testi js-slick-wrapper" data-slick-xs="1" data-slick-sm="1" data-slick-md="1" data-slick-lg="2" data-slick-xl="2" data-slick-customnav="true" data-slick-autoplay="true">
-                        <div class="slick-wrap-content">
-                            <div class="slick-content js-slick-content">
-                                <div class="slick-item">
-                                    <div class="media-testi">
-                                        <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</p>
-                                        <div class="media__title">
-                                            <span class="ti-quote-left quote"></span>
-                                            <h4 class="name">
-                                                <a href="#">Pearl Rivera</a>
-                                            </h4>
-                                            <span class="job">Au Founder</span>
-                                        </div>
-                                        <figure class="media__img img--rounded">
-                                            <img src="images/testi-01.jpg" alt="Pearl Rivera" />
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="slick-item">
-                                    <div class="media-testi">
-                                        <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</p>
-                                        <div class="media__title">
-                                            <span class="ti-quote-left quote"></span>
-                                            <h4 class="name">
-                                                <a href="#">Ray Owens</a>
-                                            </h4>
-                                            <span class="job">Loco CEO</span>
-                                        </div>
-                                        <figure class="media__img img--rounded">
-                                            <img src="images/testi-02.jpg" alt="Ray Owens" />
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="slick-item">
-                                    <div class="media-testi">
-                                        <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</p>
-                                        <div class="media__title">
-                                            <span class="ti-quote-left quote"></span>
-                                            <h4 class="name">
-                                                <a href="#">Megan Fernandez</a>
-                                            </h4>
-                                            <span class="job">BigBit Founder</span>
-                                        </div>
-                                        <figure class="media__img img--rounded">
-                                            <img src="images/testi-03.jpg" alt="Megan Fernandez" />
-                                        </figure>
-                                    </div>
-                                </div>
-                                <div class="slick-item">
-                                    <div class="media-testi">
-                                        <p class="media__text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-                                            commodo consequat.</p>
-                                        <div class="media__title">
-                                            <span class="ti-quote-left quote"></span>
-                                            <h4 class="name">
-                                                <a href="#">Jack Hopkins</a>
-                                            </h4>
-                                            <span class="job">Bitbucket CEO</span>
-                                        </div>
-                                        <figure class="media__img img--rounded">
-                                            <img src="images/testi-04.jpg" alt="Jack Hopkins" />
-                                        </figure>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="slick__nav arrows-1">
-                            <i class="slick-prev slick-arrow js-slick-prev ti-angle-left"></i>
-                            <i class="slick-next slick-arrow js-slick-next ti-angle-right"></i>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- END TESTI-->
 
             <!-- CTA START -->
              <section class="cta-section">
@@ -640,7 +556,7 @@
                             <article class="blog">
                                 <figure class="entry-image">
                                     <a href="">
-                                        <img src="images/blog-01.jpg" alt="the  villa overlooks dramatic mountainous scenery" />
+                                        <img src="images/blogs/blog-1.jpg" alt="the  villa overlooks dramatic mountainous scenery" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
@@ -657,7 +573,7 @@
                             <article class="blog">
                                 <figure class="entry-image">
                                     <a href="">
-                                        <img src="images/blog-02.jpg" alt="Will Bruder clads a mountain home in Aspen" />
+                                        <img src="images/blogs/blog-2.jpg" alt="Will Bruder clads a mountain home in Aspen" />
                                     </a>
                                 </figure>
                                 <div class="entry-summary">
