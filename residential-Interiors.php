@@ -200,7 +200,7 @@
     <script src="vendor/noUiSlider/nouislider.min.js"></script>
 
     <!-- Main JS-->
-    <script src="js/global.js"></script>
+    <script src="js/global.min.js"></script>
 
 </body>
 

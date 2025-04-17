@@ -31,7 +31,7 @@
     <link href="./vendor/revolution/css/settings.css" rel="stylesheet" />
 
     <!-- Main CSS-->
-    <link href="./css/main.css" rel="stylesheet" media="all">
+    <link href="./css/main.min.css" rel="stylesheet" media="all">
     <link rel="stylesheet" href="./css/custom.css">
 
     <!--Favicons-->

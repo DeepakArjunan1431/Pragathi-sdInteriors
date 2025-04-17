@@ -33,7 +33,7 @@
             <!-- END PAGE LINE-->
 
             <!-- PAGE HEADING-->
-            <section class="banner-blog-1 p-t-100 p-b-65" >
+            <section class="banner-blog-3 p-t-100 p-b-65" >
                 <div class="banner-div">
                         <div class="banner-div">
                             <h1 class="title-1"><span class="text-center"> Blogs</span></h1>
@@ -214,7 +214,7 @@
     <script src="vendor/noUiSlider/nouislider.min.js"></script>
 
     <!-- Main JS-->
-    <script src="js/global.js"></script>
+    <script src="js/global.min.js"></script>
 
 </body>
 
