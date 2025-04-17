@@ -57,7 +57,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Office</h1>
+                                    <h2 class="title-3">Office</h2>
                                     <p class="media__text">Organized and highly sophisticated corporate office areas are offered by us. Spacious cupboards to store the
                                         files and comfortable furniture are some of the vital things that we always incorporate in our interior designing.
                                         Pragathi Interiors adopts the Latest office equipments for providing better space and innovative work place.</p>
@@ -83,7 +83,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Hospital</h1>
+                                    <h2 class="title-3">Hospital</h2>
                                     <p class="media__text">Hospitals and healthcare centers are repository of good health, recuperation and fountainhead of healing the body and mind. Such
                                         a place should have interiors that are positive, expansive with enough natural light and air is but a natural expectation. The core
                                         of the healthcare express the body, heart, mind, or spirit.
@@ -110,7 +110,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Showroom</h1>
+                                    <h2 class="title-3">Showroom</h2>
                                     <p class="media__text">OWe offer showroom interior design for well spaced and organizes showrooms keeping the aesthetic sense and other requirements of
                                             our clients in mind.</p>
                                     
@@ -136,7 +136,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Hotel</h1>
+                                    <h2 class="title-3">Hotel</h2>
                                     <p class="media__text">The hotels, in order to attract more footfalls and guest stay need a space design that is not only comfortable but must immediately
                                         create a sense of belonging among the guests. While designing a hotel there are few things we immediately focus our attention to.
                                         These are lighting, floors, furniture and walls. The way the guest rooms are lighted can make them feel spacious and inviting. </p>
@@ -162,7 +162,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Restaurant</h1>
+                                    <h2 class="title-3">Restaurant</h2>
                                     <p class="media__text">The Restaurants Interior Designing services offered by us delivers even the most unimpressive staid and narrow space and linear
                                         floor plan into an inspirational space where gastronomic pleasure attains a new spiritual height.</p>
                                 </div>
@@ -187,7 +187,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Banking</h1>
+                                    <h2 class="title-3">Banking</h2>
                                     <p class="media__text">Banks require professional and appealing getup, which can be perfectly provided by us.</p>
                                 </div>
                             </div>
@@ -211,7 +211,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Education Institution</h1>
+                                    <h2 class="title-3">Education Institution</h2>
                                     <p class="media__text">We offer comprehensive Institution Interior Design Services. The overall effect should be calming, comforting and not a strange
                                         place where one feels out of place.</p>
                                 </div>
@@ -236,7 +236,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Spa & Salons</h1>
+                                    <h2 class="title-3">Spa & Salons</h2>
                                     <p class="media__text">Spa Interior Design enables privacy requirements of customers, ease of maintenance and a cheerful atmosphere with plenty of
                                         natural/ electric light, spaciousness and total lack of constrictiveness.</p>
                                 </div>
@@ -261,7 +261,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Gym & Home Theater</h1>
+                                    <h2 class="title-3">Gym & Home Theater</h2>
                                     <p class="media__text">Home Gym is a wonderful way to ensure that you don’t miss out on any of your workout routines.</p>
                                 </div>
                             </div>
@@ -285,7 +285,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Commercial Interiors</h4>
-                                    <h1 class="title-3">Government Projects</h1>
+                                    <h2 class="title-3">Government Projects</h2>
                                     <p class="media__text"></p>
                                 </div>
                             </div>

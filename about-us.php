@@ -52,7 +52,7 @@
                             <div class="inner-column">
                                 <div class="">
                                     <span class="title">ABOUT PRAGATHI INTERIORS</span>
-                                    <h1 class="title-1">Crafting <span class="heading-span">Beautiful Interiors and Stretch Ceiling</span> with Excellence.</h1>
+                                    <h2 class="title-1">Crafting <span class="heading-span">Beautiful Interiors and Stretch Ceiling</span> with Excellence.</h2>
                                 </div>
                                 <div class="text">
                                     Pragathi Interiors Concept is a premier interior design company based in the vibrant city of Puducherry, renowned for its expertise in both interior design and stretch ceilings. We specialize in providing comprehensive turnkey project solutions, ensuring the highest standards of quality and craftsmanship for a wide range of interior needs.
@@ -68,7 +68,7 @@
                         <div class="image-column col-lg-6 col-md-12 col-sm-12">
                             <div class="inner-column wow fadeInLeft">
                             <div class="author-desc">
-                                <h1>Specializing in</h1>
+                                <h2>Specializing in</h2>
                                 <span> Turn key project </span>
                             </div>
                                 <figure class="image-1"><a  class="lightbox-image" data-fancybox="images"><img title="" src="images/pragathi-images/about-page.avif" alt="about"></a></figure>
@@ -89,14 +89,14 @@
                         <div class="cardItem-img">
                             <img src="images/about/vision.png" alt="oru version">
                         </div>
-                            <h1 class="cardLabel">Our <span class="heading-span">Vision</span></h1>
+                            <h2 class="cardLabel">Our <span class="heading-span">Vision</span></h2>
                             <p>Our vision is to lead in interior design and stretch ceilings, known for creativity and excellence. We aim to innovate with cutting-edge stretch ceiling solutions and set new standards in design and service. Our goal is to inspire and elevate spaces, enhancing the everyday lives of our clients.</p>
                     </div>
                     <div class="col-lg-4 col-md-4 col-sm-12 cardItem">
                         <div class="cardItem-img">
                             <img src="images/about/mission.png" alt="our mission">
                         </div>
-                            <h1 class="cardLabel">Our <span class="heading-span">Mission</span></h1>
+                            <h2 class="cardLabel">Our <span class="heading-span">Mission</span></h2>
                             <p>At Pragathi Interiors, our mission is to create stunning and functional spaces that reflect our clients' unique styles. We are dedicated to delivering exceptional quality and innovative design solutions, focusing on professionalism and customer satisfaction.</p>
                     </div>
                 </div>
@@ -109,7 +109,7 @@
                     <div class="left"></div>
                     <div class="right">
                         <div class="content">
-                            <h1>Founder's Note</h1>
+                            <h2 class="founder-note">Founder's Note</h2>
                             <p>At Pragathi Interiors, we believe that great design transforms not just spaces but lives. Our journey began with a passion for creating environments that blend aesthetic beauty with functional excellence. As the founder, I am proud of our team's dedication to delivering outstanding interior design solutions and stretch ceiling innovations.</p>
                             <p>Our mission has always been to exceed expectations through quality craftsmanship and a personalized approach. We understand that every project is unique, and we are committed to understanding your vision and bringing it to life with creativity and precision.</p>
                             
@@ -125,7 +125,7 @@
             <section class="section-stats p-t-80">
                     <div class="section-title">
                         <!-- <h5 class="title-sub"><span class="sub-heading-stat">want to know more</span></h5> -->
-                        <h1 class="title-1">Our Quick <span style="color:white">Stats</span></h1>
+                        <h2 class="title-1">Our Quick <span style="color:white">Stats</span></h2>
                     </div>
                 <div class="container">
                     <div class="row no-gutters">
@@ -177,7 +177,7 @@
                         <div class="content-child">
                         <div class="image-child"><img src="images/icon/iceil-logo-white.png" alt="Global Partnerships"></div><br>
 
-                            <h1>Global Partnerships, Local Excellence</h1>
+                            <h2>Global Partnerships, Local Excellence</h2>
                             <p>We are proud to partner with ICEIL, a leader in stretch ceilings and No:1 Stretch Ceiling manufacturer in India. With a network of worldwide partners, we bring unparalleled expertise and quality to our interior design and stretch ceiling solutions.</p>
                             <p><a class="underline" href="https://iceilsystems.com/" target="_blank">View ICEIL's website</a> to learn more about their innovative solutions.</p>
                         </div>
@@ -212,7 +212,7 @@
                 <div class="container">
                     <div class="section-title">
                         <h5 class="title-sub">what we do</h5>
-                        <h1 class="title-1">Our specilization</h1>
+                        <h2 class="title-1">Our specilization</h2>
                     </div>
                     <div class="row no-gutters">
                         <div class="col-md-6 col-lg-4">
@@ -270,7 +270,7 @@
                 <div class="container-fluid">
                     <div class="section-title">
                         <h5 class="title-sub"><span class="sub-heading-span">meet our</span></h5>
-                        <h1 class="title-1"><span class="heading-span">AWESOME </span>Team</h1>
+                        <h2 class="title-1"><span class="heading-span">AWESOME </span>Team</h2>
                     </div>
                     <div class="row bg-color-team">
                         <div class="col-md-6 col-lg-4">
@@ -349,7 +349,7 @@
                 <div class="cta-div">
                     <div class="row cta-banner">
                         <div class="col-lg-12 col-md-12 col-sm-12 cta-banner__content">
-                            <h1>Our goal is to craft unique and innovative stretch ceiling solutions.</h1>
+                            <h2>Our goal is to craft unique and innovative stretch ceiling solutions.</h2>
                             <a class="button-white" href="stretch-ceiling.php">Explore Our Services
                                 <i class="zmdi zmdi-arrow-right ic-arrow"></i>
                             </a>

@@ -56,7 +56,7 @@
                                     <div class="media__content">
                                         <div class="pointer"></div>
                                         <h4 class="title-sub title-sub--c8">Outdoor Designs</h4>
-                                        <h1 class="title-3">Outdoor Designs</h1>
+                                        <h2 class="title-3">Outdoor Designs</h2>
                                         <p class="media__text">Create a beautiful outdoor space with expert tips on hardscaping, plants, water features and furniture.</p>
                                     </div>
                                 </div>

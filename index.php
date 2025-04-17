@@ -205,7 +205,7 @@
                             <div class="col-lg-7 col-md-7 col-sm-12">
                                 <div class="media__body">
                                     <h5 class="title-sub"><span class="sub-heading-span">about us</span></h5>
-                                    <h1 class="title-1">We are specialists in the field of <span class="heading-span">Stretch Ceiling and Interior Designs</span></h1>
+                                    <h2 class="title-1">We are specialists in the field of <span class="heading-span">Stretch Ceiling and Interior Designs</span></h2>
                                     <p class="media__text">Pragathi Interiors Concept is a professional interior design company based in Puducherry. We specialize in Turnkey Projects for all interior design needs, including residential and commercial interiors, outdoor design, and allied services.
                                        <br>In addition, we offer innovative stretch ceiling solutions to enhance the aesthetic and functionality of your spaces. Our commitment to quality and comprehensive execution ensures a seamless experience from design to implementation.</p>
                                     <a class="au-btn au-btn--arrow" href="about-us.php">Read more
@@ -235,7 +235,7 @@
                 <div class="container">
                     <div class="section-title">
                         <h5 class="title-sub"><span class="sub-heading-span">what we do</span></h5>
-                        <h1 class="title-1">Our <span class="heading-span">Specilization</span></h1>
+                        <h2 class="title-1">Our <span class="heading-span">Specilization</span></h2>
                     </div>
                     <div class="row no-gutters" style="justify-content:center">
                         <div class="col-md-6 col-lg-4">
@@ -290,7 +290,7 @@
             <section class="wrap wrap--w1790 p-b-75" id="ourservice">
                 <div class="section-title m-b-70">
                     <h5 class="title-sub"><span class="sub-heading-span">Every day Service for Customer</span></h5>
-                    <h1 class="title-1">Our <span class="heading-span">Services</span></h1>
+                    <h2 class="title-1">Our <span class="heading-span">Services</span></h2>
                 </div>
                 <div class="container-fluid">
                     <div class="slick-wrap slick-project js-slick-wrapper" data-slick-xs="1" data-slick-sm="2" data-slick-md="2" data-slick-lg="4" data-slick-xl="4" data-slick-dots="false" data-slick-customnav="true" data-slick-autoplay="false">
@@ -462,7 +462,7 @@
                 <div class="single-project-div">
                         <div class="single-inner-div">
                             <h5 class="title-sub"><span class="sub-heading-span">Featured Service</span></h5>
-                            <h1 class="title-1"><span class="heading-span">Stretch Ceiling</span></h1>
+                            <h2 class="title-1"><span class="heading-span">Stretch Ceiling</span></h2>
                             <p class="single-project-para">Stretch ceilings offer a modern and flexible solution for both residential and commercial spaces, combining aesthetics with practical benefits. Their growing popularity is driven by the ability to create custom designs and the convenience of a durable, low-maintenance ceiling system.</p>
                                     <a class="au-btn au-btn--arrow" href="stretch-ceiling.php">Read more
                                         <i class="zmdi zmdi-arrow-right ic-arrow"></i>
@@ -474,7 +474,7 @@
                             <div class="row">
                                 <div class="col-md-12 col-xl-3">
                                     <div class="section-title section-title--light text-left p-t-15">
-                                        <h1 class="title" style="color:white">Our Clients </h1>
+                                        <h2 class="title" style="color:white">Our Clients </h2>
                                     </div>
                                 </div>
                                 <div class="col-md-12 col-xl-9">
@@ -549,7 +549,7 @@
                 <div class="container">
                     <div class="section-title m-b-70">
                         <h5 class="title-sub"><span class="sub-heading-span">from the blog</span></h5>
-                        <h1 class="title-1">Latest newz</h1>
+                        <h2 class="title-1">Latest newz</h2>
                     </div>
                     <div class="row gutter-xl">
                         <div class="col-md-6">

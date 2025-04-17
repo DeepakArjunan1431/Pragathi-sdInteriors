@@ -56,7 +56,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Furniture</h1>
+                                    <h2 class="title-3">Furniture</h2>
                                     <p class="media__text">Furniture which are completely enclosed, waterproof, non-porous, is used.</p>
                                 </div>
                             </div>
@@ -80,7 +80,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3"> Aluminum & Wooden Partition</h1>
+                                    <h2 class="title-3"> Aluminum & Wooden Partition</h2>
                                     <p class="media__text">Interiors Fabricates and installs aluminum doors, Window and louvers. Free Space Interiors Provides high quality glass
                                     works for office complexes, shopping malls, etc.
                                         </p>
@@ -106,7 +106,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Toughened Glass work</h1>
+                                    <h2 class="title-3">Toughened Glass work</h2>
                                     <p class="media__text">Toughened glass is specifically designed for use in areas where there is a high risk of contact and breakage. It can be used for
                                             exteriors and interiors, such as.</p>
                                 </div>
@@ -131,7 +131,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Railing & SS Grill</h1>
+                                    <h2 class="title-3">Railing & SS Grill</h2>
                                     <p class="media__text">We are offering a wide range of Steel railing and grill. Fabrication services that cater to varied requirements of our broad clientbase. We make use of high quality materials in the fabrication process for maintaining the desired industrial standards. </p>
                                 </div>
                             </div>
@@ -155,7 +155,7 @@
                                 <span><a href="contact.php" class="add">KNOW MORE</a></span>                                <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">ACP and Glazing</h1>
+                                    <h2 class="title-3">ACP and Glazing</h2>
                                     <p class="media__text">The service we offer are mainly used in the glazing of buildings, shop fronts as well as large roof
                                         superstructures for shopping centers and stadiums. Use of aluminum components in the process, offers high strength
                                         and rigidity which ensures the frames remain stable under normal loads.</p>
@@ -182,7 +182,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Wall texture painting</h1>
+                                    <h2 class="title-3">Wall texture painting</h2>
                                     <p class="media__text">Adding texture to walls can give a room richness and depth.</p>
                                 </div>
                             </div>
@@ -207,7 +207,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Painting Interior & Exterior</h1>
+                                    <h2 class="title-3">Painting Interior & Exterior</h2>
                                     <p class="media__text">We work on the entire painting of your exteriors and interiors. We absolutely go by your choice of colors
                                         and brand in painting your buildings.</p>
                                 </div>
@@ -233,7 +233,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3"> Curtains and Blinds</h1>
+                                    <h2 class="title-3"> Curtains and Blinds</h2>
                                     <p class="media__text">We are happy to deal enquiries regarding domestic curtains and blinds, including designer roller blind
                                         sand quality wooden venetian blinds. We can provide stylish curtains and blinds to suit your needs and
                                         to suit your budget.</p>
@@ -260,7 +260,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Vinyl Flooring</h1>
+                                    <h2 class="title-3">Vinyl Flooring</h2>
                                     <p class="media__text">
                                     Interiors also take care of providing you the best flooring for your houses, offices and commercial buildings. We do
                                     any kind of flooring according to your convenience and wish. We work towards the elegance of your floors by
@@ -289,7 +289,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Imported Wall paper and sticker’s murals</h1>
+                                    <h2 class="title-3">Imported Wall paper and sticker’s murals</h2>
                                     <p class="media__text">Liven up your wall space with modern Wallpapers & Decals from most reputed brands. The styles are guaranteed to
                                         add a touch of contemporary flair to any room in your home.</p>
                                 </div>
@@ -315,7 +315,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">Lamps</h1>
+                                    <h2 class="title-3">Lamps</h2>
                                     <p class="media__text">
                                         Hand made specially designed Table Lamps & Lamp Shades, Floor Lamps, Table Lamps, Wall & Ceiling Lamps &
                                         Hanging Lamps, to suit your taste can be offered.
@@ -343,7 +343,7 @@
                                 <div class="media__content">
                                     <div class="pointer"></div>
                                     <h4 class="title-sub title-sub--c8">Allied Services</h4>
-                                    <h1 class="title-3">UPVC Door & Window</h1>
+                                    <h2 class="title-3">UPVC Door & Window</h2>
                                     <p class="media__text">UPVC Doors applicable in homes, offices, restaurant, hotels and many other places provided specially
                                         designed to add exquisite style to the buildings.<br>
                                         UPVC windows are various styles, designs and finish. These windows are very stylish in appeal and

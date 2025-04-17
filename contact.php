@@ -47,7 +47,7 @@
                 <div class="container">
                     <div class="page-heading">
                         <h4 class="title-sub title-sub--c8 m-b-15">Let’s work with us</h4>
-                        <h1 class="title-2">Together we can make dreams come true</h1>
+                        <h2 class="title-2">Together we can make dreams come true</h2>
                     </div>
                 </div>
             </section>
